@@ -10,6 +10,16 @@ website:
         text: Home
       - about.qmd
 
+  page-footer:
+    border: false
+    background: light
+    left: |
+      Lorem ipsum
+    right: |
+      Hello
+    center: |
+      I'm in the middle
+
 format:
   html:
     lang: "it-IT"
