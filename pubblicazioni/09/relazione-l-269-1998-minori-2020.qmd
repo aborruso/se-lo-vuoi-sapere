@@ -1,0 +1,8 @@
+---
+title: "Relazione L. 269/1998 Minori 2020"
+data: 2021-01
+fonte: "Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri"
+image: ./risorse/relazione-l-269-1998-minori-2020_resized.png
+---
+
+{{< include ./include/_09.qmd >}}

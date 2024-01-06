@@ -1,0 +1,8 @@
+---
+title: "I diritti dell'infanzia e dell'adolescenza in Italia"
+data: 2021-11
+fonte: "Gruppo CRC"
+image: ./risorse/i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png
+---
+
+{{< include ./include/_17.qmd >}}

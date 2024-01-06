@@ -1,0 +1,7 @@
+---
+title: "Documento conclusivo approvato dalla commissione sull'indagine conoscitiva sulle forme di violenza fra minorie e ai danni di bambini e adolescenti"
+data: 2020-11
+fonte: "Commissione parlamentare per l'infanzia e l'adolescenza"
+---
+
+{{< include ./include/_18.qmd >}}

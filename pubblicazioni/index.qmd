@@ -1,0 +1,15 @@
+---
+title: "Pubblicazioni"
+listing:
+  type: grid
+  sort:
+    - "data desc"
+  page-size: 60
+  image-placeholder: "../immagini/grid-ph.jpg"
+  fields: [image, title]
+  categories: true
+---
+
+Esse fugiat ad proident laborum veniam. Velit aliqua mollit dolore elit pariatur officia duis voluptate. Sit elit est labore tempor minim do ipsum elit nostrud Lorem. Duis velit anim pariatur ex in commodo eiusmod non. Dolor labore sunt dolor laborum ea sint dolore in dolore officia mollit non cillum.
+
+

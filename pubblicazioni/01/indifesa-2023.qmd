@@ -1,0 +1,9 @@
+---
+title: "Indifesa 2023"
+data: 2023-09
+fonte: "Terre des hommes"
+image: ./risorse/indifesa-2023_resized.png
+categories: [fisica,psicologica,sessuale,negligenza sfruttamento]
+---
+
+{{< include ./include/_01.qmd >}}

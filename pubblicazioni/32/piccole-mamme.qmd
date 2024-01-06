@@ -1,0 +1,7 @@
+---
+title: "Piccole mamme"
+data: 2011
+fonte: "Save the Children"
+---
+
+{{< include ./include/_32.qmd >}}

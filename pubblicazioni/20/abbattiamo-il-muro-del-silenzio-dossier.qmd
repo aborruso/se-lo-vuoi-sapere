@@ -1,0 +1,8 @@
+---
+title: "Abbattiamo il muro del silenzio (dossier)"
+data: 2018-06
+fonte: "Save the Children Italia Onlus"
+image: ./risorse/abbattiamo-il-muro-del-silenzio-dossier_resized.png
+---
+
+{{< include ./include/_20.qmd >}}

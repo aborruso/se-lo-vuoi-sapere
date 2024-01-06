@@ -1,0 +1,9 @@
+---
+title: "Indifesa 2022"
+data: 2022-09
+fonte: "Terre des hommes"
+image: ./risorse/indifesa-2022_resized.png
+categories: [fisica,psicologica,sessuale,negligenza sfruttamento]
+---
+
+{{< include ./include/_02.qmd >}}

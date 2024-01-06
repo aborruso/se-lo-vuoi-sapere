@@ -1,0 +1,8 @@
+---
+title: "Quaderni del Centro nazionale di documentazione e analisi per l’infanzia e l’adolescenza \"USCIRE DAL SILENZIO\""
+data: 2002-12
+fonte: "Istituto degli Innocenti"
+image: ./risorse/quaderni-del-centro-nazionale-di-documentazione-e-analisi-pe_resized.png
+---
+
+{{< include ./include/_13.qmd >}}

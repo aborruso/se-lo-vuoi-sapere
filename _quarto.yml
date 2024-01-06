@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  resources: "immagini/grid-ph.jpg"
 
 website:
   title: "Se-lo-vuoi-sapere"
@@ -26,7 +27,7 @@ format:
     theme:
       - cosmo
       - styles.scss
-    css: styles.css
+    css: styles.scss
     toc: true
     footnotes-hover: false
     citations-hover: false

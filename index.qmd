@@ -1,7 +1,15 @@
 ---
 title: "Se-lo-vuoi-sapere"
+format:
+  html:
+    toc: false
+page-navigation: false
 ---
 
-This is a Quarto website.
+Questo sito nasce con l’intento di far conoscere in modo trasversale il fenomeno delle violenze e maltrattamenti su minori.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Abbiamo raccolto i report on line sulla tematica di abusi su minori, per studiare l’argomento da più vicino nella sua complessità.
+
+Ci siamo resi conto che i dati a disposizione sui maltrattamenti e violenze sullə bambinə ed adolescenti sono pochi e non sempre di facile fruizione, quindi ci siamo adoperati per raccoglierli agevolando la ricerca per tutte le persone che vogliono conoscere e studiare il fenomeno.
+
+II sito è suddiviso in categorie specifiche raggiungibili velocemente attraverso i link indicati.

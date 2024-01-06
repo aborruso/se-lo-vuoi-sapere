@@ -1,0 +1,8 @@
+---
+title: "Indagine Quali-Quantitativa su abusi e violenze nell sport"
+data: 2023-06
+fonte: "General report Italia, Nielsen, Change the game in collaborazione con: Terre des hommes, CISMAI, Dipartimento per lo sport."
+image: ./risorse/indagine-quali-quantitativa-su-abusi-e-violenze-nell-sport_resized.png
+---
+
+{{< include ./include/_07.qmd >}}

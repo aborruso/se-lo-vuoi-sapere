@@ -1,0 +1,9 @@
+---
+title: "Indifesa 2021"
+data: 2021-09
+fonte: "Terre des hommes"
+image: ./risorse/indifesa-2021_resized.png
+categories: [fisica,psicologica,sessuale,negligenza sfruttamento]
+---
+
+{{< include ./include/_35.qmd >}}
