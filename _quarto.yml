@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Se-lo-vuoi-sapere"
@@ -11,9 +12,14 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - styles.scss
     css: styles.css
     toc: true
 
 
 
+execute:
+  daemon: false
+  freeze: auto
