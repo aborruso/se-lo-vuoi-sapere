@@ -12,12 +12,19 @@ website:
 
 format:
   html:
+    lang: "it-IT"
     theme:
       - cosmo
       - styles.scss
     css: styles.css
     toc: true
-
+    footnotes-hover: false
+    citations-hover: false
+    crossrefs-hover: false
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+    link-external-filter: '^.*\.github\.io\/'
 
 
 execute:
