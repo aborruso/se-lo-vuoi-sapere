@@ -1,0 +1,9 @@
+tmp*
+note.md
+~$*.docx
+~$*.ods
+
+
+/.quarto/
+/_site
+
