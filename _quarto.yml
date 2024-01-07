@@ -2,6 +2,8 @@ project:
   type: website
   output-dir: docs
   resources: "immagini/grid-ph.jpg"
+  render:
+  - "!note.md"
 
 website:
   title: "Se-lo-vuoi-sapere"
@@ -9,6 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: pubblicazioni/index.qmd
+        text: Pubblicazioni
       - about.qmd
 
   page-footer:
