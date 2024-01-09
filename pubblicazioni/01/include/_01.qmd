@@ -1,12 +1,33 @@
-Ex velit nostrud labore ut laborum enim do ad ea adipisicing est mollit veniam velit. Eu Lorem id commodo tempor nisi esse dolor sunt dolore minim Lorem labore duis. Quis ex ullamco excepteur ipsum.
-
-Ex non culpa ad esse laboris. Velit ad occaecat veniam incididunt ad labore pariatur. Lorem occaecat sint irure pariatur. Do sunt velit qui ullamco cupidatat fugiat ea minim velit aliqua exercitation officia. Ipsum veniam exercitation proident dolor esse nulla incididunt nisi deserunt proident quis. Nulla voluptate occaecat minim ad minim irure cillum.
-
-
 :::{.fonte}
 Fonte: **{{< meta fonte >}}**
 :::
 
+---
+
 :::{.descrizione}
-Una panoramica sulla situazione sociale mondiale delle bambine ed adolescenti, con dei focus nazionali.
+Una **panoramica** sulla **situazione** sociale **mondiale** delle **bambine** ed **adolescenti**, con dei focus nazionali.
 :::
+
+::: {.callout-tip}
+## Un dato significativo
+"**Nel 2021 i bambini nati da madri minorenni sono stati 891**"
+:::
+
+Temi trattati:
+
+  -  Mutilazioni genitali femminili
+  -  Bambine ed accesso all’istruzione
+  -  Matrimoni precoci
+  -  Gravidanze precoci
+  -  Ragazze e salute mentale
+  -  Sport al femminile
+  -  STEM e ragazze
+  -  Empowerment e partecipazione
+  -  Cambi climatici
+  -  I rischi delle bambine
+  -  Ragazze e web
+  -  Violenza di genere
+
+[Leggilo](https://terredeshommes.it/pdf/Dossier_indifesa_tdh_2023.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![](risorse/indifesa-2023_resized.png)](https://terredeshommes.it/pdf/Dossier_indifesa_tdh_2023.pdf)

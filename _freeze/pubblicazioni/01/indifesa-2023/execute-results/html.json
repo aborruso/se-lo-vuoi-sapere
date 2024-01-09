@@ -1,0 +1,12 @@
+{
+  "hash": "0e8710a1be4d9373c5740d8a8334ec43",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Indifesa 2023\"\ndata: 2023-09\nfonte: \"Terre des hommes\"\nimage: ./risorse/indifesa-2023_resized.png\ncategories: [fisica,psicologica,sessuale,negligenza sfruttamento]\n---\n\n:::{.fonte}\nFonte: **{{< meta fonte >}}**\n:::\n\n:::{.descrizione}\nUna **panoramica** sulla **situazione** sociale **mondiale** delle **bambine** ed **adolescenti**, con dei focus nazionali.\n:::\n\n::: {#56738d0c .cell color='primary' content='valuebox' icon='pencil' title='Articles per day' execution_count=1}\n``` {.python .cell-code}\ndict(\n  value = 10\n)\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n{'value': 10}\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "indifesa-2023_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
