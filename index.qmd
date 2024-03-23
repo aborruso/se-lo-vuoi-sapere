@@ -1,15 +1,22 @@
 ---
-title: "Se-lo-vuoi-sapere"
+title: "Se lo vuoi sapere"
 format:
   html:
     toc: false
 page-navigation: false
 ---
 
-Questo sito nasce con l’intento di far conoscere in modo trasversale il fenomeno delle violenze e maltrattamenti su minori.
+Questo sito è stato creato con l'obiettivo di **sensibilizzare** in modo ampio sull'importante **tema** delle **violenze** e dei **maltrattamenti** sui **minori**.
 
-Abbiamo raccolto i report on line sulla tematica di abusi su minori, per studiare l’argomento da più vicino nella sua complessità.
+Abbiamo raccolto report *online* sull'argomento degli abusi sui minori al fine di esaminare da vicino la complessità di questa tematica.<br>
+Ci siamo resi conto che i **dati** disponibili sui **maltrattamenti** e sulle violenze nei confronti dei bambini e degli adolescenti sono limitati e **non** sempre di **facile** **accesso**. Pertanto, ci siamo impegnati a raccoglierli per agevolare la ricerca di coloro che desiderano approfondire questo fenomeno.
 
-Ci siamo resi conto che i dati a disposizione sui maltrattamenti e violenze sullə bambinə ed adolescenti sono pochi e non sempre di facile fruizione, quindi ci siamo adoperati per raccoglierli agevolando la ricerca per tutte le persone che vogliono conoscere e studiare il fenomeno.
+Il sito è strutturato in **categorie**, facilmente accessibili tramite i link indicati.
 
-II sito è suddiviso in categorie specifiche raggiungibili velocemente attraverso i link indicati.
+Vogliamo raggiungere studenti e giornalisti affinché possano utilizzare quanto abbiamo raccolto, per **sensibilizzare** sull'importante **problema sociale** degli abusi sui minori.<br>
+Allo stesso tempo, auspichiamo la partecipazione di genitori, insegnanti, educatori e **figure** di **riferimento** per i minori, al fine di fornire loro **strumenti** per **comprendere** i **meccanismi** di **manipolazione** presenti in questo contesto.
+È fondamentale che siano consapevoli di questi rischi e si informino in modo adeguato per **proteggere** i minori da tali **pericoli**.
+
+Attraverso la **condivisione** di **informazioni** e la **consapevolezza**, possiamo tutti contribuire a **prevenire** e **contrastare** questi **abusi**, sia *online* che *offline*.
+
+[![](immagini/logo.png)](pubblicazioni/)

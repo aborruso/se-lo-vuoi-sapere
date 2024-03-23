@@ -13,4 +13,17 @@ $font-family-monospace: 'Source Code Pro', monospace;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'League Spartan', sans-serif;
+  color: #dc3f68;
+}
+
+div.callout-tip.callout {
+  border-left-color: #81baaa;
+}
+
+div.callout-tip.callout-style-default>.callout-header {
+  background-color: rgba(131, 188, 172, 0.5);
+  font-family: "League Spartan",sans-serif;
+  font-size: larger;
+  color: black;
+  opacity: 100% !important;
 }
