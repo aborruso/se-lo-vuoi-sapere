@@ -7,11 +7,12 @@ set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-cancella="no"
+cancella="sì"
 if [ "${cancella}" == "sì" ]; then
   find "${folder}"/../pubblicazioni -mindepth 2 -name "*.qmd" -type f -delete
 fi
 
+find "${folder}"/../pubblicazioni -type f -name '_*.qmd' ! -delete
 
 <"${folder}"/risorse/lista-pubblicazioni.csv mlrgo --icsv --ojsonl filter '$pronto=="x"' then cut -x -f indice then clean-whitespace then sort -t id then put 'if(${anno-mese}=~"^[0-9]{4}$"){${anno-mese}=${anno-mese}."-00"}else{${anno-mese}=${anno-mese}}' | while read -r line; do
   echo "${line}" | jq -r '.["titolo"]'
@@ -24,6 +25,11 @@ fi
   filename="$(echo "${line}" | jq -r '.["titolo"]' | qsv safenames | sed -r 's/_+/-/g;s/-$//')"
   data="$(echo "${line}" | jq -r '.["anno-mese"]')"
   categorie="$(echo "${line}" | jq -r '.["violenze"]')"
+  data_claim="$(echo "${line}" | jq -r '.["data-claim"]')"
+  descrizione="$(echo "${line}" | jq -r '.["descrizione"]')"
+  URL="$(echo "${line}" | jq -r '.["URL"]')"
+
+  social_description="$(echo "${data_claim}" | sed 's/"/\\"/g')"
 
   truncate -s 0 "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
 
@@ -43,8 +49,43 @@ fi
     echo "categories: [$categorie]" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
   fi
 
+cat <<EOF >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
+website:
+  twitter-card:
+    description: "$social_description"
+    image: "./risorse/${filename}_resized.png"
+  open-graph:
+    description: "$social_description"
+    image: "./risorse/${filename}_resized.png"
+EOF
+
   echo "---" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
   echo "" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
 
+cat <<EOF >> "${folder}"/../pubblicazioni/"${id}"/include/_"${id}".qmd
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+$data_claim
+:::
+
+:::{.descrizione}
+$descrizione
+:::
+
+[Leggilo]($URL){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})]($URL)
+
+EOF
+
+
   echo "{{< include ./include/_${id}.qmd >}}" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
 done
+
+git checkout -- "${folder}"/../pubblicazioni/01/include/_01.qmd
