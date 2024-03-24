@@ -7,13 +7,53 @@ set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-cancella="sì"
-if [ "${cancella}" == "sì" ]; then
-  find "${folder}"/../pubblicazioni -mindepth 2 -name "*.png" -type f -delete
-  #find "${folder}"/../pubblicazioni -mindepth 2 -name "*.pdf" -type f -delete
+# Questo script permette di scaricare dati e, opzionalmente, di cancellare
+# i file scaricati passando un parametro specifico.
+# Usa il parametro -d seguito da "sì" per abilitare la cancellazione dei file.
+# Esempio di uso: ./download.sh -d sì
+# Qualsiasi altro valore passato con -d, o l'omissione di -d, non attiverà la cancellazione.
+
+# Imposta il valore di default di cancella a "no"
+cancella="no"
+
+# Usa getopts per gestire le opzioni
+while getopts ":d:" opt; do
+  case ${opt} in
+    d )
+      # Controlla se l'argomento è esattamente "sì"
+      if [ "$OPTARG" = "sì" ]; then
+        cancella="sì"
+      else
+        cancella="no"
+      fi
+      ;;
+    \? )
+      echo "Opzione Invalida: -$OPTARG" 1>&2
+      exit 1
+      ;;
+    : )
+      echo "Opzione -$OPTARG richiede un argomento." 1>&2
+      exit 1
+      ;;
+  esac
+done
+shift $((OPTIND -1))
+
+# Controlla se cancella è impostato a "sì"
+if [ "$cancella" = "sì" ]; then
+  echo "Il valore di cancella è impostato a 'sì'."
+  # Aggiungi qui il codice per gestire la cancellazione.
+else
+  echo "Il valore di cancella è impostato a 'no'."
 fi
 
-<"${folder}"/risorse/lista-pubblicazioni.csv mlrgo --icsv --ojsonl filter '$pronto=="x"' | while read -r line; do
+
+if [ "${cancella}" == "sì" ]; then
+  find "${folder}"/../pubblicazioni -mindepth 2 -name "*.png" -type f -delete
+  find "${folder}"/../pubblicazioni -mindepth 2 -name "*.pdf" -type f -delete
+fi
+
+<"${folder}"/risorse/lista-pubblicazioni.csv mlrgo --icsv --ojsonl filter '$pronto=="x"' then clean-whitespace then sort -t id | while read -r line; do
   url="$(echo "${line}" | jq -r '.["URL"]')"
   id="$(echo "${line}" | jq -r '.["id"]')"
   mkdir -p "${folder}"/../pubblicazioni/"${id}"
