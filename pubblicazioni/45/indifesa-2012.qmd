@@ -7,10 +7,10 @@ categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
     description: "mancano all’appello più di 100 milioni di bambine, il “mistero delle donne mancanti”. Ovvero tutte quelle donne che oggi sarebbero al mondo se non fosse per l’aborto selettivo, l’infanticidio e la discriminazione socioeconomica."
-    image: "risorse/indifesa-2012_resized.png"
+    image: indifesa-2012_resized.png
   open-graph:
     description: "mancano all’appello più di 100 milioni di bambine, il “mistero delle donne mancanti”. Ovvero tutte quelle donne che oggi sarebbero al mondo se non fosse per l’aborto selettivo, l’infanticidio e la discriminazione socioeconomica."
-    image: "risorse/indifesa-2012_resized.png"
+    image: indifesa-2012_resized.png
 ---
 
 {{< include ./include/_45.qmd >}}

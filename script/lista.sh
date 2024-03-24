@@ -42,6 +42,7 @@ find "${folder}"/../pubblicazioni -type f -name '_*.qmd' ! -delete
 
   if [ -f "${folder}"/../pubblicazioni/"${id}"/risorse/"${filename}"_resized.png ]; then
     echo "image: ./risorse/${filename}_resized.png" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
+    cp "${folder}"/../pubblicazioni/"${id}"/risorse/"${filename}_resized.png" "${folder}"/../pubblicazioni/"${id}"/"${filename}_resized.png"
   fi
 
 # if categorie greather than two characters echo "long" else echo "short"
@@ -53,10 +54,10 @@ cat <<EOF >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
 website:
   twitter-card:
     description: "$social_description"
-    image: "risorse/${filename}_resized.png"
+    image: ${filename}_resized.png
   open-graph:
     description: "$social_description"
-    image: "risorse/${filename}_resized.png"
+    image: ${filename}_resized.png
 EOF
 
   echo "---" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd

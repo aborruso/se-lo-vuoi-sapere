@@ -7,10 +7,10 @@ categories: [assistita, educativa, familiare, fisica, incuria, ipercura, psicolo
 website:
   twitter-card:
     description: "i minori vittime di abusi, i reati per maltrattamento contro familiari e conviventi segnalati nel 2020 sono 21.709"
-    image: "risorse/i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png"
+    image: i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png
   open-graph:
     description: "i minori vittime di abusi, i reati per maltrattamento contro familiari e conviventi segnalati nel 2020 sono 21.709"
-    image: "risorse/i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png"
+    image: i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png
 ---
 
 {{< include ./include/_17.qmd >}}

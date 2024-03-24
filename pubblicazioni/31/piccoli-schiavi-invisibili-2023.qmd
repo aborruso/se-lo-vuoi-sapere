@@ -7,10 +7,10 @@ categories: [caporalato, migranti, minori scomparsi, sfruttamento, tratta esseri
 website:
   twitter-card:
     description: "431 sono state le vittime di tratta a fini di sfruttamento sessuale, 204 per sfruttamento di manodopera e 122 per altre finalità"
-    image: "risorse/piccoli-schiavi-invisibili-2023_resized.png"
+    image: piccoli-schiavi-invisibili-2023_resized.png
   open-graph:
     description: "431 sono state le vittime di tratta a fini di sfruttamento sessuale, 204 per sfruttamento di manodopera e 122 per altre finalità"
-    image: "risorse/piccoli-schiavi-invisibili-2023_resized.png"
+    image: piccoli-schiavi-invisibili-2023_resized.png
 ---
 
 {{< include ./include/_31.qmd >}}

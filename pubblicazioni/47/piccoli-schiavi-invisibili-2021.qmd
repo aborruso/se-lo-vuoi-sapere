@@ -7,10 +7,10 @@ categories: [covid-19, fisica, migranti, minori scomparsi, sfruttamento, tratta 
 website:
   twitter-card:
     description: "negli ultimi quindici anni la componente di bambini e adolescenti coinvolti in forme di sfruttamento è cresciuta costantemente, passando da circa il 10% a oltre il 30% del totale delle vittime individuate"
-    image: "risorse/piccoli-schiavi-invisibili-2021_resized.png"
+    image: piccoli-schiavi-invisibili-2021_resized.png
   open-graph:
     description: "negli ultimi quindici anni la componente di bambini e adolescenti coinvolti in forme di sfruttamento è cresciuta costantemente, passando da circa il 10% a oltre il 30% del totale delle vittime individuate"
-    image: "risorse/piccoli-schiavi-invisibili-2021_resized.png"
+    image: piccoli-schiavi-invisibili-2021_resized.png
 ---
 
 {{< include ./include/_47.qmd >}}

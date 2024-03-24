@@ -7,10 +7,10 @@ categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
     description: "ogni 1.000 bambini residenti 45 sono presi in carico dai Servizi Sociali ossia 401.766"
-    image: "risorse/seconda-indagine-nazionale-sul-maltrattamento-dei-bambini-e_resized.png"
+    image: seconda-indagine-nazionale-sul-maltrattamento-dei-bambini-e_resized.png
   open-graph:
     description: "ogni 1.000 bambini residenti 45 sono presi in carico dai Servizi Sociali ossia 401.766"
-    image: "risorse/seconda-indagine-nazionale-sul-maltrattamento-dei-bambini-e_resized.png"
+    image: seconda-indagine-nazionale-sul-maltrattamento-dei-bambini-e_resized.png
 ---
 
 {{< include ./include/_05.qmd >}}

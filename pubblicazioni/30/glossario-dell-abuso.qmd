@@ -6,10 +6,10 @@ image: ./risorse/glossario-dell-abuso_resized.png
 website:
   twitter-card:
     description: "L’adescamento online, detto anche grooming, è il tentativo da parte di una persona adulta di stabilire una relazione di fiducia con un bambino o un ragazzo attraverso"
-    image: "risorse/glossario-dell-abuso_resized.png"
+    image: glossario-dell-abuso_resized.png
   open-graph:
     description: "L’adescamento online, detto anche grooming, è il tentativo da parte di una persona adulta di stabilire una relazione di fiducia con un bambino o un ragazzo attraverso"
-    image: "risorse/glossario-dell-abuso_resized.png"
+    image: glossario-dell-abuso_resized.png
 ---
 
 {{< include ./include/_30.qmd >}}

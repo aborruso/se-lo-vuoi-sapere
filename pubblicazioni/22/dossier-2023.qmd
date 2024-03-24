@@ -7,10 +7,10 @@ categories: [assistita, fisica, offline, online, psicologica, sessuale]
 website:
   twitter-card:
     description: "81% Le immagini autoprodotte da vittime femmine tra gli 11 e i 13 anni"
-    image: "risorse/dossier-2023_resized.png"
+    image: dossier-2023_resized.png
   open-graph:
     description: "81% Le immagini autoprodotte da vittime femmine tra gli 11 e i 13 anni"
-    image: "risorse/dossier-2023_resized.png"
+    image: dossier-2023_resized.png
 ---
 
 {{< include ./include/_22.qmd >}}

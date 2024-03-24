@@ -7,10 +7,10 @@ categories: [assistita]
 website:
   twitter-card:
     description: "totale costi diretti ed indiretti sulla spesa pubblica d’intervento su minori 13.056.363.807 pari a 0.87% costi PIL, anno 2010"
-    image: "risorse/studio-nazionale-tagliare-sui-bambini-davvero-un-risparmi_resized.png"
+    image: studio-nazionale-tagliare-sui-bambini-davvero-un-risparmi_resized.png
   open-graph:
     description: "totale costi diretti ed indiretti sulla spesa pubblica d’intervento su minori 13.056.363.807 pari a 0.87% costi PIL, anno 2010"
-    image: "risorse/studio-nazionale-tagliare-sui-bambini-davvero-un-risparmi_resized.png"
+    image: studio-nazionale-tagliare-sui-bambini-davvero-un-risparmi_resized.png
 ---
 
 {{< include ./include/_06.qmd >}}

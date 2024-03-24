@@ -7,10 +7,10 @@ categories: [fisica, psicologica, sessuale]
 website:
   twitter-card:
     description: "Tra coloro che hanno subito violenza sessuale, si riscontra una prevalenza di problemi di salute cronici 1,2 volte superiore rispetto alla media"
-    image: "risorse/indagine-quali-quantitativa-su-abusi-e-violenze-nello-sport_resized.png"
+    image: indagine-quali-quantitativa-su-abusi-e-violenze-nello-sport_resized.png
   open-graph:
     description: "Tra coloro che hanno subito violenza sessuale, si riscontra una prevalenza di problemi di salute cronici 1,2 volte superiore rispetto alla media"
-    image: "risorse/indagine-quali-quantitativa-su-abusi-e-violenze-nello-sport_resized.png"
+    image: indagine-quali-quantitativa-su-abusi-e-violenze-nello-sport_resized.png
 ---
 
 {{< include ./include/_07.qmd >}}

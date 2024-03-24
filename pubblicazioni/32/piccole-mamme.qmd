@@ -7,10 +7,10 @@ categories: [migranti]
 website:
   twitter-card:
     description: "Gli operatori intervistati sottolineano come i servizi intercettino in prevalenza situazioni multiproblematiche, che richiedono di conseguenza una presa in carico complessa"
-    image: "risorse/piccole-mamme_resized.png"
+    image: piccole-mamme_resized.png
   open-graph:
     description: "Gli operatori intervistati sottolineano come i servizi intercettino in prevalenza situazioni multiproblematiche, che richiedono di conseguenza una presa in carico complessa"
-    image: "risorse/piccole-mamme_resized.png"
+    image: piccole-mamme_resized.png
 ---
 
 {{< include ./include/_32.qmd >}}

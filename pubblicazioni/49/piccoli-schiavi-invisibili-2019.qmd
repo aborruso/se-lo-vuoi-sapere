@@ -7,10 +7,10 @@ categories: [fisica, migranti, minori scomparsi, sfruttamento, tratta esseri uma
 website:
   twitter-card:
     description: "Secondo il rapporto, a livello internazionale, il 23% delle vittime di tratta identificate e/o presunte in Europa sono minori, e circa il 56% di loro è vittima di sfruttamento sessuale"
-    image: "risorse/piccoli-schiavi-invisibili-2019_resized.png"
+    image: piccoli-schiavi-invisibili-2019_resized.png
   open-graph:
     description: "Secondo il rapporto, a livello internazionale, il 23% delle vittime di tratta identificate e/o presunte in Europa sono minori, e circa il 56% di loro è vittima di sfruttamento sessuale"
-    image: "risorse/piccoli-schiavi-invisibili-2019_resized.png"
+    image: piccoli-schiavi-invisibili-2019_resized.png
 ---
 
 {{< include ./include/_49.qmd >}}

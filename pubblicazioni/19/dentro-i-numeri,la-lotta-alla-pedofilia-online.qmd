@@ -7,10 +7,10 @@ categories: [pedopornografia, sextortion]
 website:
   twitter-card:
     description: "Nel 2022 sono stati 150 i ragazzi segnalati all’Autorità Giudiziaria come autori di reati gravi, erano appena 20 nel 2016. Sono quasi sempre maschi, con un’età media di circa 15 anni"
-    image: "risorse/dentro-i-numeri,la-lotta-alla-pedofilia-online_resized.png"
+    image: dentro-i-numeri,la-lotta-alla-pedofilia-online_resized.png
   open-graph:
     description: "Nel 2022 sono stati 150 i ragazzi segnalati all’Autorità Giudiziaria come autori di reati gravi, erano appena 20 nel 2016. Sono quasi sempre maschi, con un’età media di circa 15 anni"
-    image: "risorse/dentro-i-numeri,la-lotta-alla-pedofilia-online_resized.png"
+    image: dentro-i-numeri,la-lotta-alla-pedofilia-online_resized.png
 ---
 
 {{< include ./include/_19.qmd >}}

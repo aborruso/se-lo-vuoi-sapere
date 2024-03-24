@@ -7,10 +7,10 @@ categories: [covid-19, online]
 website:
   twitter-card:
     description: "Quanto ancora: è forse la domanda che più spesso ci siamo sentiti fare dai bambini e ragazzi che abbiamo accolto e aiutato in questo anno di pandemia"
-    image: "risorse/quanto-ancora_resized.png"
+    image: quanto-ancora_resized.png
   open-graph:
     description: "Quanto ancora: è forse la domanda che più spesso ci siamo sentiti fare dai bambini e ragazzi che abbiamo accolto e aiutato in questo anno di pandemia"
-    image: "risorse/quanto-ancora_resized.png"
+    image: quanto-ancora_resized.png
 ---
 
 {{< include ./include/_26.qmd >}}

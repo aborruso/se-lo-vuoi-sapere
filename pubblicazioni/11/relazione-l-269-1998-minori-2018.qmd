@@ -7,10 +7,10 @@ categories: [covid-19, fisica, psicologica, sessuale]
 website:
   twitter-card:
     description: ""
-    image: "risorse/relazione-l-269-1998-minori-2018_resized.png"
+    image: relazione-l-269-1998-minori-2018_resized.png
   open-graph:
     description: ""
-    image: "risorse/relazione-l-269-1998-minori-2018_resized.png"
+    image: relazione-l-269-1998-minori-2018_resized.png
 ---
 
 {{< include ./include/_11.qmd >}}

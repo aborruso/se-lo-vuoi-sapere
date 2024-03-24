@@ -7,10 +7,10 @@ categories: [fisica, migranti, psicologica, sessuale]
 website:
   twitter-card:
     description: "22.958 minori, di cui 5.572 minori accompagnati da un familiare o un parente, e 17.387 minori non accompagnati (MSNA"
-    image: "risorse/children-come-first_resized.png"
+    image: children-come-first_resized.png
   open-graph:
     description: "22.958 minori, di cui 5.572 minori accompagnati da un familiare o un parente, e 17.387 minori non accompagnati (MSNA"
-    image: "risorse/children-come-first_resized.png"
+    image: children-come-first_resized.png
 ---
 
 {{< include ./include/_33.qmd >}}
