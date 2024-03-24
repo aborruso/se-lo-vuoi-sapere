@@ -6,4 +6,10 @@ note.md
 
 /.quarto/
 /_site
-/script
+
+script/*
+!script/risorse/
+script/risorse/*
+!script/lista.sh
+!script/pdf-download-cover.sh
+!script/risorse/lista-pubblicazioni.csv
