@@ -8,8 +8,7 @@ note.md
 /_site
 
 script/*
-!script/risorse/
-script/risorse/*
-!script/lista.sh
 !script/pdf-download-cover.sh
+!script/lista.sh
+!script/risorse/
 !script/risorse/lista-pubblicazioni.csv
