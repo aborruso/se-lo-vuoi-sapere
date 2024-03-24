@@ -1,39 +1,487 @@
-id,doc,titolo,descrizione,URL,anno-mese,data-pubblicazione,autori,fonte,data-dati,pronto,violenze,eta,luogo,nota,data-claim
-01,,Indifesa 2023,Condizioni delle bambine nel mondo,https://terredeshommes.it/pdf/Dossier_indifesa_tdh_2023.pdf,2023-09,settembre 2023,"Testi: Ilaria Sesana, Rossella Panuzzo, Paolo Ferrara Redazione: Rossella Panuzzo",Terre des hommes,2022,ok,"fisica,psicologica,sessuale,negligenza sfruttamento",minorenni,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi",
-02,,Indifesa 2022,Condizioni delle bambine nel mondo,https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2022.pdf,2022-09,settembre 2022,"Testi: Ilaria Sesana, Rossella Panuzzo, Paolo Ferrara Redazione: Rossella Panuzzo",Terre des hommes,2020,ok,"fisica,psicologica,sessuale,negligenza sfruttamento",minorenni,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi",Nel 2021 i bambini nati da madri minorenni sono stati 891
-03,x,L'abuso sessuale on line in danno di minori,"Dati relativi alle denunce per varie forme d'abuso on line in danno di bambine e bambini in Italia, dati del 2021",https://s3.savethechildren.it/public/files/uploads/pubblicazioni/labuso-sessuale-online-danno-di-minori-il-dossier.pdf,2022-05,maggio 2022,C.N.C.P.O,Save the children e Polizia di Stato,2021,ok,"pedopornografia,sfruttamento,psicologico,sessuale",minorenni,"genitori, educatori, giornalisti, studenti",,"Casi trattati di pedopornografia (anno 2020: 3243, anno 2021: 5316) un incisivo aumento del 47%"
-04,x,Seconda Indagine sul maltrattamento dei bambini e adolescenti in Italia,Troviamo un Dossier che mostra i dati del 2019- 2018 riguardanti la condizione verso le violenze sui minori. La pequliarità di questo Report è uno sguardo globale attraverso i dati sulle dinamiche degli abusi minorili,https://cismai.it/assets/uploads/2021/04/DossierMaltrattamento-2021-10-singole-1.pdf,2021-04,6 aprile 2021,"Supervisione della ricerca Luca Martinelli, Ufficio Autorità Garante per l’Infanzia e l’Adolescenza Coordinamento tecnico - operativo Federica Giannotta - Fondazione Terre des Hommes Italia Gloria Soavi - CISMAI Coordinamento scientifico Gloria Soavi - CISMAI Rocco Briganti - CISMAI Federica Giannotta - Fondazione Terre des Hommes Italia Staff ricerca Alessandra Crippa - Fondazione Terre des Hommes Italia/CISMAI Monica Patrizio - Fondazione Terre des Hommes Italia/CISMAI",CISAMAI e Terre des hommes e Autorita Garante per l'infanzia ed adolescenza,2018,ok,,,,,
-05,,Prima Indagine sul maltrattamento dei bambini ed adolescenti in Italia,"Questo report cerca di colmare un vuoto di conoscenze verso gli abusi minorili, porta uno sguardo sulla mancanza di un'adeguata ricerca dati",https://cismai.it/assets/uploads/2015/05/Indagine_maltrattamento_TDH_Cismai_Garante_mag15.pdf,2015-05,15 maggio 2015,"Supervisione della ricerca Margherita Brunetti, Ufficio Autorità Garante per l’Infanzia e l’Adolescenza Stefania Pizzolla, Ufficio Autorità Garante per l’Infanzia e l’Adolescenza Coordinamento tecnico-operativo Andrea Bollini, CISMAI Dario Merlino, CISMAI Federica Giannotta, Fondazione Terre des Hommes Italia Staff di ricerca Valeria Ferrara, CISMAI - Fondazione Terre des Hommes Italia Monica Patrizio, CISMAI - Fondazione Terre des Hommes Italia",CISMAI e Terre des hommes e Autorita Garante per l'infanzia ed adolescenza,,ok,,,,,
-06,,"Studio nazionale ""tagliare sui bambini è davvero un risparmio?""","Sono raccolte cifre dei costi che hanno annualmente gli abusi su minori, spiega anche come lo Stato decide la distribuzione dei fondi da distribuirsi alle varie realtà che si occupano di questo tipo di traumi",https://cismai.it/assets/uploads/2013/12/STUDIO-DI-PREVALENZA-6261_Tagliare_sui_bambini_studioTDH_Bocconi_Cismai_compressed1.pdf,2013-12,04 dicembre 2013,Paola profeta e Marcella Sala,CISMAI e Terre des hommes e Università Bocconi,2010,ok,,,,,
-07,,Indagine Quali-Quantitativa su abusi e violenze nell sport,Una ricerca approfondita sugli abusi negli ambiti sportivi,https://www.sportesalute.eu/images/studi-e-dati-dello-sport/schede/2023/139-Indagine-Nielsen-sugli-abusi-e-violenze-nello-sport-Italiano.pdf,2023-06,28 giugno 2023,"Mike Hartill, Stefano Ferracuti e Benedetta Barchielli","General report Italia, Nielsen, Change the game in collaborazione con: Terre des hommes, CISMAI, Dipartimento per lo sport.",2021,ok,,,,,
-08,,Relazione L. 269/1998 Minori 2021,"La relazione si basa su una raccolta di informazioni qualitative e quantitative che il Centro Nazionale documentazione e analisi per l'infanzia e l'adolescenza, su invito del Ministero per la Giustizia, realizza coinvolgendo Regioni, Procure e Tribunali Ordinari e Minorili per effettuare una rilevazione sulle applicazioni di norme procedurali per l'ascolto del minore vittima di reati sessuali.",https://www.minori.gov.it/sites/default/files/relazione_legge_269_anno_2021.pdf,2022-12,dicembre 2022,"Raffaella Pregliasco (coordinamento), Rosa Arcuri, Gianluca Capra, Anna Elisa D’Agostino, Ester di Napoli, Elena Falcomatà, Luca Giacomelli, Ilaria Lotti, Maja Barbara Miernik, Carla Mura, Federica Poscolere, Roberto Ricciotti, Elisa Vagnoli",Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri,2021,ok,,,,,
-09,,Relazione L. 269/1998 Minori 2020,"La Relazione presenta un quadro quantitativo e qualitativo dettagliato delle attività di prevenzione, contrasto, assistenza e tutela delle persone di minore età vittime di abuso e sfruttamento sessuale.",https://www.minori.gov.it/sites/default/files/relazione-al-parlamento_l_269_2020.pdf,2021-01,12 gennaio2021,"Alessandra Bernardon, Donata Bianchi, Ester di Napoli, Anna Elisa D’Agostino,
-Elena Falcomatà, Maja Barbara Miernik, Raffaella Pregliasco, Daniela Rozzi,
-Elisa Vagnoli",Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri,2020,ok,,,,,
-10,,Relazione L. 269/1998 Minori 2019,La Relazione traccia la situazione del lavoro di prevenzione e contrasto del fenomeno della violenza sessuale sui minori individuando eventuali lacune e/o criticità.,https://www.minori.gov.it/sites/default/files/relazione_al_parlamento_269_2019.pdf,2019,2019,"Alessandra Bernardon, Erika Bernacchi, Ester di Napoli, Anna Elisa D’Agostino, Lucia Dringoli, Elena Falcomatà, Maja Barbara Miernik, Raffaella Pregliasco, Roberto Ricciotti, Serena Tucci, Elisa Vagnoli",Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri,2019,ok,,,,,
-11,,Relazione L. 269/1998 Minori 2018,"La presente Relazione intende porre in evidenza questioni e dati rilevanti sul fenomeno e sui suoi più recenti sviluppi e criticità, attraverso specifici approfondimenti tematici sul piano giuridico, statistico e di analisi dei dati. Illustra le attività condotte in ambito nazionale e internazionale.",https://www.minori.gov.it/sites/default/files/rel_l.269_2018.pdf,2018,2018,"Raffaella Pregliasco, Anna Elisa D’Agostino, Elisa Vagnoli, Roberto Ricciotti, Giovanni Damiano, Serena Tucci",Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri,2018,ok,,,,,
-12,,Relazione L. 269/1998 Minori 2017,"La Relazione restituisce un’analisi del fenomeno, attraverso la lettura dei dati forniti e la descrizione dettagliata delle azioni condotte in ambito nazionale ed internazionale per la prevenzione ed il contrasto del fenomeno dell’abuso e dello sfruttamento sessuale nel nostro Paese, con l’obiettivo di offrire un panorama dettagliato degli interventi realizzati.",https://www.minori.gov.it/sites/default/files/rel_l.269_2017.pdf,2017,2017,"Raffaella Pregliasco, Anna Elisa D’Agostino, Elisa Vagnoli, Roberto Ricciotti, Giovanni Damiano, Serena Tucci",Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri,2017,ok,,,,,
-13,,"Quaderni del Centro nazionale di documentazione e analisi per l’infanzia e l’adolescenza ""USCIRE DAL SILENZIO""","La seconda Relazione al Parlamento sullo stato di attuazione della legge 269/98 ricostruisce un panorama ampio di iniziative e attività nell’ambito della lotta all’abuso e allo sfruttamento sessuale dei minori individuando alcune gravi criticità come, ad esempio, la raccolta dei dati che rimane ancora un aspetto problematico sia rispetto alla qualità che alla quantità delle informazioni.",https://www.minori.gov.it/sites/default/files/Quaderni_Centro_Nazionale_27.pdf,2002-12,Dicembre 2002,"Donata Bianchi, Erika Bernacchi, Gildo Ciccotti, Alessandro Salvi",Istituto degli Innocenti,2000/2001,ok,,,,,
-14,,"Quaderni del Centro nazionale di documentazione e analisi per l’infanzia e l’adolescenza ""LE VIOLENZE SESSUALI SUI BAMBINI""",La prima Relazione al Parlamento si articola su tre grandi aree: l’analisi delle leggi sulla violenza e lo sfruttamento sessuale; il panorama delle iniziative del Governo centrale e a livello locale; la descrizione del fenomeno attraverso i dati raccolti dai ministeri e attraverso indagini sulla violenza e lo sfruttamento sessuale.,https://www.minori.gov.it/sites/default/files/Quaderni_Centro_Nazionale_19.pdf,2001-02,Febbraio 2001,"Chiara Barlucchi, Donata Bianchi, Manuel Finelli, Milena Rosso",Istituto degli Innocenti,1998/1999,ok,,,,,
-15,,"Relazione al Parlamento sullo stato di attuazione della legge 3 agosto 1998, n 269","La ricerca, costituita da pochissimi dati numerici, traccia fin da subito le difficoltà incontrate nel raccontare il fenomeno. L'obbiettivo principale è quello di proporre interventi sia di aiuto alle vittime che repressivi.
-.",https://www.minori.gov.it/sites/default/files/rel269_98-99.pdf,2000-07,10 luglio 2000,,Presidenza del Consiglio dei Ministri Dipartimento per gli Affari Sociali,1998/1999 e precedenti,ok,,,,,
-16,,Minorenni vittime di abusi,"Questo reportanalizzando alcune forme di delitti che colpiscono maggiormente i minori d'età, riportando un incremento di alcuni reati che potrebbero disvelare una maggiore propensione alla denuncia. I numeri però restituiscono l’immagine di un fenomeno presente da non sottovalutare considerando tutto il sommerso esistente.",https://bambiniegenitori.bergamo.it/files/elaborato-minorenni-vittime-di-abusi%20ministero%20dell'interno.pdf,2022-11,Novembre 2022,Servizio Analisi Criminale,"Servizio Analisi Criminale; Dipartimento Pubblica Sicurezza, direzione centrale della Polizia Criminale; Ministero dell'Interno",2021/2022,ok,,,,,
-17,,I diritti dell'infanzia e dell'adolescenza in Italia,"La pubblicazione tratta il mondo dell'infanzia indicando i servizi esistenti in ambito, per esempio, di contrasto alla povertà, salute, educazione, fino ai dati sulla violenza. Organizzata in schede regionali che offrono dati sintetici e comparabili relativi alle aree tematiche individuate. Ciascuna scheda illustra il dato relativo a ogni regione mettendolo a confronto con quello nazionale, per evidenziare le specificità regionali rispetto alle tendenze medie presenti nel nostro Paese. I dati sulla violenza sono stati aggiunti solo in questa seconda edizione.",https://gruppocrc.net/wp-content/uploads/2021/11/Rapporto_CRC-dati_regione_2021.pdf,2021-11,Novembre 2021,"Coordinamento attività di ricerca Arianna Saulini (Save the Children Italia) Comitato di pilotaggio e redazione: Cinzia Canali (Fondazione Emanuela Zancan), Rita Campi (IRCCS-Mario Negri), Barbara D’Ippolito (Save the Children). Contributo metodologia e analisi dati Patrizia Luongo",Gruppo CRC,2020,ok,,,,,
-18,,Documento conclusivo approvato dalla commissione sull'indagine conoscitiva sulle forme di violenza fra minorie e ai danni di bambini e adolescenti,In questo documento ci si soffermerà sui seguenti fenomeni che riguardano la violenza sui minori: il fenomeno delle babygang e il rapporto tra minori e criminalità organizzata; maltrattamento e abuso; violenza di carattera sessuale e pedopornografia; prostituzione minorile e turismo sessuale; la violenza sui minori con disabilità.,https://www.parlamento.it/japp/bgt/showdoc/frame.jsp?tipodoc=SommComm&leg=18&id=1180446&part=doc_dc-allegato_a,2020-11,18 novembre 2020,Commissione parlamentare per l'infanzia e l'adolescenza,Commissione parlamentare per l'infanzia e l'adolescenza,2018/2019 e precedenti,ok,,,,,
-19,,"Dentro i numeri, la lotta alla pedofilia online","Breve relazione focalizzata sul mondo virtuale. Dati, protocolli e campagne di sensibilizzazione attuate in questo 2022",https://www.interno.gov.it/sites/default/files/2023-05/dati_polizia_postale.pdf,2023-05,5 maggio 2023,Polizia Postale e delle Comunicazioni,Polizia Postale e delle Comunicazioni,2022,ok,,,,,
-20,,Abbattiamo il muro del silenzio (dossier),Partendo dalla violenza di genere il dossier riporta i dati sulla vilenza assistita. I dati sono dettagliati e prendono in considerazione molti aspetti riguardanti il fenomeno,https://s3.savethechildren.it/public/files/uploads/pubblicazioni/abbattiamo-il-muro-del-silenzio-il-dossier_1.pdf,2018-06,giugno 2018,"A cura di Antonella Inverno, con la collaborazione di Maria Giuseppina Muratore e Isabella Corazziari, ricercatrici ISTAT Contributo redazione testi: Andrea Panico e Giovanni Malavasi",Save the Children Italia Onlus,2015/2016,ok,,,,,
-21,,Sondaggio sulla sicurezza on line,Sondaggio Europeo sulla sicurezza dei minori on line,https://ecpat.org/wp-content/uploads/2023/10/Italy.pdf,2023,2023,ECPAT,ECPAT,agosto settembre 2023,ok,,,,,
-22,,Dossier 2023,"Per visonare questo report bisogna far richiesta a Telefono Azzurro, parla dei dati inerenti alle chiamate ricevuto per l'anno 2022",https://azzurro.it/dossier-abuso-violenza/,2023,2023,"Direzione Scientifica: Ernesto Caffo Pubblicazione a cura di: Michele Carpentieri, Anna Giussani, Simona Maurino, Rebecca Minoliti, Alessandra Zanotti Ricerca “Abusi e Minori nei Media” a cura di: Volocom Technology Grafica: Andrea Leonardi",Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-23,,Io mi fidavo,"L'abuso sessuale può avere mote facce parliamone, questo report evidenzia e mostra dei dati verso le strutture della pedofila. Per visionare questo report bisogna scaricare il link dal sito.",https://azzurro.it/dossier-abuso-violenza/,2022-05,5 maggio 2022,"Chiara Antonelli, Michele Carpentieri, Anna Giussani, Simona Maurino, Rebecca Minoliti, Arianna Rossi e Alessandra Zanotti",Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-24,,Il Diritto di Fidarsi,"Dossier che mostra una panoramica storica dal 2015 al 2020 sul fenomeno, compreso di uno sguardo al periodo COVID-19, fare la richiesta al sito per scaricare",https://azzurro.it/dossier-abuso-violenza/,2021,2021,,Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-25,,Dossier Pedofilia,Da una visione offline e online delle segnalazioni ricevute,https://azzurro.it/dossier-abuso-violenza/,2021,2021,,Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-26,,Quanto ancora,Da una visione offline e online delle segnalazioni ricevute,https://azzurro.it/dossier-abuso-violenza/,2021-05,maggio 2021,,Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-27,,Chiamiamo le cose con il loro nome,Glossario dell'abuso per genitori e figli,https://azzurro.it/dossier-abuso-violenza/,2020-05,maggio 2020,,Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-28,,Bambini invisibili,minori scomparsi,https://azzurro.it/dossier/,2023,2023,,Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-29,,dentro l'emergenza,"Parla del lavoro di 20 anni fatto da TelefonoAzzurro, e racconta il lavoro svolto anche attraverso i dati",https://azzurro.it/dossier-abuso-violenza/,2023,2023,,Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-30,,Glossario dell'abuso,"Glossario per genitori ed educatori, per comprendere le paole utilizzate per parlare di violenza",https://azzurro.it/dossier-abuso-violenza/,2023,2023,,Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-31,,Piccoli Schiavi invisibili,tratta di esseri umani,https://www.savethechildren.it/cosa-facciamo/pubblicazioni/piccoli-schiavi-invisibili-2023,2023,2023,,Save the Children,,ok,,,,,
-32,,Piccole mamme,madri minnorenni,https://www.savethechildren.it/cosa-facciamo/pubblicazioni/piccole-mamme,2011,2011,,Save the Children,,ok,,,,,
-33,,Children come first Dossier,,https://www.savethechildren.it/cosa-facciamo/pubblicazioni/children-come-first-dossier-finale,2021,2021,,Save the children,,ok,,,,,
-34,,Sui bamini non si tratta,minori scomparsi,https://azzurro.it/dossier-abuso-violenza/,2022,2022,,Telefono Azzurro e Dipartimento per le politiche della famiglia,,ok,,,,,
-35,,Indifesa 2021,Condizioni delle bambine nel mondo,https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2021.pdf,2021-09,settembre 2021,"Testi: Ilaria Sesana, Rossella Panuzzo, Paolo Ferrara",Terre des hommes,,ok,"fisica,psicologica,sessuale,negligenza sfruttamento",minorenni,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi",
+or,id,doc,titolo,pronto,URL,anno-mese,data-pubblicazione,data-dati,autori,fonte,violenze,olde_violenze,eta,luogo,nota,data-claim,descrizione,indirizzato,indice
+1,01,,Indifesa 2023,x,https://terredeshommes.it/pdf/Dossier_indifesa_tdh_2023.pdf,2023-09,settembre 2023,,"Testi: Ilaria Sesana, Rossella Panuzzo, Paolo Ferrara Redazione: Rossella Panuzzo",Terre des hommes,"fisica, negligenza, psicologica, sessuale, sfruttamento","fisica,psicologica,sessuale,negligenza sfruttamento",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","“Secondo l'Istituto europeo per l'uguaglianza di genere (Eige), il numero di ragazze a rischio di mutilazioni genitali femminili in Europa oscilla tra le 53.000 e le 93.000, evidenziando l'urgenza di contrastare questa pratica dannosa e promuovere i diritti delle ragazze”","Il Dossier ""indifesa"" di Terre des Hommes del 2023 affronta diverse tematiche legate alla condizione delle bambine e delle ragazze nel mondo ed a livello nazionale. Esso include informazioni su argomenti come le mutilazioni genitali femminili, i matrimoni precoci, l'accesso all'istruzione, la salute sessuale e riproduttiva, la violenza di genere, lo sport femminile, lo sviluppo delle competenze STEM, l'empowerment e la partecipazione delle ragazze, i rischi legati ai cambiamenti climatici e ai conflitti, nonché la presenza delle ragazze nel web. Il dossier fornisce anche dati statistici e storie di vita che evidenziano le sfide e le discriminazioni affrontate dalle bambine e dalle ragazze in diverse parti del mondo. Inoltre, presenta le iniziative e gli sforzi compiuti da Terre des Hommes e altri attori per contrastare queste problematiche e promuovere i diritti delle bambine e delle ragazze. Il documento si conclude con una sezione dedicata al dodicesimo anniversario della Campagna ""indifesa"" e un'analisi dettagliata dei progressi compiuti e delle sfide ancora presenti nella promozione dell'uguaglianza di genere e dei diritti delle donne e delle ragazze a livello globale.
+Per ulteriori informazioni, si può visitare il sito web ufficiale di Terre des Hommes: www.indifesa.org .
+","giornalisti, politici, studenti, docenti, educatori","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         Sport al femminile
+-         STEM e ragazze
+-         Empowerment e partecipazione
+-         Cambi climatici
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere
+"
+2,02,,Indifesa 2022,x,https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2022.pdf,2022-09,settembre 2022,,"Testi: Ilaria Sesana, Rossella Panuzzo, Paolo Ferrara Redazione: Rossella Panuzzo",Terre des hommes,"fisica, negligenza, psicologica, sessuale, sfruttamento","fisica,psicologica,sessuale,negligenza sfruttamento",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi",Nel 2021 i bambini nati da madri minorenni sono stati 891,"Il documento ""L'abuso sessuale online in danno di minori"" è un dossier a cura del CNCPO - Servizio Polizia Postale e delle Comunicazioni, in collaborazione con Save the Children, pubblicato a maggio 2022 dalla Polizia di Stato. Il dossier fornisce un'analisi approfondita sull'abuso sessuale online nei confronti dei minori, evidenziando l'aumento significativo dei reati online in danno ai minori durante la pandemia da COVID-19. Vengono forniti dati allarmanti riguardanti casi di pedopornografia, adescamento online e altre forme di abuso, evidenziando l'aumento del rischio per i minori che utilizzano internet e social network. Il documento sottolinea l'importanza delle iniziative congiunte per contrastare questa forma di violenza e proteggere i minori. Il dossier è frutto della collaborazione tra la Polizia di Stato e Save the Children Italia Onlus, e ha l'obiettivo di promuovere i diritti dell'infanzia e dell'adolescenza e prevenire ogni forma di abuso sessuale online nei confronti dei minori.","giornalisti, politici, studenti, docenti, educatori","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         Sport al femminile
+-         STEM e ragazze
+-         Empowerment e partecipazione
+-         Cambi climatici
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere"
+3,03,x,L'abuso sessuale online in danno di minori,x,"https://s3.savethechildren.it/public/files/uploads/pubblicazioni/labuso-sessuale-online-danno-di-minori-il-dossier.pdf
+",2022-05,maggio 2022,,C.N.C.P.O,Save the children e Polizia di Stato,"pedopornografia, psicologica, sessuale, sfruttamento","pedopornografia,sfruttamento,psicologico,sessuale",minori,"genitori, educatori, giornalisti, studenti","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","“Casi trattati di pedopornografia (anno 2020: 3243, anno 2021: 5316) un incisivo aumento del 47%”","Il documento ""L'abuso sessuale online in danno di minori"" è un dossier a cura del CNCPO - Servizio Polizia Postale e delle Comunicazioni, in collaborazione con Save the Children, pubblicato a maggio 2022 dalla Polizia di Stato. Il dossier fornisce un'analisi approfondita sull'abuso sessuale online nei confronti dei minori, evidenziando l'aumento significativo dei reati online in danno ai minori durante la pandemia da COVID-19. Vengono forniti dati allarmanti riguardanti casi di pedopornografia, adescamento online e altre forme di abuso, evidenziando l'aumento del rischio per i minori che utilizzano internet e social network. Il documento sottolinea l'importanza delle iniziative congiunte per contrastare questa forma di violenza e proteggere i minori. Il dossier è frutto della collaborazione tra la Polizia di Stato e Save the Children Italia Onlus, e ha l'obiettivo di promuovere i diritti dell'infanzia e dell'adolescenza e prevenire ogni forma di abuso sessuale online nei confronti dei minori.","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","-         Casi trattati
+-         Autori di reato
+-         Vittime adescate
+-         Luoghi virtuali adescamento
+-         Autori di reato minorenni"
+4,04,,Prima indagine nazionale sul maltrattamento dei bambini e degli adolescenti in Italia 2015,x,"
+https://cismai.it/assets/uploads/2015/05/Indagine_maltrattamento_TDH_Cismai_Garante_mag15.pdf
+",2021-04,6 aprile 2021,,"Supervisione della ricerca Luca Martinelli, Ufficio Autorità Garante per l’Infanzia e l’Adolescenza Coordinamento tecnico - operativo Federica Giannotta - Fondazione Terre des Hommes Italia Gloria Soavi - CISMAI Coordinamento scientifico Gloria Soavi - CISMAI Rocco Briganti - CISMAI Federica Giannotta - Fondazione Terre des Hommes Italia Staff ricerca Alessandra Crippa - Fondazione Terre des Hommes Italia/CISMAI Monica Patrizio - Fondazione Terre des Hommes Italia/CISMAI",CISAMAI e Terre des hommes e Autorita Garante per l'infanzia ed adolescenza,"domestica, fisica, negligenza, psicologica, sessuale, sfruttamento","fisica, psicologica, sessuale, negligenza, sfruttamento, domestica",minori,"genitori, educatori, giornalisti, studenti","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi"," la metà dei bambini maltrattati subisce una grave forma di trascuratezza, e la violenza assistita è la seconda forma di violenza più diffusa, con circa 1 bambino su 5 fra quelli maltrattati testimone di violenza domestica","In Italia, l'indagine nazionale sul maltrattamento dei bambini e degli adolescenti ha rivelato una realtà allarmante: nonostante l'esistenza di un sistema normativo avanzato, persiste una mancanza di strumenti efficaci per il monitoraggio e la prevenzione del fenomeno. La ricerca ha evidenziato che lo 0,98% dei minori è in carico ai Servizi Sociali per maltrattamento, una percentuale che lievita all'1,49% se si includono anche i casi di minori presi in carico per altre ragioni ma poi rivelatisi vittime di maltrattamento. Questi dati, sebbene rappresentino solo la punta dell'iceberg, sottolineano l'urgenza di un impegno concreto per proteggere i diritti dei bambini e prevenire la violenza, un impegno che deve tradursi in azioni sistematiche e coordinare a livello nazionale
+","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","Metodologia dell’indagine
+Minorenni presi in carico dai servizi sociali
+Minorenni maltrattati
+Motivazioni delle prese in carico
+Interventi attivati nei vari comuni
+"
+5,05,x,Seconda indagine nazionale sul maltrattamento dei bambini e degli adolescenti in Italia 2021,x,https://cismai.it/assets/uploads/2021/04/DossierMaltrattamento-2021-10-singole-1.pdf,2015-05,15 maggio 2015,,"Supervisione della ricerca Margherita Brunetti, Ufficio Autorità Garante per l’Infanzia e l’Adolescenza Stefania Pizzolla, Ufficio Autorità Garante per l’Infanzia e l’Adolescenza Coordinamento tecnico-operativo Andrea Bollini, CISMAI Dario Merlino, CISMAI Federica Giannotta, Fondazione Terre des Hommes Italia Staff di ricerca Valeria Ferrara, CISMAI - Fondazione Terre des Hommes Italia Monica Patrizio, CISMAI - Fondazione Terre des Hommes Italia",CISMAI e Terre des hommes e Autorita Garante per l'infanzia ed adolescenza,"domestica, fisica, negligenza, psicologica, sessuale, sfruttamento","fisica, psicologica, sessuale, negligenza, sfruttamento, domestica",minori,"genitori, educatori, giornalisti, studenti","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi",ogni 1.000 bambini residenti 45 sono presi in carico dai Servizi Sociali ossia 401.766,"Il dossier ""Maltrattamento all'infanzia in Italia"" del 2021 fornisce un quadro dettagliato della situazione, evidenziando l'urgenza di affrontare il problema e adottare misure concrete per proteggere i minori. Secondo il report, nel mondo un miliardo di bambini ogni anno (uno su due) è vittima di violenza, e in Italia, la situazione non è meno preoccupante. Ad esempio, si stima che tre bambini di età compresa tra 2 e 4 anni su quattro sperimentano punizioni violente da parte dei propri caregiver, e un bambino su quattro di età inferiore ai 5 anni vive con una madre che è vittima di violenza da parte del compagno. Inoltre, uno studente di tre età compresa tra 11 e 15 anni è stato vittima di bullismo da parte dei pari. Il dossier fornisce inoltre raccomandazioni e proposte concrete per contrastare la violenza sui minori, sottolineando l'importanza di adottare politiche efficaci basate su dati affidabili e costanti sull'incidenza e la prevalenza del maltrattamento e dell'abuso all'infanzia e all'adolescenza.
+","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","Metodologia dell’indagine
+Minorenni presi in carico dai servizi sociali
+Minorenni maltrattati
+Motivazioni delle prese in carico
+Interventi attivati nei vari comuni
+"
+6,06,,"Studio nazionale ""Tagliare sui bambini è davvero un risparmio?""",x,https://cismai.it/assets/uploads/2013/12/STUDIO-DI-PREVALENZA-6261_Tagliare_sui_bambini_studioTDH_Bocconi_Cismai_compressed1.pdf,2013-12,04 dicembre 2013,,Paola profeta e Marcella Sala,CISMAI e Terre des hommes e Università Bocconi,assistita,assistenza,minori,prese in carico,Studio di ricerca e statistiche,"totale costi diretti ed indiretti sulla spesa pubblica d’intervento su minori 13.056.363.807 pari a 0.87% costi PIL, anno 2010","Il documento è un rapporto dettagliato su uno studio di prevalenza relativo al maltrattamento minorile e agli impatti sui costi annui degli interventi su minori, purtroppo non ci sono aggiornamenti e l’anno dei dati del report è il 2010 , tramite altri Dossier sappiamo che dal 2010 ad oggi abbiamo avuto un incremento di questa tipologia d’abusi e possiamo solo immaginare l’aumento delle spese annue.
+","giornalisti, formatori, ppolitici, studenti","Numero di bambini abusati dall’anno 2005 all’ anno 2011, diviso per aree geografiche
+Studio di prevalenza ed incidenza
+Spese ospedalizzazione
+Spese cura della salute  mentale
+Spese per strutture strutture-prestazioni residenziali
+Spese affido familiare
+Spese per servizio sociale professionale
+Spese per interventi diretti per il rispetto della legge
+Spesa giustizia minorile
+Totale costi e spese PIL
+Costi indiretti
+Spesa per l’educazione speciale
+Spesa per la salute da adulti che sono vittime di violenze da piccoli
+Spesa delinquenza da adulti e minorile
+Perdita produttività per la società
+"
+7,07,,Indagine quali-quantitativa su abusi e violenze nello sport,x,https://www.sportesalute.eu/images/studi-e-dati-dello-sport/schede/2023/139-Indagine-Nielsen-sugli-abusi-e-violenze-nello-sport-Italiano.pdf,2023-06,28 giugno 2023,,"Mike Hartill, Stefano Ferracuti e Benedetta Barchielli","General report Italia, Nielsen, Change the game in collaborazione con: Terre des hommes, CISMAI, Dipartimento per lo sport.","fisica, psicologica, sessuale","fisica, psicologica, sessuale",minori,ambito sportivo,"Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","Tra coloro che hanno subito violenza sessuale, si riscontra una prevalenza di problemi di salute cronici 1,2 volte superiore rispetto alla media","Il documento fornisce un'indagine sulla condotta di Nielsen sulla violenza e gli abusi nello sport giovanile in Italia. La ricerca si basa sul progetto Child Abuse in Sport European Statistics (CASES) e fornisce dati sulla prevalenza di violenza interpersonale, abusi e maltrattamenti subiti dai giovani atleti. I partecipanti, atleti italiani di età compresa tra i 18 ei 30 anni che hanno praticato uno sport organizzato in età minore, hanno completato un questionario via web.
+I risultati mostrano che la violenza psicologica è la forma più diffusa, seguita dalla violenza fisica, dalla negligenza e dalla violenza sessuale. La ricerca evidenzia anche le conseguenze di tali abusi, come il cambiamento di disciplina sportiva, l'abbandono dello sport e problemi di salute. Inoltre, vengono esaminati i temi della colpevolizzazione della vittima e della discrepanza tra le aspettative degli atleti e degli adulti di riferimento. I partecipanti hanno riferito di non aver chiesto né ricevuto aiuto per gli eventi negativi subiti. La ricerca fornisce un'importante panoramica sulla violenza nello sport giovanile in Italia, evidenziando la necessità di interventi e politiche preventive
+","giornalisti, formatori, studenti, genitori, caregiver","Violenza nel contesto sportivo in base all’età ed al genere
+Riferimenti al livello raggiunto
+Età e frequenza del abuso
+Tipologia dell’abuso
+Luoghi degli abusi
+Richiesta d’aiuto
+Conseguenze
+"
+8,08,,Relazione L. 269/1998 Minori 2021,x,https://famiglia.governo.it/media/2878/es_relazione_legge_269_1998_anno_2021.pdf,2022-12,dicembre 2022,,"Raffaella Pregliasco (coordinamento), Rosa Arcuri, Gianluca Capra, Anna Elisa D’Agostino, Ester di Napoli, Elena Falcomatà, Luca Giacomelli, Ilaria Lotti, Maja Barbara Miernik, Carla Mura, Federica Poscolere, Roberto Ricciotti, Elisa Vagnoli",Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri,"fisica, psicologica, sessuale","sessuali, fisiche, psicologiche,",minori,italia,Possiamo trovare tutte le relazioni dal 2003 ad oggi digitando “relazione al parlamento sul coordinamento della legge 269 anno…”,,"Il dossier in questione riguarda la relazione al Parlamento sull'attività di coordinamento di cui all'art. 17, comma 1, della legge 3 agosto 1998, n. 269. Il documento fornisce un'ampia panoramica delle iniziative e dei risultati ottenuti nel 2021 in merito alla prevenzione e al contrasto dell'abuso e dello sfruttamento sessuale dei minori. Vengono presentate diverse campagne di comunicazione e sensibilizzazione, nonché i dati relativi all'attività del Servizio 114 Emergenza Infanzia, che ha gestito un totale di 347 casi di abuso sessuale offline e online nel corso dell'anno. Inoltre, il dossier evidenzia l'importanza della formazione intra e interprofessionale, nonché le azioni e gli obiettivi individuati dai vari gruppi di lavoro coinvolti nel contrasto a tali fenomeni. Sono inoltre riportate le principali tematiche affrontate dai diversi gruppi di lavoro, come la sicurezza nel mondo digitale e lo sviluppo e la condivisione delle banche dati inerenti al fenomeno dell'abuso e dello sfruttamento sessuale dei minori.","politici, studenti, giornalisti","Piani infanzia e pedofilia
+Impegno amministrazioni centrali
+Impegno terzo settore
+Dati e fonti disponibili
+"
+9,09,,Relazione L. 269/1998 Minori 2020,,,,,,,,,,,,,,,,
+10,10,,Relazione L. 269/1998 Minori 2019,x,https://famiglia.governo.it/media/2143/relazione_al_parlamento_269_2019_dipofam.pdf,2020-12,2017,,"Alessandra Bernardon, Erika Bernacchi, Ester di Napoli, Anna Elisa D’Agostino, Lucia Dringoli, Elena Falcomatà, Maja Barbara Miernik, Raffaella Pregliasco, Roberto Ricciotti, Serena Tucci, Elisa Vagnoli",Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri,"fisica, psicologica, sessuale","sessuali, fisiche, psicologiche,",minori,italia,Possiamo trovare tutte le relazioni dal 2003 ad oggi digitando “relazione al parlamento sul coordinamento della legge 269 anno…”,"Il Centro nazionale per il contrasto alla pedopornografia online ha coordinato 514 attività d'indagine, che hanno portato a 37 arresti e 626 denunce","Il dossier del 2019 riguarda principalmente il progetto DIF (Digital Image Forensic) sviluppato in collaborazione con l'Università di Salerno per fornire strumenti investigativi innovativi per l'analisi delle immagini e l'identificazione dei minori vittime di reati di pornografia minorile. La Convenzione di Budapest, ratificata dall'Italia, rappresenta uno strumento internazionale vincente per combattere la criminalità informatica, stabilendo la condotta anziché la tecnologia e offrendo un quadro per la cooperazione tra gli Stati parte. La Convenzione criminalizza varie attività, inclusi i reati legati alla pornografia minorile e procedura di pubblicazione per aumentare l'efficienza delle indagini e fornire una base giuridica per la cooperazione internazionale. La normativa introduce anche nuovi reati, come la diffusione illecita di immagini o video sessualmente espliciti, e prevede misure di assistenza, sostegno e protezione delle vittime di minore età. Inoltre, la mozione camerale del 2 luglio 2019 impegna il Governo su varie tematiche, tra cui la costituzione di un tavolo tecnico interdisciplinare permanente e il potenziamento delle attività dei servizi sociali e delle iniziative volte a rafforzare i controlli all'interno del percorso di affidamento, delle case famiglia e dei centri per l'infanzia. La normativa regionale attribuisce alle Regioni il compito di legiferare in via esclusiva su specifiche materie, come la ratifica della Convenzione sui diritti dell'infanzia e dell'adolescenza.","politici, studenti, giornalisti","Piani infanzia e pedofilia
+Impegno amministrazioni centrali
+Impegno terzo settore
+Dati e fonti disponibili
+"
+11,11,,Relazione L. 269/1998 Minori 2018,x,https://famiglia.governo.it/media/1923/idi_rel2018_200310.pdf,2019-12,2018,,"Raffaella Pregliasco, Anna Elisa D’Agostino, Elisa Vagnoli, Roberto Ricciotti, Giovanni Damiano, Serena Tucci",Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri,"covid-19, fisica, psicologica, sessuale","sessuali, fisiche, psicologiche, covid-19",minori,italia,Possiamo trovare tutte le relazioni dal 2003 ad oggi digitando “relazione al parlamento sul coordinamento della legge 269 anno…”,,"Il documento fornito costituisce una relazione al Parlamento italiano sulle attività di coordinamento relative alla tutela dei minori, come previsto dalla Legge 269/1998. Il rapporto copre diversi aspetti, tra cui il numero di minori in carico ai Servizi Sociali che sono vittime di violenza sessuale e di altre forme di sfruttamento e maltrattamenti. Si discute inoltre dell’aumento della violenza domestica durante la pandemia di COVID-19, nonché dell’impatto della pandemia sull’abuso e sullo sfruttamento dei minori. Il rapporto presenta dati statistici su questi temi, compreso il numero di vittime con figli che hanno cercato assistenza. Si evidenzia inoltre l'impegno del governo italiano nel tradurre in italiano la Convenzione ONU sui diritti dell'infanzia e nel rafforzare le misure a tutela dei minori.","politici, studenti, giornalisti","Piani infanzia e pedofilia
+Impegno amministrazioni centrali
+Impegno terzo settore
+Dati e fonti disponibili"
+12,12,,Relazione L. 269/1998 Minori 2017,,,,,,,,,,,,,,,,
+13,13,,Quaderni del Centro Nazionale di Documentazione e Analisi per l'Infanzia e l'Adolescenza 2003,x,https://www.minori.gov.it/sites/default/files/Quaderni_Centro_Nazionale_27.pdf,2003-01,Dicembre 2002,,"Donata Bianchi, Erika Bernacchi, Gildo Ciccotti, Alessandro Salvi",Istituto degli Innocenti,"fisica, maltrattamento, pornografia minorile, prostituzione, psicologica, sessuale, sfruttamento","sessuale, fisiche, psicologiche prostituzione e pornografia minorile, violenza sessuale, maltrattamento, sfruttamento.",minori,italia ,,"stimate in 500 mila in tutta l’Europa occidentale le donne schiave avviate alla prostituzione, in Italia sarebbero circa 50 mila, di cui un terzo minorenni. Sempre secondo tale istituto la prostituzione minorile registrerebbe un fatturato annuo tra i 7 e i 13 miliardi di dollari, un affare la cui redditività aumenta a un tasso del 40-50% l’anno, molto più velocemente del mercato della droga","Il dossier in questione ""Quaderni del Centro nazionale di documentazione e analisi per l'infanzia e l'adolescenza"" intitolato ""Uscire dal silenzio: Lo stato di attuazione della legge 269/98"". Si tratta di una relazione redatta dal Ministero del lavoro e delle politiche sociali in collaborazione con il Centro nazionale di documentazione e analisi per l'infanzia e l'adolescenza, che si concentra sullo sfruttamento sessuale dei minori, inclusa la prostituzione, il turismo sessuale e la pornografia infantile. Il dossier fornisce un'analisi approfondita dei fenomeni di violenza e sfruttamento sessuale dei minori, nonché degli interventi giudiziari, legislativi e sociali a livello nazionale, regionale e locale per contrastare tali fenomeni. Inoltre, presenta dati, orientamenti giuridici, iniziative a livello centrale, riforme nel settore sociosanitario, progetti di prevenzione e tutela, nonché considerazioni conclusive e documenti delle istituzioni europee e internazionali. Il dossier si propone di fare il punto sulla situazione e sull'attuazione della legge 269/98, offrendo un'ampia panoramica sugli sforzi e sulle sfide legate alla protezione delle minori vittime di abusi sessuali e sfruttamento
+","politici, studenti, giornalisti","Dati per reati commessi da minorenni e giovani adulti 
+Dati sui minori vittime di reati 
+Fonti e dati edofilia
+Disegni di legge
+Governo e ministeri
+Madia e vittimizzazione secondaria
+"
+14,16,,Minorenni vittime di abusi 2022,x,https://bambiniegenitori.bergamo.it/files/elaborato-minorenni-vittime-di-abusi%20ministero%20dell'interno.pdf,2022-11,Novembre 2022,,Servizio Analisi Criminale,"Servizio Analisi Criminale; Dipartimento Pubblica Sicurezza, direzione centrale della Polizia Criminale; Ministero dell'Interno","abbandono, assistita, di gruppo, fisica, maltrattamento, psicologica, sessuale, sfruttamento","psicologiche, maltrattamenti, fisiche, assistite, sfruttamento, abbandono, di gruppo, sessuali",minori,Nazionale,,"In sostanza, gli autori sono uomini in quasi 9 casi su 10, mentre in quasi i due terzi dei casi (62%) gli autori sono adulti di “mezza età”, compresi nelle fasce anagrafiche che vanno dai 35 ai 64 anni. Limitata a poco più di un quarto (29%) l’incidenza degli stranieri.","Il dossier del Ministero dell'Interno analizza varie forme di delittuosità che colpiscono i minori, tra cui l'abbandono, l'abuso, gli atti sessuali, i maltrattamenti, la pornografia, la sottrazione e la violenza sessuale. Inoltre, esplora il mondo virtuale, evidenziando la diffusione illecita di immagini sessualmente esplicite, l'adescamento online, il cyberbullismo e la sextortion. I dati mostrano un aumento di reati come l'abuso dei mezzi di correzione, la violenza sessuale e la violenza sessuale aggravata presso istituti di istruzione. Le vittime femminili sono predominanti, in particolare quelle al di sotto dei 14 anni, e gli autori sono in prevalenza uomini tra i 35 ei 64 anni. Il documento fornisce anche dati dettagliati sul numero di reati commessi in Italia e sulle vittime minorenni.","studenti, formatori, politici, giornalisti","Reati commessi
+Le vittime
+Gli autori di reato
+Web
+"
+15,17,,I diritti dell'infanzia e dell'adolescenza in Italia,x,"https://gruppocrc.net/wp-content/uploads/2021/11/Rapporto_CRC-dati_regione_2021.pdf
+",2021-11,Novembre 2021,,"Coordinamento attività di ricerca Arianna Saulini (Save the Children Italia) Comitato di pilotaggio e redazione: Cinzia Canali (Fondazione Emanuela Zancan), Rita Campi (IRCCS-Mario Negri), Barbara D’Ippolito (Save the Children). Contributo metodologia e analisi dati Patrizia Luongo",Gruppo CRC,"assistita, educativa, familiare, fisica, incuria, ipercura, psicologica, scolastica","assistita, fisica, psicologica, educativa, scolastica, familiare, incuria, ipercura",minori,Italia offline,,"i minori vittime di abusi, i reati per maltrattamento contro familiari e conviventi segnalati nel 2020 sono 21.709","Il dossier fornisce un'analisi approfondita di diversi aspetti legati all'infanzia e all'adolescenza nella regione considerata. Nell'ambito della salute e dei servizi, vengono segnalati dati significativi, come il numero medio di residenti per sede consultoriale, la presenza di punti nascita e la copertura vaccinale. Vengono inoltre esaminati temi legati all'ambiente, alla protezione dei minori e ai dati demografici. Ad esempio, si evidenzia la presenza di minori stranieri non accompagnati, minori in stato di detenzione, minori vittime di abusi e persone di minore età con genitore detenuto. Il dossier fornisce anche informazioni sulla lettura, la pratica sportiva e la povertà educativa digitale tra i ragazzi, nonché sui dati relativi all'affido familiare, all'adozione nazionale e internazionale e alla sicurezza nelle scuole. Inoltre, vengono forniti dati sulla spesa per interventi e servizi sociali per l'area famiglia e minori e la spesa per servizi educativi alla prima infanzia.
+","studenti, formatori, politici, giornalisti","Dati demografici
+Risorse dedicate
+Povertà materiale ed educativa
+Ambiente familiare
+Educazione, gioco e cultura
+Salute e servizi di base
+Protezione
+"
+16,18,,Documento conclusivo approvato dalla Commissione sull'indagine conoscitiva sulle forme di violenza fra minori e ai danni di bambini e adolescenti,x,"https://www.parlamento.it/japp/bgt/showdoc/frame.jsp?tipodoc=SommComm&leg=18&id=1180446&part=doc_dc-allegato_a
+",2020-11,18 novembre 2020,,Commissione parlamentare per l'infanzia e l'adolescenza,Commissione parlamentare per l'infanzia e l'adolescenza,tutte,tutte,minori,Italia offline online,,"Nel 2019, sono stati presi in carico dagli Uffici del servizio sociale per i minorenni un totale di 16.174 minori e giovani adulti","L’indagine contiene informazioni dettagliate su vari aspetti legati alla pedofilia, alla pedopornografia e alle baby gang. Vengono forniti dati statistici, analisi e testimonianze relative all'aumento delle attività criminali online, all'adescamento di minori, all'uso della rete da parte dei giovani, nonché ai rischi connessi, come il sexting e il revenge porn. Inoltre, vengono descritte le dinamiche e le caratteristiche delle baby gang, evidenziando l'importanza dell'etnia come elemento di aggregazione e le attività criminali ad esse associate. Il documento fornisce inoltre dettagli sulle attività svolte dalle Forze di polizia per contrastare tali fenomeni e sulle cause psicologiche e sociali che potrebbero contribuire alla formazione di baby gang.
+","studenti, formatori, politici, giornalisti, educatori","Babygang 
+Rapporto tra minori e criminalità organizzata
+Maltrattamento e abuso
+Violenza sessuale e pedopornografia
+Prostituzione minorile e turismo sessuale
+Violenza sui minori con disabilità.
+"
+17,19,,"Dentro i numeri, la lotta alla pedofilia online",x,"https://www.interno.gov.it/sites/default/files/2023-05/dati_polizia_postale.pdf
+",2023-05,5 maggio 2023,,Polizia Postale e delle Comunicazioni,Polizia Postale e delle Comunicazioni,"pedopornografia, sextortion","pedopornografia, sextortion",minori,italia,"Campagne di sensibilizzazione e prevenzione della Polizia Postale rivolte a minori
+","Nel 2022 sono stati 150 i ragazzi segnalati all’Autorità Giudiziaria come autori di reati gravi, erano appena 20 nel 2016. Sono quasi sempre maschi, con un’età media di circa 15 anni","Il dossier fornisce un'analisi dettagliata delle iniziative e dei risultati ottenuti dalla Polizia Postale e delle Comunicazioni nella lotta contro i pericoli del web per i minori. Vengono presentati i numeri delle iniziative educative, i risultati delle azioni di contrasto alla pedopornografia e all'adescamento online, nonché le strategie di cooperazione e prevenzione messe in atto. In particolare, si evidenziano i seguenti punti:
+Campagne educative: Nel 2022, la Polizia Postale e delle Comunicazioni ha avviato una campagna educativa itinerante per sensibilizzare e prevenire i rischi del web per i minori, coinvolgendo milioni di studenti, genitori e insegnanti in diverse città.
+Azioni di contrasto: Vengono forniti i numeri relativi alle azioni di contrasto alla pedopornografia, inclusi il numero di siti illegali oscurati, le persone indagate e gli arresti effettuati.
+Cooperazione e sinergie: Viene sottolineata l'importanza della cooperazione con organizzazioni come Save the Children e Telefono Azzurro, nonché l'analisi dei trend e delle strategie adottate per affrontare fenomeni come l'adescamento online e la sextorsion.
+Il dossier fornisce quindi un quadro dettagliato delle attività svolte e dei risultati ottenuti nella lotta contro i pericoli del web per i minori, evidenziando l'impegno e le strategie messe in atto dalla Polizia Postale e delle Comunicazioni.
+
+","studenti, formatori, politici, educatori, giornalisti, docenti","Numero dei siti illegali
+Numero di persone indagate per pedopornografia
+Numero dei casi di adescamento online 2022
+Numero di minori addescati e numero di minori indagati
+I protocolli di intesa stipulati nel 2022
+Modalità di intervento
+Supporto agli operatori
+Campagne di sensibilizzazione
+"
+18,20,,Abbattiamo il muro del silenzio (dossier),x,"
+https://s3.savethechildren.it/public/files/uploads/pubblicazioni/abbattiamo-il-muro-del-silenzio-il-dossier_1.pdf
+",2018-06,giugno 2018,,"A cura di Antonella Inverno, con la collaborazione di Maria Giuseppina Muratore e Isabella Corazziari, ricercatrici ISTAT Contributo redazione testi: Andrea Panico e Giovanni Malavasi",Save the Children Italia Onlus,"assistita, domestica, economica, fisica, psicologica","violenza domestica, fisica, psicologica, economica, assistita",minori e madri,"italia, mondo, europa","campagne di sensibilizzazione 
+","Osservando le diverse situazioni che affrontano le mamme vittime di violenza domestica, appare evidente come sia ancora scarsa la consapevolezza rispetto all’impatto che un clima di violenza dentro casa può avere sui figli","Il dossier ""Abbattiamo il muro del silenzio"" realizzato da Save the Children e ISTAT analizza la violenza domestica e l'impatto sui minori. Esso evidenzia che gli abusi contro le donne sono diffusi, con oltre 6 milioni di donne italiane che hanno subito violenza fisica o sessuale. Inoltre, i figli sono spesso testimoni di questi atti, con oltre il 65% delle persone piccole che hanno assistito ad episodi di violenza contro le madri. Il dossier sottolinea anche l'importanza di raccogliere dati accurati e di intervenire per prevenire e proteggere le donne e i minori coinvolti. L'analisi fornisce inoltre dati sulle condanne per maltrattamenti in famiglia, evidenziando un aumento significativo nel corso degli anni. In generale, il dossier fornisce una panoramica dettagliata della violenza domestica in Italia e dell'urgenza di affrontare questo problema diffuso e impattante, specialmente sui minori.
+
+","studenti, politici, formatori, giornalisti, insegnanti, centri antiviolenza","Dati sulla violenza alle donne 
+Dati sulla violenza assistita
+Dati sul tipo di violenza 
+Dati sulla fuoriuscita dalla violenza
+Conseguenze a lungo termine su madri e figl*
+Dati sulle condanne definitive per maltrattamenti in famiglia
+I tempi della giustizia e della pena definitiva
+Linee guida del Consiglio Superiore della Magistratura
+Costi generati dalla violenza domestica (Australia-Canada)-(Italia non pervenuta)
+"
+19,21,,Sondaggio sulla sicurezza online,x,https://ecpat.org/wp-content/uploads/2023/10/Italy.pdf,2023,2023,,ECPAT,ECPAT,online,on-line,maggiorenni,sondaggio,,Il 76% afferma che sarebbe disposto a rinunciare parzialmente alla propria privacy online se ciò aiutasse a proteggere i bambini da potenziali abusi sessuali e sfruttamento su Internet,Un sondaggio europeo e nazionale che evidenzia la volontà dei cittadini di avere delle leggi tutelanti verso la privacy dei minori.,"giornalisti, politici, studenti",
+20,22,,Dossier 2023,x,https://azzurro.it/wp-content/uploads/2023/05/dossier-giornata-mondiale-pedofilia-2023.pdf,2023,2023,,"Direzione Scientifica: Ernesto Caffo Pubblicazione a cura di: Michele Carpentieri, Anna Giussani, Simona Maurino, Rebecca Minoliti, Alessandra Zanotti Ricerca “Abusi e Minori nei Media” a cura di: Volocom Technology Grafica: Andrea Leonardi",Telefono Azzurro e Dipartimento per le politiche della famiglia,"assistita, fisica, offline, online, psicologica, sessuale","offline, online, assistite, spicologiche, fisiche, sessuali",minorenni,chiamate emergenza telefono azzuro,dati Nazionali Europei,81% Le immagini autoprodotte da vittime femmine tra gli 11 e i 13 anni,"Il Dossier contiene informazioni dettagliate sulla giornata mondiale contro la pedofilia e la pedopornografia, nonché sull'attività del Servizio 114 Emergenza Infanzia gestito da Telefono Azzurro. Il documento fornisce una panoramica sulle attività del servizio, i dati relativi agli abusi sessuali sui minori, la sua evoluzione nel tempo e il suo ruolo nella lotta contro l'abuso sessuale e la pedofilia. Inoltre, vengono forniti dettagli sulle modalità di accesso al servizio e sull'importanza della sua presenza costante per offrire supporto a bambini, adolescenti e adulti che segnalano situazioni di emergenza, rischio e/o pregiudizio riguardanti l'infanzia e l'adolescenza. Troviamo inoltre delle testimonianze, l’operato dell’associazione, e un piccolo glossario con la spiegazione della terminologia utilizzata per gli abusi su minori.
+","giornalisti, genitori, politici, studenti, educatori, formatori","Testimonianze 
+Pedofilia, definizione del fenomeno
+Abusi europei
+Abusi nazionali
+Dati di telefono azzurro
+Dati online
+Dati off line
+Contesti in cui si sviluppa abuso on e off line
+"
+21,23,,Io mi fidavo,x,https://azzurro.it/wp-content/uploads/2023/03/Dossier-Pedofilia-2022.pdf,2022-05,5 maggio 2022,,"Chiara Antonelli, Michele Carpentieri, Anna Giussani, Simona Maurino, Rebecca Minoliti, Arianna Rossi e Alessandra Zanotti",Telefono Azzurro e Dipartimento per le politiche della famiglia,"assistita, domestica, pedopornografia","pedofilia online, pedofilia ofline, assistita, domestica",minorenni,chiamate emergenza telefono azzuro,,"Durante l'anno 2021, il Centro Ascolto e Consulenza 19696 ha gestito 132 casi di Pedofilia e Abusosessuale offline, con una media di 11 casi gestiti al mese… 
+Durante l'anno 2021, il Servizio Emergenza Infanzia 114 ha gestito 182 casi di Pedofilia e Abuso sessuale online con una media di oltre 15 casi gestiti al mese","Il dossier in questione affronta il tema dell'abuso e dello sfruttamento sessuale dei minori, con particolare attenzione all'ambiente digitale. Esso fornisce una panoramica dettagliata sulle diverse forme di abuso, i rischi connessi all'utilizzo di Internet da parte dei minori ei dati più recenti relativi alle attività svolte da organizzazioni come l'Internet Watch Foundation e INHOPE. 
+Inoltre, vengono presentati i servizi offerti da Telefono Azzurro e i dati relativi alle chiamate ricevute. Il documento si articola in tre sezioni principali: ""Abuso e sfruttamento sessuale a danno di minori"", ""Diritto a chiedere aiuto: i Servizi ei Dati di Telefono Azzurro"" e ""Combattere l'abuso sessuale: i bambini ei ragazzi al centro delle strategie "". Ogni sezione fornisce informazioni dettagliate e aggiornamenti su vari aspetti legati a questo delicato argomento, offrendo un quadro completo della situazione attuale e delle iniziative messe in atto per contrastare l'abuso e proteggere i minori.
+","giornalisti, genitori, educatori, studenti","Sfruttamento sessuale a danno dei minori
+Diritto di chiedere aiuto
+Strategie per combattere l’abuso
+CSAM
+Casi gestiti
+Miori coinvolti
+Genere vittime
+Attivazione della rete dei servizi territoriali
+Regione di provenienza
+Abusanti
+Gestione provenienza dei casi
+Offline online"
+22,24,,Il diritto di fidarsi,x,https://azzurro.it/wp-content/uploads/2023/03/Dossier-Abusi-2021.pdf,2021,2021,,NON TROVO ,Telefono Azzurro e Dipartimento per le politiche della famiglia,"assistita, domestica, fisica, offline, online, psicologica, sessuale","online, offline, domenstica, fiscica, psicologica, assistita, sessuale",minorenni,chiamte emergenza telfono azzurro,,"Per quanto concerne i presunti responsabili dei casi gestiti durante l’anno 2021, i dati mostrano come nel 49,5% dei casi siano coinvolti i genitori dei minori","Il dossier fornisce dati allarmanti sull'abuso e lo sfruttamento sessuale dei minori, evidenziando un aumento significativo di casi durante la pandemia. I risultati mostrano un aumento delle indagini sull'adescamento di minori, con un'ampia percentuale di abusi perpetrati all'interno della famiglia. Inoltre, vengono forniti dettagli sulle segnalazioni e sul coinvolgimento delle forze dell'ordine, delle procure e dei servizi sociali. I dati evidenziano anche un aumento delle segnalazioni relative all'abuso sessuale online e all'attivazione dei servizi territoriali. Sono inoltre riportate informazioni sulle tipologie di segnalazioni ricevute e sulla provenienza geografica dei casi. I dati evidenziano la necessità di affrontare con urgenza questa problematica e di potenziare le misure di prevenzione e contrasto all'abuso e allo sfruttamento sessuale dei minori.
+","genitori, educatori, centri accoglienza minori, giornalisti, studenti","Dati sui casi presi in carico dall’associazione
+Dati del tipo di abuso
+Dati degli abusi online ed offline
+Il caso Apple
+Normative europee
+Salute mentale
+La rete come strumento
+"
+23,25,,Dossier Pedofilia,x,https://azzurro.it/wp-content/uploads/2023/03/Dossier-Abusi-2021.pdf,2021,2021,,NON TROVO ,Telefono Azzurro e Dipartimento per le politiche della famiglia,"domestica, esterna, fisica, offline, online, psicologica, sessuale","offline, online, domestica, esterna, fisica, psicologica, sessuale",minorenni,chiamate emergenza telefono azzurro,,"Nel 2020, l’89% dei minori coinvolti nei casi di abuso sessuale offline è di cittadinanza italiana, mentre il 11% di cittadinanza straniera","Il dossier fornisce dati e informazioni dettagliate sull'abuso sessuale e lo sfruttamento a danno dei minori, inclusi i canali di contatto utilizzati dalle vittime per chiedere aiuto, l'età e il genere dei minori coinvolti, nonché le implicazioni dell'abuso sessuale sulla salute mentale. Inoltre, vengono esaminati strumenti, strategie e dati internazionali relativi all'abuso online. Il documento affronta anche le motivazioni connesse all'assenza di richiesta di aiuto da parte delle vittime, evidenziando le barriere emotive e sociali che ostacolano la divulgazione e la richiesta di supporto. I dati presentati nel dossier sono supportati da riferimenti a fonti autorevoli e studi accademici, offrendo così una panoramica completa e approfondita della questione dell'abuso sessuale e dello sfruttamento dei minori.","genitori, educatori, centri accoglienza minori, politici, giornalisti, studenti","Come contrastare la pedofilia
+Conseguenze dopo un abuso
+Situazione post covid-19
+Presa in carico multiprofessionale
+Soluzioni tecnologiche
+Impegno internazionale
+Abuso sessuale online ed offline
+Dati offline degli interventi a Telefono Azzurro
+Dati online degli interventi a Telefono Azzurro
+"
+24,26,,Quanto ancora,x,https://azzurro.it/wp-content/uploads/2023/03/Quanto-Ancora.pdf,2021,maggio 2021,,NON TROVO ,Telefono Azzurro e Dipartimento per le politiche della famiglia,"covid-19, online","on line, covid-19",minorenni,on line chiamate emergenza telefono azzurro,"Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca,",Quanto ancora: è forse la domanda che più spesso ci siamo sentiti fare dai bambini e ragazzi che abbiamo accolto e aiutato in questo anno di pandemia,"Il dossier ""Quanto Ancora"" affronta varie problematiche legate all'emergenza COVID-19, in particolare le situazioni di rischio e di pericolo vissute da minori e adolescenti, evidenziando un aumento delle problematiche avvenute in Rete durante la pandemia. Vengono descritti casi concreti, come quello di Luca, vittima di scambio di materiale pornografico, e di Brian, minacciato e ricattato dopo aver inviato una foto in tempo reale a una persona conosciuta online. Inoltre, il dossier sottolinea l'aumento dell'esposizione dei ragazzi ai rischi della Rete, come il cyberbullismo e lo sfruttamento sessuale online, a causa dell'incremento del tempo trascorso sul web durante la pandemia. Viene evidenziata l'importanza di interventi di formazione e sensibilizzazione per affrontare queste tematiche delicate. Inoltre, il dossier mette in luce gli effetti negativi dell'isolamento e della solitudine sui minori, evidenziando la necessità di supporto e vicinanza da parte degli adulti di riferimento.","formatori, insegnanti, educatori, giornalisti, studenti","Parlano gli operatori del 144 
+Cosa è casa
+Testimonianze
+L'impatto della pandemia sulla salute mentale
+Come nel periodo pandemico cambino le mura domestiche
+Scuola online, lontano dal proprio abusante
+Dad come strumento per chiedere aiuto
+Bullismo a distanza
+Visione degli operatori 114
+"
+25,27,,Chiamiamo le cose con il loro nome,x,https://azzurro.it/wp-content/uploads/2023/03/Giornata-Nazionale-contro-la-Pedofilia.pdf,2020-05,maggio 2020,,NON TROVO ,Telefono Azzurro e Dipartimento per le politiche della famiglia,,glossario,minorenni,chiamate emergenza telefono azzurro,,"Il fenomeno del sextortion consiste nella minaccia di condividere con terzi immagini sessuali della vittima, se quest’ultima non acconsente a fare ciò che le viene chiesto","Un glossario molto utile per chi si approccia per la prima volta alle violenze su minori o per le persone che volessero scrivere di abusi infantili con il rispetto di un linguaggio inclusivo.
+Aggiornato al 2020
+","formatori, giornalisti, politici, studenti ","Glossario con spiegazione di tutti i termini inerenti all’abuso sui minori
+"
+26,28,,Bambini invisibili,x,"
+https://azzussier/
+",2023,2023,,NON TROVO ,Telefono Azzurro e Dipartimento per le politiche della famiglia,"minori scomparsi, tratta esseri umani","tratta esseri umani, minori scomparsi",minorenni,chiamate emrgenza telefono azzurro,,"Nell’anno 2022 sono stati registrati 17.130 minori scomparsi
+","Il dossier “Bambini Invisibili” offre una panoramica del complesso fenomeno dei minori scomparsi, soffermandosi su diverse tipologie di sparizioni, come la fuga da casa, le sottrazioni nazionali e internazionali, e i minori stranieri non accompagnati. Vengono inoltre discusse le caratteristiche e i numeri relativi a ciascun tipo di scomparsa. Il documento evidenzia l’aumento del numero di minori stranieri non accompagnati, provenienti in particolare dall’Ucraina, e la vulnerabilità di questi minori allo sfruttamento e alla violenza. Il dossier sottolinea la necessità di sostegno specializzato e misure di protezione per questi gruppi vulnerabili.
+","formatori, politici, giornalisti, studenti","Tutte le definizioni sull’argomento
+Dati e report di CMEC, NUCMEC e Missing ChildrenEurope UNICEF
+Dati nazionali
+Dati di scomparsa gestiti da Telefono Azzurro
+"
+27,29,,Dentro l'emergenza,x,https://azzurro.it/wp-content/uploads/2023/11/dossier-dentro-l-emergenza.pdf,2023,2023,,NON TROVO ,Telefono Azzurro e Dipartimento per le politiche della famiglia,"bullismo, domestica, offline, online, pedofilia, pedopornografia, scolastica","online, offline, bullismo, pedofilia e pedopornografia, domenstica, scolastica",minorenni,chiamate emergenza telefono azzuro,,"Il 35,4% degli adolescenti transgender ha riferito di essere vittima di cyberbullismo","Il dossier ""Dentro l'emergenza"" affronta diverse tematiche legate alla salute mentale, all'abuso e al maltrattamento nei confronti dei minori. Esso fornisce dati e informazioni su argomenti quali il suicidio, le esperienze di abuso e maltrattamento nell'infanzia, nonché le risposte e le iniziative messe in atto per contrastare tali fenomeni. Inoltre, il dossier include anche un'analisi della situazione italiana in relazione alla prevenzione e al contrasto dello sfruttamento sessuale dei minori. Il documento fornisce inoltre dettagli su strumenti digitali e iniziative volte a contrastare l'abuso sessuale e la pedofilia.","genitori, insegnanti, educatori, giornalisti, politici, studenti","Studi ACEs
+Testimonianze 
+Inquadramenti legali
+Salute mentale prima e dopo covid-19
+Cosa è un pedofilo
+Cyberbullismo
+Groomer
+Sharenting
+A.I
+Gaming
+Descrizione del mondo online e terminologie
+PTSD
+Ecoansia
+Guerre
+Autolesivi- suicidi
+"
+28,30,,Glossario dell'abuso,x,https://azzurro.it/wp-content/uploads/2023/03/Glossario-Abuso.pdf,2023,2023,,NON TROVO ,Telefono Azzurro e Dipartimento per le politiche della famiglia,,glossario,,chiamate emergenza telefono azzurro,,"L’adescamento online, detto anche grooming, è il tentativo da parte di una persona adulta di stabilire una relazione di fiducia con un bambino o un ragazzo attraverso","Questo è un aggiornamento di: “chiamiamo le cose con il loro nome”, è utile per chi si approccia per la prima volta alle violenze su minori o per le persone che volessero scrivere di abusi infantili con il rispetto di un linguaggio inclusivo.
+Glossario aggiornato al 2023. 
+","studenti, giornalisti, formatori, politici",Glossario con spiegazione di tutti i termini inerenti all’abuso sui minori
+29,31,,Piccoli schiavi invisibili 2023,x,https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2023_0.pdf,2023,2023,,NON TROVO ,Save the Children,"caporalato, migranti, minori scomparsi, sfruttamento, tratta esseri umani","tratta esseri umani, minori scomparsi, caporalato, sfruttamento sessuale, migranti",,on line offline,"dati europei, nazionali, mondiali","431 sono state le vittime di tratta a fini di sfruttamento sessuale, 204 per sfruttamento di manodopera e 122 per altre finalità","Il dossier ""Piccoli Schiavi Invisibili"" del 2023 rivela la persistenza della violenza e dello sfruttamento nei settori agricoli e agroalimentari. Si registrano casi di braccianti e lavoratori scomparsi, come quello del giovane Daouda, un mediatore culturale ivoriano scomparso mentre denunciava le cattive condizioni di lavoro. La relazione della Commissione Europea evidenzia un aumento delle vittime di tratta di persone, con il 63% di esse donne e ragazze, e quasi un quarto minorenni, di cui la metà destinata allo sfruttamento sessuale. La proposta della Commissione Europea mira a rafforzare il quadro legislativo in materia di trattazione di esseri umani, includendo il matrimonio forzato e l'adozione illegale tra le forme di sfruttamento. Il rapporto UNICEF sottolinea che i matrimoni forzati di bambini e bambine sono diffusi in diverse regioni del mondo, in particolare in Africa e Asia. Il dossier fornisce anche casi specifici di sfruttamento e difficoltà incontrate da lavoratori migranti, evidenziando la necessità di interventi a livello legislativo e sociale per contrastare questa piaga.","studenti, giornalisti, formatori, politici","Dati inerenti allo sfruttamento minorile
+Dati sulla tratta di minori
+Caporalato
+Sfruttamento sessuale su minori
+Genere degli abusati
+Sguardo mondiale, europeo e nazionale
+"
+30,32,,Piccole mamme,x,https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccole-mamme-rapporto-di-save-children-sulle-mamme-adolescenti-italia.pdf,2011,2011,,NON TROVO ,Save the Children,migranti,situazion madri minori,minori,"scuola, casa, lavoro, istruzione","dati europei, nazionali, mondiali","Gli operatori intervistati sottolineano come i servizi intercettino in prevalenza situazioni multiproblematiche, che richiedono di conseguenza una presa in carico complessa","Il dossier in questione riguarda il rapporto di Save the Children sulle mamme adolescenti in Italia. Il rapporto fornisce dati sul numero di nascite da madri minorenni in Italia, evidenziando una dichiarazione dell'incidenza nel corso degli anni, con una maggiore diffusione nelle regioni del Mezzogiorno e nelle isole. Inoltre, vengono presentati dati sulla provenienza geografica delle giovani mamme straniere, con un cambiamento significativo nel corso degli anni, e sulle caratteristiche socio-demografiche delle madri minorenni, come età, istruzione, lavoro e contesto familiare. Il rapporto include anche un confronto con alcuni paesi europei e fornisce informazioni dettagliate sulla situazione delle mamme adolescenti in alcune province italiane, come Roma e Napoli. Infine, vengono menzionate le condizioni critiche affrontate da molte donne madri in Italia, in termini di condizione economica, integrazione e stabilità lavorativa
+","studenti, giornalisti, formatori, politici","Panoramica sul fenomeno
+Chi sono le mamme teen in italia
+Punto di vista degli operatori
+Testimonianze 
+Relazioni sociali da parte delle madri adolescenti
+Utilizzo del servizio sanitario
+Tre città 
+"
+31,33,,Children Come First,x,https://s3.savethechildren.it/public/files/uploads/pubblicazioni/children-come-first-dossier-finale.pdf,2021,2021,,NON TROVO ,Save the children,"fisica, migranti, psicologica, sessuale","migranti,violenze fisiche, psicologiche e sessuali",minori,,,"22.958 minori, di cui 5.572 minori accompagnati da un familiare o un parente, e 17.387 minori non accompagnati (MSNA","Il dossier ""Children Come First"" è un documento realizzato da Save the Children nel contesto del progetto ""Children Come First Intervento in frontiera"", finanziato dal Fondo Asilo, Migrazione e Integrazione 2014-2020. Il dossier fornisce informazioni quantitative e qualitative al fine di migliorare la conoscenza fenomenologica della migrazione minorile in ingresso in Italia via mare. Contiene sezioni che trattano i minori migranti soli arrivati ​​via mare, le misure per la protezione dei minori, le raccomandazioni e altro ancora. Il documento è stato pubblicato a cura di vari autori ed è stato elaborato per migliorare il sistema di protezione e accoglienza dei minori migranti in Italia. Ogni informazione contenuta nel dossier potrà essere utilizzata solo dietro opportuna citazione della fonte. Il dossier fornisce anche informazioni sulle attività svolte dal team operativo del progetto, i dati relativi agli arrivi in ​​frontiera e le principali nazionalità tra i minori non accompagnati.
+","studenti, giornalisti, formatori, politici","Testimonianze
+Monitoraggio del fenomeno dal 2016 al 1018
+Dati bambini MSNA
+Dati bambini MA
+Misure per la tutela minori
+Divisione in regioni sulla situazione della tematica"
+32,34,,Sui bambini non si tratta,x,https://azzurro.it/wp-content/uploads/2023/02/Dossier-25-maggio-ultima-versione-web.pdf,2022,2022,,NON TROVO ,Telefono Azzurro e Dipartimento per le politiche della famiglia,"caporalato, minori scomparsi, tratta esseri umani","caporalato, minori scomparsi, tratta umana",minori,chiamate emergenza telefono azzurro,,"Dall’anno 2009, il 62% dei minori coinvolti è di sesso maschile, mentre il 38% è di sesso femminile","Il dossier tratta della scomparsa dei bambini in situazioni di guerra e conflitto, sottolineando l'importanza del diritto all'identità e alla cittadinanza per i bambini, nonché le strategie di cooperazione internazionale e nazionale per affrontare questa situazione. Vengono presentate le varie tipologie di scomparsa, come la fuga da casa, la sottrazione nazionale e internazionale, il rapimento dei minori stranieri non accompagnati che scompaiono. Inoltre, il documento fornisce informazioni sulle rotte dei percorsi di minori stranieri non accompagnati in Italia ed Europa, nonché sulle conseguenze dei conflitti sulla vita dei bambini. Viene anche menzionato il ruolo cruciale della scuola e della formazione, insieme a consigli per gli adulti in caso di scomparsa di un bambino. Il dossier evidenzia inoltre le iniziative e le leggi adottate per la tutela dei minori scomparsi, come la Legge Zampa in Italia.
+","studenti, giornalisti, fomatori, politici","Descrizione del fenomeno
+Dati inerenti alle segnalazioni 
+Motivazioni delle sparizioni
+Nazionalità dei minori
+Tipo di sfruttamento
+Testimonianze 
+"
+33,35,,Indifesa 2021,x,https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2021.pdf,2021-09,settembre 2021,,"Testi: Ilaria Sesana, Rossella Panuzzo, Paolo Ferrara Redazione: Rossella Panuzzo",Terre des hommes,"fisica, negligenza, psicologica, sessuale, sfruttamento","fisica,psicologica,sessuale,negligenza sfruttamento",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","Secondo le stime di Unicef ​​e UNFPA, nei prossimi dieci anni, a causa della pandemia, 2 milioni di bambine e ragazze saranno costrette a subire le MGF
+","Il dossier ""Indifesa"" del 2021, pubblicato da Terre des Hommes, affronta diverse tematiche legate alla violenza di genere nei confronti delle ragazze e delle giovani donne. Tra i vari argomenti trattati, il dossier si concentra sulle tempistiche di incidenza delle mutilazioni genitali femminili, dei matrimoni precoci e dei matrimoni forzati in diversi Paesi europei e in contesti migratori. Inoltre, fornisce informazioni sulle conseguenze della pandemia da COVID-19 su queste problematiche, evidenziando un aumento dei rischi per le ragazze e le giovani donne, come ad esempio un'incremento delle gravidanze e una maggiore esposizione alla violenza di genere. L'indagine include anche proposte e buone pratiche per contrastare queste forme di violenza, come l'approvazione di leggi che vietano il matrimonio prima dei 18 anni, l'adozione di piani strategici nazionali e la diffusione di informazioni chiare e accessibili alle vittime e potenziali vittime.","giornalisti, politici, studenti, docenti, educatori, genitori","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         Sport al femminile
+-         STEM e ragazze
+-         Empowerment e partecipazione
+-         Cambi climatici
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere"
+34,36,,Violenza onlife,x,https://s3.savethechildren.it/public/files/uploads/pubblicazioni/violenza-onlife-indagine-ipsos-e-save-children.pdf,2024-01,gennaio 2024,,,"save the children, changers, ipsos",,,minori,,sondaggio,"il 47%dei giovani intervistati pensa che il personale scolastico sia in grado di aiutarli nel caso fossero vittime di violenza da parte del proprio partner
+
+","Il report fornisce un quadro dettagliato delle opinioni e percezioni dei giovani riguardo alla violenza affettiva, agli stereotipi di genere e all'interesse per le tematiche legate al genere. Queste informazioni sono cruciali per sviluppare strategie educative e preventive mirate a sensibilizzare i giovani su questi temi importanti.","giornalisti, studenti","stereotipi di genere, sesso, violenze online e offline, social, relazioni, controllo,"
+35,37,,Indifesa 2020,x,https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_2020.pdf,2020-09,settembre 2020,,"Testi: Ilaria Sesana e Sara Uslenghi
+Redazione: Rossella Panuzzo
+Supervisione: Paolo Ferrara",Terre des hommes,"domestica, fisica, negligenza, psicologica, sessuale, sfruttamento","fisica, psicologica, sessuale, negligenza, sfruttamento, domestica",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","“Ogni anno circa 13 milioni di bambine e ragazze al di sotto dei 19 anni diventano madri, spesso con gravi problemi di salute fisica e mentale.”","Il Dossier ""indifesa"" del 2020, a cura di Terre des Hommes, affronta temi cruciali riguardanti la condizione delle bambine e delle ragazze nel mondo. Esso fornisce un'analisi dettagliata su questioni come violenza, abusi, discriminazioni di genere e altre forme di sfruttamento. Inoltre, il dossier mette in luce l'impatto negativo della pandemia, evidenziando un aumento preoccupante degli abusi, dei matrimoni forzati, dell'abbandono scolastico e della violenza sessuale online. Presenta anche storie di ragazze salvate da pratiche come le mutilazioni genitali femminili e fornisce dati significativi che evidenziano la persistente disuguaglianza di genere a livello globale. Il rapporto sottolinea l'importanza di una risposta forte e innovativa da parte delle istituzioni e della società civile per contrastare queste gravi problematiche e garantire un futuro sicuro e dignitoso per tutte le bambine e le ragazze nel mondo.","giornalisti, politici, studenti,docenti, educatori, genitori","  Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         Sport al femminile
+-         Empowerment e partecipazione
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere"
+36,38,,Indifesa 2019,x,"
+https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_2019.pdf
+",2019-09,settembre 2019,,"Testi: Ilaria Sesana e Sara Uslenghi
+Redazione: Rossella Panuzzo
+Supervisione: Paolo Ferrara
+Contributi di: Paolo Ferrara, Vincenzo Spadafora, Donatella",Terre des hommes,"fisica, negligenza, psicologica, sessuale, sfruttamento","fisica,psicologica,sessuale,negligenza sfruttamento",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","in Italia il livello d’istruzione femminile è elevato, tuttavia, le ragazze e le giovani donne continuano a essere penalizzate nel mondo del lavoro, con una probabilità 3 volte superiore rispetto ai coetanei maschi di essere escluse dal mercato del lavoro e non essere coinvolti in percorsi formativi","Il dossier ""indifesa"" del 2019, a cura di Terre des Hommes, fornisce un'analisi dettagliata della condizione delle bambine e delle ragazze nel mondo. Il documento affronta diverse tematiche, tra cui la violenza, le discriminazioni di genere, l'accesso all'istruzione e la salute riproduttiva. Vengono evidenziati sia i progressi compiuti, come l'aumento dei Paesi che vietano le mutilazioni genitali femminili ei matrimoni precoci, sia le sfide ancora presenti, come il persistere di violenze sessuali e discriminazioni di genere. Inoltre, il dossier mette in luce l'importanza dell'indipendenza economica delle ragazze e sottolinea la necessità di intervenire a livello culturale, educativo e lavorativo per promuovere l'uguaglianza di genere. Il documento si conclude con un invito a una lettura attenta e riflessiva, al fine di sensibilizzare e promuovere un reale cambiamento a favore dei diritti delle bambine e delle ragazze nel mondo.
+
+","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         Sport al femminile
+-         Empowerment e partecipazione
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere"
+37,39,,Indifesa 2018,x,"
+https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2018.pdf ",2018-09,settembre 2018,,"Testi di Ilaria Sesana
+Redazione: Rossella Panuzzo
+Supervisione: Paolo Ferrara
+Contributi di: Laura Silvia Battaglia, Paolo Ferrara,
+Caterina Montaldo, Rossella Panuzzo, Flavia
+Piccinni, Silvia Rovelli, Raffaele K. Salinari, Vincenzo
+Spadafora, Donatella Vergari",Terre des hommes,"domestica, fisica, negligenza, psicologica, sessuale, sfruttamento","fisica, psicologica, sessuale, negligenza, sfruttamento, domestica",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","Nella fascia d'età compresa tra i 15 e 19 anni, nel mondo circa 70 milioni di ragazze (una su quattro) sono state vittime di violenza fisica a partire dall'età di 15 anni","Il dossier ""Indifesa"" del 2018, curato da Terre des Hommes, rappresenta un importante strumento di sensibilizzazione sulla violenza di genere nei confronti delle bambine e delle ragazze in Italia e nel mondo. Il documento fornisce approfondimenti, ricerche e testimonianze, evidenziando anche i progressi e le sfide ancora presenti. Inoltre, il blog ""Indifesa"" costituisce un'ulteriore risorsa per approfondire storie di speranza e cambiamento legato alla campagna. Il dossier affronta anche temi cruciali come le mutilazioni genitali femminili, evidenziando i progressi compiuti e le sfide ancora aperte, sia a livello globale che in contesti specifici come l'Italia e le comunità di rifugiate. Inoltre, vengono evidenziate le disuguaglianze di genere nell'istruzione e nel settore STEM, con dati allarmanti sull'accesso all'istruzione e sull'occupazione nel settore tecnico-scientifico. Infine, il dossier affronta il tema dello sfruttamento dell'immagine delle bambine e dei bambini nella pubblicità e nello spettacolo, evidenziando le criticità e le normative attuali in Italia.
+
+
+","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         Sport al femminile
+-         Empowerment e partecipazione
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere"
+38,40,,Indifesa 2017,x,"
+https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2017.pdf ",2017-09,settembre 2017,,"Testi di: Ilaria Sesana
+Redazione: Rossella Panuzzo
+Contributi di: Laura Silvia Battaglia, Gandolfa Cascio,
+Marianna Cento, Vichi De Marchi, Paolo Ferrara,
+Angelo Ferrari, Rosse",Terre des hommes,"fisica, negligenza, psicologica, sessuale, sfruttamento","fisica,psicologica,sessuale,negligenza sfruttamento",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","si stima che nel mondo quasi 2 bambine su 3, nella fascia d'età dai 10 ai 14 anni, subiscono regolarmente punizioni corporali","Il dossier in questione affronta diverse tematiche legate alla violenza e all'istruzione delle bambine e delle ragazze in contesti globali. Viene raccontata la storia di Beki, una ragazza che ha subito violenze e si è prostituita per ripagare un debito, e di Amara, determinata ad aiutare la propria nipote e a condividere la propria storia per cambiare il destino delle bambine nel suo paese. Il dossier evidenzia anche le sfide legate all'accesso all'istruzione per le ragazze, sottolineando i progressi compiuti dopo il 2000, ma evidenziando che l'obiettivo dell'istruzione per tutti è ancora lontano. Vengono citate le barriere all'istruzione delle bambine, tra cui la povertà, la priorità data all'istruzione dei maschi e la mancanza di servizi igienici. Inoltre, il dossier affronta il tema dei matrimoni precoci, evidenziando che ogni anno circa 15 milioni di bambine e ragazze con meno di 18 anni vanno in sposa, e sottolinea le cause e le conseguenze di questa pratica. Infine, vengono esposte le principali cause di morte per le bambine e le ragazze, evidenziando che gli adolescenti sono stati totalmente esclusi dai piani nazionali di tutela della salute per decenni.
+","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         Sport al femminile
+-         Empowerment e partecipazione
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere
+
+"
+39,41,,Indifesa 2016,x,https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2016.pdf,2016-09,settembre 2016,,"Testi di Ilaria Sesana
+Contributi di: Marianna Cento, Paolo Ferrara, Marianna
+Kolovou, Viviana Mazza, Amalia Mendes, Mauro
+Morbello, Lia Quartapelle, Rossella Panuzzo, Raffaele K.
+Salinari, Donatella Vergari",Terre des hommes,"domestica, fisica, negligenza, psicologica, sessuale, sfruttamento","fisica, psicologica, sessuale, negligenza, sfruttamento, domestica",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","ogni 10 minuti nel mondo una ragazza muore a seguito di violenza, e la violenza è la seconda causa di mortalità tra le ragazze dai 10 ai 19 anni","Il dossier in questione affronta diverse tematiche legate ai diritti umani, concentrandosi in particolare sulle difficoltà affrontate dalle ex bambine soldato e sulle mutilazioni genitali femminili. Viene evidenziato come le ex combattenti, in particolare le ragazze, affrontano sfide particolari nel ritorno alla vita civile, a causa dello stigma legato alla loro precedente collaborazione con le forze armate o gruppi armati, e in alcuni casi, alla maternità conseguente a stupri subiti durante il conflitto. Inoltre, il dossier tratta approfonditamente il fenomeno delle mutilazioni genitali femminili, evidenziando la diffusione globale di questa pratica ei rischi e le conseguenze per la salute delle ragazze e donne coinvolte. Vengono inoltre forniti dati sulle infezioni da HIV e sulle nozze precoci legate a situazioni di emergenza, come catastrofi naturali e conflitti armati. Il dossier fornisce anche informazioni sulle iniziative intraprese per contrastare tali fenomeni a livello globale.
+
+","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         Sport al femminile
+-         Empowerment e partecipazione
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere
+-     Ragazze ex combattenti
+-     HIV
+"
+40,42,,Indifesa 2015,x,"
+https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2015.pdf ",2015-09,settembre 2015,,"Hanno collaborato alla redazione di questo rapporto:
+Ilaria Sesana, Zainab Hawa Bangura, Carlotta De Leo,
+Lia Quartapelle, Marcelo Sanchez Sorondo,
+Lucia Romeo, Raffaele K. Salinari, Donatella Vergari",Terre des hommes,"domestica, fisica, negligenza, psicologica, sessuale, sfruttamento","fisica,psicologica,sessuale,negligenza sfruttamento,domenstica",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi"," i casi di ""maltrattamenti in famiglia o verso fanciulli"" sono aumentati da 751 a 1.479 nel periodo 2004-2014, confermando che l'ambiente familiare, teoricamente il luogo più sicuro per i minori , rappresenta un rischio significativo","Il dossier ""indifesa"" del 2015, a cura di Terre des Hommes, fornisce un'analisi dettagliata della condizione delle bambine e delle ragazze nel mondo, con particolare attenzione a temi come istruzione, salute, protezione dalla violenza e discriminazioni. Il rapporto evidenzia alcuni progressi, come l'aumento della frequenza scolastica delle bambine e la concessione delle mutilazioni genitali femminili in alcuni Paesi. Tuttavia, sottolinea anche le sfide rimanenti, come l'accesso diseguale all'istruzione, il lavoro minorile femminile ei matrimoni precoci. Inoltre, pone l'accento sulle gravi conseguenze dei conflitti armati e delle emergenze umanitarie sulle bambine e le ragazze, evidenziando la necessità di un impegno globale per migliorare le loro condizioni di vita. Il dossier si conclude sottolineando l'importanza di proteggere i diritti delle bambine e delle ragazze come fondamentale investimento per il progresso dell'umanità.
+","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         Sport al femminile
+-         Empowerment e partecipazione
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere
+
+"
+41,43,,Indifesa 2014,x,"
+https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2014.pdf ",2014-09,settembre 2014,,"Hanno collaborato alla redazione di questo rapporto:
+Ilaria Sesana, Sonia Bergamasco, Mariangela Pira,
+Lucia Romeo, Raffaele K.Salinari, Vincenzo Spadafora,
+Donatella Vergari.",Terre des hommes,"domestica, fisica, negligenza, psicologica, sessuale, sfruttamento","fisica, psicologica, sessuale, negligenza, sfruttamento, domestica",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","In Australia, i genitori possono decidere di sterilizzare le proprie figlie con disabilità dopo aver ottenuto l’autorizzazione di un giudice tutelare","Il documento fornito è un dossier del 2014 di Terre des Hommes che affronta diverse tematiche legate ai diritti dei minori, alla violenza domestica e all'istruzione. Esamina la situazione delle ragazze nei Paesi dell'Africa sub-sahariana, evidenziando le difficoltà legate alla salute sessuale e riproduttiva, all'istruzione e alla violenza di genere. Inoltre, tratta il tema dei matrimoni precoci e dei relativi abbandoni scolastici, evidenziando le conseguenze negative su informazioni e conoscenze. Parla anche della prevaricazione sulle donne e dei suoi riflessi sugli abusi sulle minorenni. Inoltre, affronta il tema degli aborti selettivi in ​​diversi Paesi, evidenziando lo squilibrio di genere ed i problemi ad esso associati. Il dossier fornisce dati sul fenomeno delle ""missing girls"" in diversi Paesi, evidenziando lo ""sbilanciamento"" tra maschi e femmine. Inoltre, tratta il fenomeno del lavoro minorile, evidenziando la significativa riduzione del numero di bambini costretti a lavorare, ma sottolineando che resta ancora molto lavoro da fare, in particolare nelle aree dell'Asia sud-occidentale e dell'Africa sub-sahariana. Il dossier fornisce inoltre informazioni sul fenomeno della mutilazione genitale femminile (MGF) in diversi Paesi. Affronta anche il tema della sterilizzazione forzata delle donne disabili, evidenziando i casi di discriminazione e violazione dei diritti umani.
+
+","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere 
+-     Situazione mondiale verso le persone con disabilità
+
+"
+42,44,,Indifesa 2013,x,https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2013.pdf ,2013-09,settembre 2013,,"Hanno collaborato alla redazione di questo rapporto:
+Beniamino Sarfatti, Marta Serafini, Valentina Morandi,
+Francesca Salvini, Alice Fumis, Agnese Malatesta,
+Viviana Mazza.",Terre des hommes,"domestica, fisica, negligenza, psicologica, sessuale, sfruttamento","fisica, psicologica, sessuale, negligenza, sfruttamento, domestica",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","La violenza contro le donne è profondamente radicata nella nostra società. Spesso, troppo spesso, essere vittima di abusi viene vissuto come una colpa o una vergogna","Il dossier della Fondazione Terre des Hommes Italia ONLUS tratta di varie forme di abusi e maltrattamenti nei confronti dei bambini, in particolare delle bambine. Esso fornisce un'istantanea dettagliata della situazione in Italia e in altri paesi, evidenziando la presenza di fenomeni come la trascuratezza materiale e affettiva, la violenza assistita, il maltrattamento psicologico, l'abuso sessuale e il maltrattamento fisico. Inoltre, il dossier sottolinea l'importanza di proteggere i diritti delle bambine e delle ragazze, evidenziando le sfide e gli interventi necessari per garantire loro un ambiente sicuro e opportunità di crescita. Il testo include anche riferimenti alla situazione in India e in Perù, evidenziando le difficoltà affrontate dalle bambine in tali contesti, come il lavoro minorile e il maltrattamento domestico.
+","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere 
+-     Situazione mondiale verso le persone con disabilità
+
+"
+43,45,,Indifesa 2012,x,"
+https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2012.pdf ",2012-09,settembre 2012,,"Hanno collaborato alla redazione di questo rapporto:
+Ilaria Sesana, Mauro Morbello, Nicoletta del Franco,
+Caterina Montaldo, Suor Eugenia Bonetti, Anna Pozzi,
+Natalia Guerrero, Stefania Fieni, Nadia Muscialini,
+Roberta Giommi, Lucia Romeo, Leonor Crisostomo.",Terre des hommes,"domestica, fisica, negligenza, psicologica, sessuale, sfruttamento","fisica, psicologica, sessuale, negligenza, sfruttamento, domestica",minori,"famiglia, scuola, istituzioni e società, domestica","Nel report oltre i dati trovi: testimonianze, programmi di prevenzione attivi a livello mondiale, studi di ricerca, leggi","mancano all’appello più di 100 milioni di bambine, il “mistero delle donne mancanti”. Ovvero tutte quelle donne che oggi sarebbero al mondo se non fosse per l’aborto selettivo, l’infanticidio e la discriminazione socioeconomica.","Il dossier di Terre des Hommes del 2012, che tratta della condizione delle bambine e delle ragazze nel mondo, evidenzia varie forme di discriminazione e violenza subite dalle bambine, come: l'infanticidio e l'aborto selettivo in alcuni paesi, la tratta di esseri umani, i matrimoni precoci, lo sfruttamento lavorativo e domestico, nonché la violenza sessuale e fisica. Inoltre, il dossier sottolinea l'importanza di difendere i diritti delle bambine e dei giovani adolescenti, garantendo loro l'istruzione, la salute e la protezione. L'obiettivo del dossier è sensibilizzare sull'urgenza di agire per porre fine alle violenze e alle discriminazioni perpetrate nei confronti delle bambine e delle ragazze in tutto il mondo.","giornalisti, politici,studenti, docenti, educatori, genitori, caregiver","-         Mutilazioni genitali femminili
+-         Bambine ed accesso all’istruzione
+-         Matrimoni precoci
+-         Gravidanze precoci
+-         Ragazze e salute mentale
+-         I rischi delle bambine
+-         Ragazze e web
+-         Violenza di genere 
+-     Situazione mondiale verso le persone con disabilità
+"
+44,46,,Piccoli schiavi invisibili 2022,x,"https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2022.pdf 
+",2022,2022,,NON TROVO ,Save the Children,"fisica, migranti, minori scomparsi, sfruttamento, tratta esseri umani","tratta esseri umani, minori scomparsi, sfruttamento sessuale, violenze fisiche, migranti",minori,"on line, off line","dati europei, nazionali, mondiali","circa 14.000 casi identificati come vittime di traffico di esseri umani, un quarto sono minori
+","Il report fornisce informazioni dettagliate sulla tratta e lo sfruttamento dei minori, evidenziando come tali crimini possono avvenire non solo sul Dark Web, ma anche su piattaforme comuni. I dati includono casi di pedopornografia e adescamento online, con un aumento significativo rispetto agli anni precedenti. Vengono anche analizzate le tipologie di sfruttamento, le chiamate al Numero Verde Anti-Tratta ed i sistemi governativi per contrastare questo fenomeno. I dati presentati offrono una panoramica approfondita della situazione in Italia e delle iniziative messe in atto per contrastare il trattamento di esseri umani e proteggere le vittime.
+
+","studenti, giornalisti, formatori, politici","Dati inerenti allo sfruttamento minorile
+Dati sulla tratta di minori
+Caporalato
+Sfruttamento sessuale su minori
+Genere degli abusati
+Sguardo mondiale, europeo e nazionale
+"
+45,47,,Piccoli schiavi invisibili 2021,x,https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2021_0.pdf ,2021,2021,,NON TROVO ,Save the Children,"covid-19, fisica, migranti, minori scomparsi, sfruttamento, tratta esseri umani","tratta esseri umani, minori scomparsi, sfruttamento sessuale, violenze fisiche, covid-19, migranti",minori,on line off line,"dati europei, nazionali, mondiali","negli ultimi quindici anni la componente di bambini e adolescenti coinvolti in forme di sfruttamento è cresciuta costantemente, passando da circa il 10% a oltre il 30% del totale delle vittime individuate","Il documento ""Piccoli Schiavi Invisibili 2021 XI Edizione"" fornisce un'analisi dettagliata della trattazione di esseri umani e dello sfruttamento lavorativo, con un focus sulle vittime, in particolare i minori. Esso evidenzia un aumento dello sfruttamento lavorativo in Italia, con un progressivo incremento delle segnalazioni relative al fenomeno. La pandemia da COVID-19 ha amplificato le disuguaglianze socio-economiche, aumentando il rischio di tratta e sfruttamento, soprattutto per minori, donne e persone migranti. Il rapporto fornisce inoltre una panoramica sul fenomeno a livello globale, regionale e nazionale, basandosi sui casi giudiziari rilevati nel periodo 2016-2019. In particolare, evidenzia che almeno la metà delle vittime sono state individuate e ingannate dalle reti criminali sulla base delle necessità economiche, aggravate dalle conseguenze del COVID-19. Il documento sottolinea l'importanza di mettere al centro la vittima e prevedere interventi ampi che proteggano non solo le persone sfruttate, ma anche i loro figli, garantendo loro percorsi di inclusione sociale ed economica.
+
+","studenti, giornalisti, formatori, politici","Dati inerenti allo sfruttamento minorile
+Dati sulla tratta di minori
+Caporalato
+Sfruttamento sessuale su minori
+Genere degli abusati
+Sguardo mondiale, europeo e nazionale
+"
+46,48,,Piccoli schiavi invisibili 2020,x,"https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2020_1.pdf 
+",2020,2020,,NON TROVO ,,"caporalato, covid-19, fisica, minori scomparsi, sfruttamento, tratta esseri umani","tratta esseri umani, minori scomparsi, sfruttamento sessuale, violenze fisiche, covid-19, caporalato",minori,on line off line,"dati europei, nazionali, mondiali","A livello nazionale, nel 2019 risultano in carico al sistema anti-tratta in Italia 2.033 vittime
+","Il rapporto ""Piccoli Schiavi Invisibili 2020"" di Save the Children affronta l'impatto della pandemia da COVID-19 sul trattamento e lo sfruttamento sessuale. Il rapporto evidenzia come la pandemia abbia influenzato le reti criminali, spingendo le vittime verso l'invisibilità e l'aumento dello sfruttamento online. Inoltre, fornisce dati sul numero di persone coinvolte nella tratta e sfruttamento degli esseri umani, sottolineando che un quarto delle vittime sono minorenni, di cui il 4% ha un'età compresa tra 0 e 8 anni. Il rapporto sottolinea l'importanza di affrontare questo fenomeno diffuso e sommerso, specialmente alla luce delle ricadute della pandemia.
+","studenti, giornalisti, formatori, politici","Dati inerenti allo sfruttamento minorile
+Dati sulla tratta di minori
+Caporalato
+Sfruttamento sessuale su minori
+Genere degli abusati
+Sguardo mondiale, europeo e nazionale
+"
+47,49,,Piccoli schiavi invisibili 2019,x,https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2019_0.pdf ,2019,2019,,NON TROVO ,,"fisica, migranti, minori scomparsi, sfruttamento, tratta esseri umani","tratta esseri umani, minori scomparsi, sfruttamento sessuale, violenze fisiche,migranti",minori,"online, offline","dati europei, nazionali, mondiali","Secondo il rapporto, a livello internazionale, il 23% delle vittime di tratta identificate e/o presunte in Europa sono minori, e circa il 56% di loro è vittima di sfruttamento sessuale","Il rapporto ""Piccoli schiavi invisibili 2019"" fornisce dati e analisi approfondite sulla tratta di esseri umani, con particolare attenzione ai minori. I dati evidenziano un aumento delle vittime minorenni nel corso degli anni, con un'attenzione alle ragazze. La tratta a fini di sfruttamento sessuale rappresenta la principale forma di perpetrazione del reato. Il rapporto sottolinea l'importanza di programmi di protezione e assistenza per le vittime, nonché la necessità di un'adeguata formazione del personale per l'individuazione delle potenziali vittime. Inoltre, vengono evidenziate le iniziative dei finanziamenti destinati al contrasto della tratta di esseri umani, con un focus sull'assistenza alle vittime e sull'importanza di una strategia nazionale. Il rapporto fornisce anche casi concreti che illustrano la drammatica realtà vissuta dalle vittime, evidenziando la complessità e l'urgenza del problema.","studenti, giornalisti, formatori, politici","Dati inerenti allo sfruttamento minorile
+Dati sulla tratta di minori
+Caporalato
+Sfruttamento sessuale su minori
+Genere degli abusati
+Sguardo mondiale, europeo e nazionale
+"
+48,50,,Piccoli schiavi invisibili 2018,x,"https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2018_2.pdf 
+",2018,2018,,NON TROVO ,,"fisica, migranti, minori scomparsi, sfruttamento, tratta esseri umani","tratta esseri umani, minoriscomparsi, sfruttamento sessuale, violenze fisiche, migranti",minori,"online, offline","dati europei, nazionali, mondiali","nell'ultimo anno le chiamate al numero anti-tratta totali sono state 4.033, rispetto alle 1.462 chiamate ricevute l'anno precedente","Il rapporto ""Piccoli schiavi invisibili"" del 2018 affronta il tema della trattazione di esseri umani e dello sfruttamento, evidenziando la diffusione della tratta a fini di sfruttamento sessuale e del lavoro. Presenta anche dati globali, normative e iniziative di protezione sociale e assistenza alle vittime. Il documento fornisce una panoramica dettagliata della situazione, inclusi dati statistici e normativi a livello nazionale e internazionale, nonché le iniziative di protezione sociale e assistenza alle vittime. Il rapporto evidenzia inoltre la presenza di minori vittime di tratta, con particolare attenzione al contesto italiano e alle iniziative di protezione sociale a essi dedicate.
+","studenti, giornalisti, formatori, politici","Dati inerenti allo sfruttamento minorile
+Dati sulla tratta di minori
+Caporalato
+Sfruttamento sessuale su minori
+Genere degli abusati
+Sguardo mondiale, europeo e nazionale
+"
