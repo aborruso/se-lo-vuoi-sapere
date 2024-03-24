@@ -1,7 +1,15 @@
 ---
-title: "Documento conclusivo approvato dalla commissione sull'indagine conoscitiva sulle forme di violenza fra minorie e ai danni di bambini e adolescenti"
+title: "Documento conclusivo approvato dalla Commissione sull'indagine conoscitiva sulle forme di violenza fra minori e ai danni di bambini e adolescenti"
 data: 2020-11
 fonte: "Commissione parlamentare per l'infanzia e l'adolescenza"
+image: ./risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png
+website:
+  twitter-card:
+    description: "Nel 2019, sono stati presi in carico dagli Uffici del servizio sociale per i minorenni un totale di 16.174 minori e giovani adulti"
+    image: "./risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png"
+  open-graph:
+    description: "Nel 2019, sono stati presi in carico dagli Uffici del servizio sociale per i minorenni un totale di 16.174 minori e giovani adulti"
+    image: "./risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png"
 ---
 
 {{< include ./include/_18.qmd >}}

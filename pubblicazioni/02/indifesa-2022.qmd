@@ -3,7 +3,14 @@ title: "Indifesa 2022"
 data: 2022-09
 fonte: "Terre des hommes"
 image: ./risorse/indifesa-2022_resized.png
-categories: [fisica,psicologica,sessuale,negligenza sfruttamento]
+categories: [fisica, negligenza, psicologica, sessuale, sfruttamento]
+website:
+  twitter-card:
+    description: "Nel 2021 i bambini nati da madri minorenni sono stati 891"
+    image: "./risorse/indifesa-2022_resized.png"
+  open-graph:
+    description: "Nel 2021 i bambini nati da madri minorenni sono stati 891"
+    image: "./risorse/indifesa-2022_resized.png"
 ---
 
 {{< include ./include/_02.qmd >}}

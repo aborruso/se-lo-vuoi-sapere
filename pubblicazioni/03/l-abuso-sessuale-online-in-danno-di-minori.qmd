@@ -1,0 +1,16 @@
+---
+title: "L'abuso sessuale online in danno di minori"
+data: 2022-05
+fonte: "Save the children e Polizia di Stato"
+image: ./risorse/l-abuso-sessuale-online-in-danno-di-minori_resized.png
+categories: [pedopornografia, psicologica, sessuale, sfruttamento]
+website:
+  twitter-card:
+    description: "“Casi trattati di pedopornografia (anno 2020: 3243, anno 2021: 5316) un incisivo aumento del 47%”"
+    image: "./risorse/l-abuso-sessuale-online-in-danno-di-minori_resized.png"
+  open-graph:
+    description: "“Casi trattati di pedopornografia (anno 2020: 3243, anno 2021: 5316) un incisivo aumento del 47%”"
+    image: "./risorse/l-abuso-sessuale-online-in-danno-di-minori_resized.png"
+---
+
+{{< include ./include/_03.qmd >}}

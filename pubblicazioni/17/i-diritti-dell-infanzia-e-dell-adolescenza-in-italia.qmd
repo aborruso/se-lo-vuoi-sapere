@@ -3,6 +3,14 @@ title: "I diritti dell'infanzia e dell'adolescenza in Italia"
 data: 2021-11
 fonte: "Gruppo CRC"
 image: ./risorse/i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png
+categories: [assistita, educativa, familiare, fisica, incuria, ipercura, psicologica, scolastica]
+website:
+  twitter-card:
+    description: "i minori vittime di abusi, i reati per maltrattamento contro familiari e conviventi segnalati nel 2020 sono 21.709"
+    image: "./risorse/i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png"
+  open-graph:
+    description: "i minori vittime di abusi, i reati per maltrattamento contro familiari e conviventi segnalati nel 2020 sono 21.709"
+    image: "./risorse/i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png"
 ---
 
 {{< include ./include/_17.qmd >}}

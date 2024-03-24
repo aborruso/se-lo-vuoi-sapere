@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Secondo il rapporto, a livello internazionale, il 23% delle vittime di tratta identificate e/o presunte in Europa sono minori, e circa il 56% di loro è vittima di sfruttamento sessuale
+:::
+
+:::{.descrizione}
+Il rapporto "Piccoli schiavi invisibili 2019" fornisce dati e analisi approfondite sulla tratta di esseri umani, con particolare attenzione ai minori. I dati evidenziano un aumento delle vittime minorenni nel corso degli anni, con un'attenzione alle ragazze. La tratta a fini di sfruttamento sessuale rappresenta la principale forma di perpetrazione del reato. Il rapporto sottolinea l'importanza di programmi di protezione e assistenza per le vittime, nonché la necessità di un'adeguata formazione del personale per l'individuazione delle potenziali vittime. Inoltre, vengono evidenziate le iniziative dei finanziamenti destinati al contrasto della tratta di esseri umani, con un focus sull'assistenza alle vittime e sull'importanza di una strategia nazionale. Il rapporto fornisce anche casi concreti che illustrano la drammatica realtà vissuta dalle vittime, evidenziando la complessità e l'urgenza del problema.
+:::
+
+[Leggilo](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2019_0.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2019_0.pdf)
+

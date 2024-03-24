@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+La violenza contro le donne è profondamente radicata nella nostra società. Spesso, troppo spesso, essere vittima di abusi viene vissuto come una colpa o una vergogna
+:::
+
+:::{.descrizione}
+Il dossier della Fondazione Terre des Hommes Italia ONLUS tratta di varie forme di abusi e maltrattamenti nei confronti dei bambini, in particolare delle bambine. Esso fornisce un'istantanea dettagliata della situazione in Italia e in altri paesi, evidenziando la presenza di fenomeni come la trascuratezza materiale e affettiva, la violenza assistita, il maltrattamento psicologico, l'abuso sessuale e il maltrattamento fisico. Inoltre, il dossier sottolinea l'importanza di proteggere i diritti delle bambine e delle ragazze, evidenziando le sfide e gli interventi necessari per garantire loro un ambiente sicuro e opportunità di crescita. Il testo include anche riferimenti alla situazione in India e in Perù, evidenziando le difficoltà affrontate dalle bambine in tali contesti, come il lavoro minorile e il maltrattamento domestico.
+:::
+
+[Leggilo](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2013.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2013.pdf)
+

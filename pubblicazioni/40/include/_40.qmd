@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+si stima che nel mondo quasi 2 bambine su 3, nella fascia d'età dai 10 ai 14 anni, subiscono regolarmente punizioni corporali
+:::
+
+:::{.descrizione}
+Il dossier in questione affronta diverse tematiche legate alla violenza e all'istruzione delle bambine e delle ragazze in contesti globali. Viene raccontata la storia di Beki, una ragazza che ha subito violenze e si è prostituita per ripagare un debito, e di Amara, determinata ad aiutare la propria nipote e a condividere la propria storia per cambiare il destino delle bambine nel suo paese. Il dossier evidenzia anche le sfide legate all'accesso all'istruzione per le ragazze, sottolineando i progressi compiuti dopo il 2000, ma evidenziando che l'obiettivo dell'istruzione per tutti è ancora lontano. Vengono citate le barriere all'istruzione delle bambine, tra cui la povertà, la priorità data all'istruzione dei maschi e la mancanza di servizi igienici. Inoltre, il dossier affronta il tema dei matrimoni precoci, evidenziando che ogni anno circa 15 milioni di bambine e ragazze con meno di 18 anni vanno in sposa, e sottolinea le cause e le conseguenze di questa pratica. Infine, vengono esposte le principali cause di morte per le bambine e le ragazze, evidenziando che gli adolescenti sono stati totalmente esclusi dai piani nazionali di tutela della salute per decenni.
+:::
+
+[Leggilo](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2017.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2017.pdf)
+

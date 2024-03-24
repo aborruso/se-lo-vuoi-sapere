@@ -1,0 +1,16 @@
+---
+title: "Indifesa 2016"
+data: 2016-09
+fonte: "Terre des hommes"
+image: ./risorse/indifesa-2016_resized.png
+categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
+website:
+  twitter-card:
+    description: "ogni 10 minuti nel mondo una ragazza muore a seguito di violenza, e la violenza è la seconda causa di mortalità tra le ragazze dai 10 ai 19 anni"
+    image: "./risorse/indifesa-2016_resized.png"
+  open-graph:
+    description: "ogni 10 minuti nel mondo una ragazza muore a seguito di violenza, e la violenza è la seconda causa di mortalità tra le ragazze dai 10 ai 19 anni"
+    image: "./risorse/indifesa-2016_resized.png"
+---
+
+{{< include ./include/_41.qmd >}}

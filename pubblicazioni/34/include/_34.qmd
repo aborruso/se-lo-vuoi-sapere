@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Dall’anno 2009, il 62% dei minori coinvolti è di sesso maschile, mentre il 38% è di sesso femminile
+:::
+
+:::{.descrizione}
+Il dossier tratta della scomparsa dei bambini in situazioni di guerra e conflitto, sottolineando l'importanza del diritto all'identità e alla cittadinanza per i bambini, nonché le strategie di cooperazione internazionale e nazionale per affrontare questa situazione. Vengono presentate le varie tipologie di scomparsa, come la fuga da casa, la sottrazione nazionale e internazionale, il rapimento dei minori stranieri non accompagnati che scompaiono. Inoltre, il documento fornisce informazioni sulle rotte dei percorsi di minori stranieri non accompagnati in Italia ed Europa, nonché sulle conseguenze dei conflitti sulla vita dei bambini. Viene anche menzionato il ruolo cruciale della scuola e della formazione, insieme a consigli per gli adulti in caso di scomparsa di un bambino. Il dossier evidenzia inoltre le iniziative e le leggi adottate per la tutela dei minori scomparsi, come la Legge Zampa in Italia.
+:::
+
+[Leggilo](https://azzurro.it/wp-content/uploads/2023/02/Dossier-25-maggio-ultima-versione-web.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://azzurro.it/wp-content/uploads/2023/02/Dossier-25-maggio-ultima-versione-web.pdf)
+

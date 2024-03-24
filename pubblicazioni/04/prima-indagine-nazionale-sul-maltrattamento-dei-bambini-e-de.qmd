@@ -1,0 +1,16 @@
+---
+title: "Prima indagine nazionale sul maltrattamento dei bambini e degli adolescenti in Italia 2015"
+data: 2021-04
+fonte: "CISAMAI e Terre des hommes e Autorita Garante per l'infanzia ed adolescenza"
+image: ./risorse/prima-indagine-nazionale-sul-maltrattamento-dei-bambini-e-de_resized.png
+categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
+website:
+  twitter-card:
+    description: "la metà dei bambini maltrattati subisce una grave forma di trascuratezza, e la violenza assistita è la seconda forma di violenza più diffusa, con circa 1 bambino su 5 fra quelli maltrattati testimone di violenza domestica"
+    image: "./risorse/prima-indagine-nazionale-sul-maltrattamento-dei-bambini-e-de_resized.png"
+  open-graph:
+    description: "la metà dei bambini maltrattati subisce una grave forma di trascuratezza, e la violenza assistita è la seconda forma di violenza più diffusa, con circa 1 bambino su 5 fra quelli maltrattati testimone di violenza domestica"
+    image: "./risorse/prima-indagine-nazionale-sul-maltrattamento-dei-bambini-e-de_resized.png"
+---
+
+{{< include ./include/_04.qmd >}}

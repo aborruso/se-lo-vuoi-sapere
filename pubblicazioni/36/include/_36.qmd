@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+il 47%dei giovani intervistati pensa che il personale scolastico sia in grado di aiutarli nel caso fossero vittime di violenza da parte del proprio partner
+:::
+
+:::{.descrizione}
+Il report fornisce un quadro dettagliato delle opinioni e percezioni dei giovani riguardo alla violenza affettiva, agli stereotipi di genere e all'interesse per le tematiche legate al genere. Queste informazioni sono cruciali per sviluppare strategie educative e preventive mirate a sensibilizzare i giovani su questi temi importanti.
+:::
+
+[Leggilo](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/violenza-onlife-indagine-ipsos-e-save-children.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/violenza-onlife-indagine-ipsos-e-save-children.pdf)
+

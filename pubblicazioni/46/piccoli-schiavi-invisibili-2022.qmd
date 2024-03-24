@@ -1,0 +1,16 @@
+---
+title: "Piccoli schiavi invisibili 2022"
+data: 2022-00
+fonte: "Save the Children"
+image: ./risorse/piccoli-schiavi-invisibili-2022_resized.png
+categories: [fisica, migranti, minori scomparsi, sfruttamento, tratta esseri umani]
+website:
+  twitter-card:
+    description: "circa 14.000 casi identificati come vittime di traffico di esseri umani, un quarto sono minori"
+    image: "./risorse/piccoli-schiavi-invisibili-2022_resized.png"
+  open-graph:
+    description: "circa 14.000 casi identificati come vittime di traffico di esseri umani, un quarto sono minori"
+    image: "./risorse/piccoli-schiavi-invisibili-2022_resized.png"
+---
+
+{{< include ./include/_46.qmd >}}

@@ -1,7 +1,16 @@
 ---
-title: "Il Diritto di Fidarsi"
-data: 2021
+title: "Il diritto di fidarsi"
+data: 2021-00
 fonte: "Telefono Azzurro e Dipartimento per le politiche della famiglia"
+image: ./risorse/il-diritto-di-fidarsi_resized.png
+categories: [assistita, domestica, fisica, offline, online, psicologica, sessuale]
+website:
+  twitter-card:
+    description: "Per quanto concerne i presunti responsabili dei casi gestiti durante l’anno 2021, i dati mostrano come nel 49,5% dei casi siano coinvolti i genitori dei minori"
+    image: "./risorse/il-diritto-di-fidarsi_resized.png"
+  open-graph:
+    description: "Per quanto concerne i presunti responsabili dei casi gestiti durante l’anno 2021, i dati mostrano come nel 49,5% dei casi siano coinvolti i genitori dei minori"
+    image: "./risorse/il-diritto-di-fidarsi_resized.png"
 ---
 
 {{< include ./include/_24.qmd >}}

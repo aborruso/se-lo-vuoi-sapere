@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Quanto ancora: è forse la domanda che più spesso ci siamo sentiti fare dai bambini e ragazzi che abbiamo accolto e aiutato in questo anno di pandemia
+:::
+
+:::{.descrizione}
+Il dossier "Quanto Ancora" affronta varie problematiche legate all'emergenza COVID-19, in particolare le situazioni di rischio e di pericolo vissute da minori e adolescenti, evidenziando un aumento delle problematiche avvenute in Rete durante la pandemia. Vengono descritti casi concreti, come quello di Luca, vittima di scambio di materiale pornografico, e di Brian, minacciato e ricattato dopo aver inviato una foto in tempo reale a una persona conosciuta online. Inoltre, il dossier sottolinea l'aumento dell'esposizione dei ragazzi ai rischi della Rete, come il cyberbullismo e lo sfruttamento sessuale online, a causa dell'incremento del tempo trascorso sul web durante la pandemia. Viene evidenziata l'importanza di interventi di formazione e sensibilizzazione per affrontare queste tematiche delicate. Inoltre, il dossier mette in luce gli effetti negativi dell'isolamento e della solitudine sui minori, evidenziando la necessità di supporto e vicinanza da parte degli adulti di riferimento.
+:::
+
+[Leggilo](https://azzurro.it/wp-content/uploads/2023/03/Quanto-Ancora.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://azzurro.it/wp-content/uploads/2023/03/Quanto-Ancora.pdf)
+

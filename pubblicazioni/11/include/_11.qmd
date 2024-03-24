@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+
+:::
+
+:::{.descrizione}
+Il documento fornito costituisce una relazione al Parlamento italiano sulle attività di coordinamento relative alla tutela dei minori, come previsto dalla Legge 269/1998. Il rapporto copre diversi aspetti, tra cui il numero di minori in carico ai Servizi Sociali che sono vittime di violenza sessuale e di altre forme di sfruttamento e maltrattamenti. Si discute inoltre dell’aumento della violenza domestica durante la pandemia di COVID-19, nonché dell’impatto della pandemia sull’abuso e sullo sfruttamento dei minori. Il rapporto presenta dati statistici su questi temi, compreso il numero di vittime con figli che hanno cercato assistenza. Si evidenzia inoltre l'impegno del governo italiano nel tradurre in italiano la Convenzione ONU sui diritti dell'infanzia e nel rafforzare le misure a tutela dei minori.
+:::
+
+[Leggilo](https://famiglia.governo.it/media/1923/idi_rel2018_200310.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://famiglia.governo.it/media/1923/idi_rel2018_200310.pdf)
+

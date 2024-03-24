@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Il 35,4% degli adolescenti transgender ha riferito di essere vittima di cyberbullismo
+:::
+
+:::{.descrizione}
+Il dossier "Dentro l'emergenza" affronta diverse tematiche legate alla salute mentale, all'abuso e al maltrattamento nei confronti dei minori. Esso fornisce dati e informazioni su argomenti quali il suicidio, le esperienze di abuso e maltrattamento nell'infanzia, nonché le risposte e le iniziative messe in atto per contrastare tali fenomeni. Inoltre, il dossier include anche un'analisi della situazione italiana in relazione alla prevenzione e al contrasto dello sfruttamento sessuale dei minori. Il documento fornisce inoltre dettagli su strumenti digitali e iniziative volte a contrastare l'abuso sessuale e la pedofilia.
+:::
+
+[Leggilo](https://azzurro.it/wp-content/uploads/2023/11/dossier-dentro-l-emergenza.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://azzurro.it/wp-content/uploads/2023/11/dossier-dentro-l-emergenza.pdf)
+

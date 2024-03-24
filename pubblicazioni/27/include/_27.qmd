@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Il fenomeno del sextortion consiste nella minaccia di condividere con terzi immagini sessuali della vittima, se quest’ultima non acconsente a fare ciò che le viene chiesto
+:::
+
+:::{.descrizione}
+Un glossario molto utile per chi si approccia per la prima volta alle violenze su minori o per le persone che volessero scrivere di abusi infantili con il rispetto di un linguaggio inclusivo. Aggiornato al 2020
+:::
+
+[Leggilo](https://azzurro.it/wp-content/uploads/2023/03/Giornata-Nazionale-contro-la-Pedofilia.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://azzurro.it/wp-content/uploads/2023/03/Giornata-Nazionale-contro-la-Pedofilia.pdf)
+

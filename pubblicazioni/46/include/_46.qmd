@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+circa 14.000 casi identificati come vittime di traffico di esseri umani, un quarto sono minori
+:::
+
+:::{.descrizione}
+Il report fornisce informazioni dettagliate sulla tratta e lo sfruttamento dei minori, evidenziando come tali crimini possono avvenire non solo sul Dark Web, ma anche su piattaforme comuni. I dati includono casi di pedopornografia e adescamento online, con un aumento significativo rispetto agli anni precedenti. Vengono anche analizzate le tipologie di sfruttamento, le chiamate al Numero Verde Anti-Tratta ed i sistemi governativi per contrastare questo fenomeno. I dati presentati offrono una panoramica approfondita della situazione in Italia e delle iniziative messe in atto per contrastare il trattamento di esseri umani e proteggere le vittime.
+:::
+
+[Leggilo](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2022.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2022.pdf)
+

@@ -1,0 +1,16 @@
+---
+title: "Indifesa 2020"
+data: 2020-09
+fonte: "Terre des hommes"
+image: ./risorse/indifesa-2020_resized.png
+categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
+website:
+  twitter-card:
+    description: "“Ogni anno circa 13 milioni di bambine e ragazze al di sotto dei 19 anni diventano madri, spesso con gravi problemi di salute fisica e mentale.”"
+    image: "./risorse/indifesa-2020_resized.png"
+  open-graph:
+    description: "“Ogni anno circa 13 milioni di bambine e ragazze al di sotto dei 19 anni diventano madri, spesso con gravi problemi di salute fisica e mentale.”"
+    image: "./risorse/indifesa-2020_resized.png"
+---
+
+{{< include ./include/_37.qmd >}}

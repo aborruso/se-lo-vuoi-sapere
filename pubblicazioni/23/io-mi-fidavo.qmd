@@ -2,6 +2,15 @@
 title: "Io mi fidavo"
 data: 2022-05
 fonte: "Telefono Azzurro e Dipartimento per le politiche della famiglia"
+image: ./risorse/io-mi-fidavo_resized.png
+categories: [assistita, domestica, pedopornografia]
+website:
+  twitter-card:
+    description: "Durante l'anno 2021, il Centro Ascolto e Consulenza 19696 ha gestito 132 casi di Pedofilia e Abusosessuale offline, con una media di 11 casi gestiti al mese… Durante l'anno 2021, il Servizio Emergenza Infanzia 114 ha gestito 182 casi di Pedofilia e Abuso sessuale online con una media di oltre 15 casi gestiti al mese"
+    image: "./risorse/io-mi-fidavo_resized.png"
+  open-graph:
+    description: "Durante l'anno 2021, il Centro Ascolto e Consulenza 19696 ha gestito 132 casi di Pedofilia e Abusosessuale offline, con una media di 11 casi gestiti al mese… Durante l'anno 2021, il Servizio Emergenza Infanzia 114 ha gestito 182 casi di Pedofilia e Abuso sessuale online con una media di oltre 15 casi gestiti al mese"
+    image: "./risorse/io-mi-fidavo_resized.png"
 ---
 
 {{< include ./include/_23.qmd >}}

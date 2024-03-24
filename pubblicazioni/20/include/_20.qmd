@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Osservando le diverse situazioni che affrontano le mamme vittime di violenza domestica, appare evidente come sia ancora scarsa la consapevolezza rispetto all’impatto che un clima di violenza dentro casa può avere sui figli
+:::
+
+:::{.descrizione}
+Il dossier "Abbattiamo il muro del silenzio" realizzato da Save the Children e ISTAT analizza la violenza domestica e l'impatto sui minori. Esso evidenzia che gli abusi contro le donne sono diffusi, con oltre 6 milioni di donne italiane che hanno subito violenza fisica o sessuale. Inoltre, i figli sono spesso testimoni di questi atti, con oltre il 65% delle persone piccole che hanno assistito ad episodi di violenza contro le madri. Il dossier sottolinea anche l'importanza di raccogliere dati accurati e di intervenire per prevenire e proteggere le donne e i minori coinvolti. L'analisi fornisce inoltre dati sulle condanne per maltrattamenti in famiglia, evidenziando un aumento significativo nel corso degli anni. In generale, il dossier fornisce una panoramica dettagliata della violenza domestica in Italia e dell'urgenza di affrontare questo problema diffuso e impattante, specialmente sui minori.
+:::
+
+[Leggilo](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/abbattiamo-il-muro-del-silenzio-il-dossier_1.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/abbattiamo-il-muro-del-silenzio-il-dossier_1.pdf)
+

@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+L’adescamento online, detto anche grooming, è il tentativo da parte di una persona adulta di stabilire una relazione di fiducia con un bambino o un ragazzo attraverso
+:::
+
+:::{.descrizione}
+Questo è un aggiornamento di: “chiamiamo le cose con il loro nome”, è utile per chi si approccia per la prima volta alle violenze su minori o per le persone che volessero scrivere di abusi infantili con il rispetto di un linguaggio inclusivo. Glossario aggiornato al 2023.
+:::
+
+[Leggilo](https://azzurro.it/wp-content/uploads/2023/03/Glossario-Abuso.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://azzurro.it/wp-content/uploads/2023/03/Glossario-Abuso.pdf)
+

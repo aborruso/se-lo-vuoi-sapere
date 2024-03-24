@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+totale costi diretti ed indiretti sulla spesa pubblica d’intervento su minori 13.056.363.807 pari a 0.87% costi PIL, anno 2010
+:::
+
+:::{.descrizione}
+Il documento è un rapporto dettagliato su uno studio di prevalenza relativo al maltrattamento minorile e agli impatti sui costi annui degli interventi su minori, purtroppo non ci sono aggiornamenti e l’anno dei dati del report è il 2010 , tramite altri Dossier sappiamo che dal 2010 ad oggi abbiamo avuto un incremento di questa tipologia d’abusi e possiamo solo immaginare l’aumento delle spese annue.
+:::
+
+[Leggilo](https://cismai.it/assets/uploads/2013/12/STUDIO-DI-PREVALENZA-6261_Tagliare_sui_bambini_studioTDH_Bocconi_Cismai_compressed1.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://cismai.it/assets/uploads/2013/12/STUDIO-DI-PREVALENZA-6261_Tagliare_sui_bambini_studioTDH_Bocconi_Cismai_compressed1.pdf)
+

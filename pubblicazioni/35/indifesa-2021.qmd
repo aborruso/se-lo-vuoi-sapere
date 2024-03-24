@@ -3,7 +3,14 @@ title: "Indifesa 2021"
 data: 2021-09
 fonte: "Terre des hommes"
 image: ./risorse/indifesa-2021_resized.png
-categories: [fisica,psicologica,sessuale,negligenza sfruttamento]
+categories: [fisica, negligenza, psicologica, sessuale, sfruttamento]
+website:
+  twitter-card:
+    description: "Secondo le stime di Unicef ​​e UNFPA, nei prossimi dieci anni, a causa della pandemia, 2 milioni di bambine e ragazze saranno costrette a subire le MGF"
+    image: "./risorse/indifesa-2021_resized.png"
+  open-graph:
+    description: "Secondo le stime di Unicef ​​e UNFPA, nei prossimi dieci anni, a causa della pandemia, 2 milioni di bambine e ragazze saranno costrette a subire le MGF"
+    image: "./risorse/indifesa-2021_resized.png"
 ---
 
 {{< include ./include/_35.qmd >}}

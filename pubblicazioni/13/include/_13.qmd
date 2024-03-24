@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+stimate in 500 mila in tutta l’Europa occidentale le donne schiave avviate alla prostituzione, in Italia sarebbero circa 50 mila, di cui un terzo minorenni. Sempre secondo tale istituto la prostituzione minorile registrerebbe un fatturato annuo tra i 7 e i 13 miliardi di dollari, un affare la cui redditività aumenta a un tasso del 40-50% l’anno, molto più velocemente del mercato della droga
+:::
+
+:::{.descrizione}
+Il dossier in questione "Quaderni del Centro nazionale di documentazione e analisi per l'infanzia e l'adolescenza" intitolato "Uscire dal silenzio: Lo stato di attuazione della legge 269/98". Si tratta di una relazione redatta dal Ministero del lavoro e delle politiche sociali in collaborazione con il Centro nazionale di documentazione e analisi per l'infanzia e l'adolescenza, che si concentra sullo sfruttamento sessuale dei minori, inclusa la prostituzione, il turismo sessuale e la pornografia infantile. Il dossier fornisce un'analisi approfondita dei fenomeni di violenza e sfruttamento sessuale dei minori, nonché degli interventi giudiziari, legislativi e sociali a livello nazionale, regionale e locale per contrastare tali fenomeni. Inoltre, presenta dati, orientamenti giuridici, iniziative a livello centrale, riforme nel settore sociosanitario, progetti di prevenzione e tutela, nonché considerazioni conclusive e documenti delle istituzioni europee e internazionali. Il dossier si propone di fare il punto sulla situazione e sull'attuazione della legge 269/98, offrendo un'ampia panoramica sugli sforzi e sulle sfide legate alla protezione delle minori vittime di abusi sessuali e sfruttamento
+:::
+
+[Leggilo](https://www.minori.gov.it/sites/default/files/Quaderni_Centro_Nazionale_27.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://www.minori.gov.it/sites/default/files/Quaderni_Centro_Nazionale_27.pdf)
+

@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+in Italia il livello d’istruzione femminile è elevato, tuttavia, le ragazze e le giovani donne continuano a essere penalizzate nel mondo del lavoro, con una probabilità 3 volte superiore rispetto ai coetanei maschi di essere escluse dal mercato del lavoro e non essere coinvolti in percorsi formativi
+:::
+
+:::{.descrizione}
+Il dossier "indifesa" del 2019, a cura di Terre des Hommes, fornisce un'analisi dettagliata della condizione delle bambine e delle ragazze nel mondo. Il documento affronta diverse tematiche, tra cui la violenza, le discriminazioni di genere, l'accesso all'istruzione e la salute riproduttiva. Vengono evidenziati sia i progressi compiuti, come l'aumento dei Paesi che vietano le mutilazioni genitali femminili ei matrimoni precoci, sia le sfide ancora presenti, come il persistere di violenze sessuali e discriminazioni di genere. Inoltre, il dossier mette in luce l'importanza dell'indipendenza economica delle ragazze e sottolinea la necessità di intervenire a livello culturale, educativo e lavorativo per promuovere l'uguaglianza di genere. Il documento si conclude con un invito a una lettura attenta e riflessiva, al fine di sensibilizzare e promuovere un reale cambiamento a favore dei diritti delle bambine e delle ragazze nel mondo.
+:::
+
+[Leggilo](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_2019.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_2019.pdf)
+

@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+mancano all’appello più di 100 milioni di bambine, il “mistero delle donne mancanti”. Ovvero tutte quelle donne che oggi sarebbero al mondo se non fosse per l’aborto selettivo, l’infanticidio e la discriminazione socioeconomica.
+:::
+
+:::{.descrizione}
+Il dossier di Terre des Hommes del 2012, che tratta della condizione delle bambine e delle ragazze nel mondo, evidenzia varie forme di discriminazione e violenza subite dalle bambine, come: l'infanticidio e l'aborto selettivo in alcuni paesi, la tratta di esseri umani, i matrimoni precoci, lo sfruttamento lavorativo e domestico, nonché la violenza sessuale e fisica. Inoltre, il dossier sottolinea l'importanza di difendere i diritti delle bambine e dei giovani adolescenti, garantendo loro l'istruzione, la salute e la protezione. L'obiettivo del dossier è sensibilizzare sull'urgenza di agire per porre fine alle violenze e alle discriminazioni perpetrate nei confronti delle bambine e delle ragazze in tutto il mondo.
+:::
+
+[Leggilo](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2012.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2012.pdf)
+

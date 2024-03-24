@@ -1,8 +1,0 @@
----
-title: "Prima Indagine sul maltrattamento dei bambini ed adolescenti in Italia"
-data: 2015-05
-fonte: "CISMAI e Terre des hommes e Autorita Garante per l'infanzia ed adolescenza"
-image: ./risorse/prima-indagine-sul-maltrattamento-dei-bambini-ed-adolescenti_resized.png
----
-
-{{< include ./include/_05.qmd >}}

@@ -1,0 +1,16 @@
+---
+title: "Sondaggio sulla sicurezza online"
+data: 2023-00
+fonte: "ECPAT"
+image: ./risorse/sondaggio-sulla-sicurezza-online_resized.png
+categories: [online]
+website:
+  twitter-card:
+    description: "Il 76% afferma che sarebbe disposto a rinunciare parzialmente alla propria privacy online se ciò aiutasse a proteggere i bambini da potenziali abusi sessuali e sfruttamento su Internet"
+    image: "./risorse/sondaggio-sulla-sicurezza-online_resized.png"
+  open-graph:
+    description: "Il 76% afferma che sarebbe disposto a rinunciare parzialmente alla propria privacy online se ciò aiutasse a proteggere i bambini da potenziali abusi sessuali e sfruttamento su Internet"
+    image: "./risorse/sondaggio-sulla-sicurezza-online_resized.png"
+---
+
+{{< include ./include/_21.qmd >}}

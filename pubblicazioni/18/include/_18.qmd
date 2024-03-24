@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Nel 2019, sono stati presi in carico dagli Uffici del servizio sociale per i minorenni un totale di 16.174 minori e giovani adulti
+:::
+
+:::{.descrizione}
+L’indagine contiene informazioni dettagliate su vari aspetti legati alla pedofilia, alla pedopornografia e alle baby gang. Vengono forniti dati statistici, analisi e testimonianze relative all'aumento delle attività criminali online, all'adescamento di minori, all'uso della rete da parte dei giovani, nonché ai rischi connessi, come il sexting e il revenge porn. Inoltre, vengono descritte le dinamiche e le caratteristiche delle baby gang, evidenziando l'importanza dell'etnia come elemento di aggregazione e le attività criminali ad esse associate. Il documento fornisce inoltre dettagli sulle attività svolte dalle Forze di polizia per contrastare tali fenomeni e sulle cause psicologiche e sociali che potrebbero contribuire alla formazione di baby gang.
+:::
+
+[Leggilo](https://www.senato.it/service/PDF/PDFServer/BGT/1185380.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://www.senato.it/service/PDF/PDFServer/BGT/1185380.pdf)
+

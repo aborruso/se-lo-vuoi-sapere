@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Nel 2020, l’89% dei minori coinvolti nei casi di abuso sessuale offline è di cittadinanza italiana, mentre il 11% di cittadinanza straniera
+:::
+
+:::{.descrizione}
+Il dossier fornisce dati e informazioni dettagliate sull'abuso sessuale e lo sfruttamento a danno dei minori, inclusi i canali di contatto utilizzati dalle vittime per chiedere aiuto, l'età e il genere dei minori coinvolti, nonché le implicazioni dell'abuso sessuale sulla salute mentale. Inoltre, vengono esaminati strumenti, strategie e dati internazionali relativi all'abuso online. Il documento affronta anche le motivazioni connesse all'assenza di richiesta di aiuto da parte delle vittime, evidenziando le barriere emotive e sociali che ostacolano la divulgazione e la richiesta di supporto. I dati presentati nel dossier sono supportati da riferimenti a fonti autorevoli e studi accademici, offrendo così una panoramica completa e approfondita della questione dell'abuso sessuale e dello sfruttamento dei minori.
+:::
+
+[Leggilo](https://azzurro.it/wp-content/uploads/2023/03/dossier-pedofilia-2021.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://azzurro.it/wp-content/uploads/2023/03/dossier-pedofilia-2021.pdf)
+

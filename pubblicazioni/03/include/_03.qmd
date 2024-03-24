@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+“Casi trattati di pedopornografia (anno 2020: 3243, anno 2021: 5316) un incisivo aumento del 47%”
+:::
+
+:::{.descrizione}
+Il documento "L'abuso sessuale online in danno di minori" è un dossier a cura del CNCPO - Servizio Polizia Postale e delle Comunicazioni, in collaborazione con Save the Children, pubblicato a maggio 2022 dalla Polizia di Stato. Il dossier fornisce un'analisi approfondita sull'abuso sessuale online nei confronti dei minori, evidenziando l'aumento significativo dei reati online in danno ai minori durante la pandemia da COVID-19. Vengono forniti dati allarmanti riguardanti casi di pedopornografia, adescamento online e altre forme di abuso, evidenziando l'aumento del rischio per i minori che utilizzano internet e social network. Il documento sottolinea l'importanza delle iniziative congiunte per contrastare questa forma di violenza e proteggere i minori. Il dossier è frutto della collaborazione tra la Polizia di Stato e Save the Children Italia Onlus, e ha l'obiettivo di promuovere i diritti dell'infanzia e dell'adolescenza e prevenire ogni forma di abuso sessuale online nei confronti dei minori.
+:::
+
+[Leggilo](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/labuso-sessuale-online-danno-di-minori-il-dossier.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/labuso-sessuale-online-danno-di-minori-il-dossier.pdf)
+

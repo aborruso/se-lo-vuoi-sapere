@@ -1,0 +1,15 @@
+---
+title: "Violenza onlife"
+data: 2024-01
+fonte: "save the children, changers, ipsos"
+image: ./risorse/violenza-onlife_resized.png
+website:
+  twitter-card:
+    description: "il 47%dei giovani intervistati pensa che il personale scolastico sia in grado di aiutarli nel caso fossero vittime di violenza da parte del proprio partner"
+    image: "./risorse/violenza-onlife_resized.png"
+  open-graph:
+    description: "il 47%dei giovani intervistati pensa che il personale scolastico sia in grado di aiutarli nel caso fossero vittime di violenza da parte del proprio partner"
+    image: "./risorse/violenza-onlife_resized.png"
+---
+
+{{< include ./include/_36.qmd >}}

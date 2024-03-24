@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+i minori vittime di abusi, i reati per maltrattamento contro familiari e conviventi segnalati nel 2020 sono 21.709
+:::
+
+:::{.descrizione}
+Il dossier fornisce un'analisi approfondita di diversi aspetti legati all'infanzia e all'adolescenza nella regione considerata. Nell'ambito della salute e dei servizi, vengono segnalati dati significativi, come il numero medio di residenti per sede consultoriale, la presenza di punti nascita e la copertura vaccinale. Vengono inoltre esaminati temi legati all'ambiente, alla protezione dei minori e ai dati demografici. Ad esempio, si evidenzia la presenza di minori stranieri non accompagnati, minori in stato di detenzione, minori vittime di abusi e persone di minore età con genitore detenuto. Il dossier fornisce anche informazioni sulla lettura, la pratica sportiva e la povertà educativa digitale tra i ragazzi, nonché sui dati relativi all'affido familiare, all'adozione nazionale e internazionale e alla sicurezza nelle scuole. Inoltre, vengono forniti dati sulla spesa per interventi e servizi sociali per l'area famiglia e minori e la spesa per servizi educativi alla prima infanzia.
+:::
+
+[Leggilo](https://gruppocrc.net/wp-content/uploads/2021/11/Rapporto_CRC-dati_regione_2021.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://gruppocrc.net/wp-content/uploads/2021/11/Rapporto_CRC-dati_regione_2021.pdf)
+

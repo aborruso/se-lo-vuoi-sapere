@@ -3,6 +3,14 @@ title: "Relazione L. 269/1998 Minori 2021"
 data: 2022-12
 fonte: "Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri"
 image: ./risorse/relazione-l-269-1998-minori-2021_resized.png
+categories: [fisica, psicologica, sessuale]
+website:
+  twitter-card:
+    description: ""
+    image: "./risorse/relazione-l-269-1998-minori-2021_resized.png"
+  open-graph:
+    description: ""
+    image: "./risorse/relazione-l-269-1998-minori-2021_resized.png"
 ---
 
 {{< include ./include/_08.qmd >}}

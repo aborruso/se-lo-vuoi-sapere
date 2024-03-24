@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Per quanto concerne i presunti responsabili dei casi gestiti durante l’anno 2021, i dati mostrano come nel 49,5% dei casi siano coinvolti i genitori dei minori
+:::
+
+:::{.descrizione}
+Il dossier fornisce dati allarmanti sull'abuso e lo sfruttamento sessuale dei minori, evidenziando un aumento significativo di casi durante la pandemia. I risultati mostrano un aumento delle indagini sull'adescamento di minori, con un'ampia percentuale di abusi perpetrati all'interno della famiglia. Inoltre, vengono forniti dettagli sulle segnalazioni e sul coinvolgimento delle forze dell'ordine, delle procure e dei servizi sociali. I dati evidenziano anche un aumento delle segnalazioni relative all'abuso sessuale online e all'attivazione dei servizi territoriali. Sono inoltre riportate informazioni sulle tipologie di segnalazioni ricevute e sulla provenienza geografica dei casi. I dati evidenziano la necessità di affrontare con urgenza questa problematica e di potenziare le misure di prevenzione e contrasto all'abuso e allo sfruttamento sessuale dei minori.
+:::
+
+[Leggilo](https://azzurro.it/wp-content/uploads/2023/03/Dossier-Abusi-2021.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://azzurro.it/wp-content/uploads/2023/03/Dossier-Abusi-2021.pdf)
+

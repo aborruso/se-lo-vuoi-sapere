@@ -1,0 +1,16 @@
+---
+title: "Minorenni vittime di abusi 2022"
+data: 2022-11
+fonte: "Servizio Analisi Criminale; Dipartimento Pubblica Sicurezza, direzione centrale della Polizia Criminale; Ministero dell'Interno"
+image: ./risorse/minorenni-vittime-di-abusi-2022_resized.png
+categories: [abbandono, assistita, di gruppo, fisica, maltrattamento, psicologica, sessuale, sfruttamento]
+website:
+  twitter-card:
+    description: "In sostanza, gli autori sono uomini in quasi 9 casi su 10, mentre in quasi i due terzi dei casi (62%) gli autori sono adulti di “mezza età”, compresi nelle fasce anagrafiche che vanno dai 35 ai 64 anni. Limitata a poco più di un quarto (29%) l’incidenza degli stranieri."
+    image: "./risorse/minorenni-vittime-di-abusi-2022_resized.png"
+  open-graph:
+    description: "In sostanza, gli autori sono uomini in quasi 9 casi su 10, mentre in quasi i due terzi dei casi (62%) gli autori sono adulti di “mezza età”, compresi nelle fasce anagrafiche che vanno dai 35 ai 64 anni. Limitata a poco più di un quarto (29%) l’incidenza degli stranieri."
+    image: "./risorse/minorenni-vittime-di-abusi-2022_resized.png"
+---
+
+{{< include ./include/_16.qmd >}}

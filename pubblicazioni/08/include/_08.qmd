@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+
+:::
+
+:::{.descrizione}
+Il dossier in questione riguarda la relazione al Parlamento sull'attività di coordinamento di cui all'art. 17, comma 1, della legge 3 agosto 1998, n. 269. Il documento fornisce un'ampia panoramica delle iniziative e dei risultati ottenuti nel 2021 in merito alla prevenzione e al contrasto dell'abuso e dello sfruttamento sessuale dei minori. Vengono presentate diverse campagne di comunicazione e sensibilizzazione, nonché i dati relativi all'attività del Servizio 114 Emergenza Infanzia, che ha gestito un totale di 347 casi di abuso sessuale offline e online nel corso dell'anno. Inoltre, il dossier evidenzia l'importanza della formazione intra e interprofessionale, nonché le azioni e gli obiettivi individuati dai vari gruppi di lavoro coinvolti nel contrasto a tali fenomeni. Sono inoltre riportate le principali tematiche affrontate dai diversi gruppi di lavoro, come la sicurezza nel mondo digitale e lo sviluppo e la condivisione delle banche dati inerenti al fenomeno dell'abuso e dello sfruttamento sessuale dei minori.
+:::
+
+[Leggilo](https://famiglia.governo.it/media/2878/es_relazione_legge_269_1998_anno_2021.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://famiglia.governo.it/media/2878/es_relazione_legge_269_1998_anno_2021.pdf)
+

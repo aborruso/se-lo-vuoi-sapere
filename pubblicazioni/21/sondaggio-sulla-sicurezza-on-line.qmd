@@ -1,8 +1,0 @@
----
-title: "Sondaggio sulla sicurezza on line"
-data: 2023
-fonte: "ECPAT"
-image: ./risorse/sondaggio-sulla-sicurezza-on-line_resized.png
----
-
-{{< include ./include/_21.qmd >}}

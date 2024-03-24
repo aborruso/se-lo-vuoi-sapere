@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Il Centro nazionale per il contrasto alla pedopornografia online ha coordinato 514 attività d'indagine, che hanno portato a 37 arresti e 626 denunce
+:::
+
+:::{.descrizione}
+Il dossier del 2019 riguarda principalmente il progetto DIF (Digital Image Forensic) sviluppato in collaborazione con l'Università di Salerno per fornire strumenti investigativi innovativi per l'analisi delle immagini e l'identificazione dei minori vittime di reati di pornografia minorile. La Convenzione di Budapest, ratificata dall'Italia, rappresenta uno strumento internazionale vincente per combattere la criminalità informatica, stabilendo la condotta anziché la tecnologia e offrendo un quadro per la cooperazione tra gli Stati parte. La Convenzione criminalizza varie attività, inclusi i reati legati alla pornografia minorile e procedura di pubblicazione per aumentare l'efficienza delle indagini e fornire una base giuridica per la cooperazione internazionale. La normativa introduce anche nuovi reati, come la diffusione illecita di immagini o video sessualmente espliciti, e prevede misure di assistenza, sostegno e protezione delle vittime di minore età. Inoltre, la mozione camerale del 2 luglio 2019 impegna il Governo su varie tematiche, tra cui la costituzione di un tavolo tecnico interdisciplinare permanente e il potenziamento delle attività dei servizi sociali e delle iniziative volte a rafforzare i controlli all'interno del percorso di affidamento, delle case famiglia e dei centri per l'infanzia. La normativa regionale attribuisce alle Regioni il compito di legiferare in via esclusiva su specifiche materie, come la ratifica della Convenzione sui diritti dell'infanzia e dell'adolescenza.
+:::
+
+[Leggilo](https://famiglia.governo.it/media/2143/relazione_al_parlamento_269_2019_dipofam.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://famiglia.governo.it/media/2143/relazione_al_parlamento_269_2019_dipofam.pdf)
+

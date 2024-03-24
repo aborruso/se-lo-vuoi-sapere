@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Secondo le stime di Unicef ​​e UNFPA, nei prossimi dieci anni, a causa della pandemia, 2 milioni di bambine e ragazze saranno costrette a subire le MGF
+:::
+
+:::{.descrizione}
+Il dossier "Indifesa" del 2021, pubblicato da Terre des Hommes, affronta diverse tematiche legate alla violenza di genere nei confronti delle ragazze e delle giovani donne. Tra i vari argomenti trattati, il dossier si concentra sulle tempistiche di incidenza delle mutilazioni genitali femminili, dei matrimoni precoci e dei matrimoni forzati in diversi Paesi europei e in contesti migratori. Inoltre, fornisce informazioni sulle conseguenze della pandemia da COVID-19 su queste problematiche, evidenziando un aumento dei rischi per le ragazze e le giovani donne, come ad esempio un'incremento delle gravidanze e una maggiore esposizione alla violenza di genere. L'indagine include anche proposte e buone pratiche per contrastare queste forme di violenza, come l'approvazione di leggi che vietano il matrimonio prima dei 18 anni, l'adozione di piani strategici nazionali e la diffusione di informazioni chiare e accessibili alle vittime e potenziali vittime.
+:::
+
+[Leggilo](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2021.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2021.pdf)
+

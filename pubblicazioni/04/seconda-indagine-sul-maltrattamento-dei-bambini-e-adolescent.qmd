@@ -1,8 +1,0 @@
----
-title: "Seconda Indagine sul maltrattamento dei bambini e adolescenti in Italia"
-data: 2021-04
-fonte: "CISAMAI e Terre des hommes e Autorita Garante per l'infanzia ed adolescenza"
-image: ./risorse/seconda-indagine-sul-maltrattamento-dei-bambini-e-adolescent_resized.png
----
-
-{{< include ./include/_04.qmd >}}

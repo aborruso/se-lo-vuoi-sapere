@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+A livello nazionale, nel 2019 risultano in carico al sistema anti-tratta in Italia 2.033 vittime
+:::
+
+:::{.descrizione}
+Il rapporto "Piccoli Schiavi Invisibili 2020" di Save the Children affronta l'impatto della pandemia da COVID-19 sul trattamento e lo sfruttamento sessuale. Il rapporto evidenzia come la pandemia abbia influenzato le reti criminali, spingendo le vittime verso l'invisibilità e l'aumento dello sfruttamento online. Inoltre, fornisce dati sul numero di persone coinvolte nella tratta e sfruttamento degli esseri umani, sottolineando che un quarto delle vittime sono minorenni, di cui il 4% ha un'età compresa tra 0 e 8 anni. Il rapporto sottolinea l'importanza di affrontare questo fenomeno diffuso e sommerso, specialmente alla luce delle ricadute della pandemia.
+:::
+
+[Leggilo](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2020_1.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2020_1.pdf)
+

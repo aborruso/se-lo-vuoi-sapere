@@ -1,8 +1,0 @@
----
-title: "Minorenni vittime di abusi"
-data: 2022-11
-fonte: "Servizio Analisi Criminale; Dipartimento Pubblica Sicurezza, direzione centrale della Polizia Criminale; Ministero dell'Interno"
-image: ./risorse/minorenni-vittime-di-abusi_resized.png
----
-
-{{< include ./include/_16.qmd >}}

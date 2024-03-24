@@ -1,8 +1,0 @@
----
-title: "Relazione al Parlamento sullo stato di attuazione della legge 3 agosto 1998, n 269"
-data: 2000-07
-fonte: "Presidenza del Consiglio dei Ministri Dipartimento per gli Affari Sociali"
-image: ./risorse/relazione-al-parlamento-sullo-stato-di-attuazione-della-legg,n-269_resized.png
----
-
-{{< include ./include/_15.qmd >}}

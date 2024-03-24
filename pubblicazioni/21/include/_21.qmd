@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Il 76% afferma che sarebbe disposto a rinunciare parzialmente alla propria privacy online se ciò aiutasse a proteggere i bambini da potenziali abusi sessuali e sfruttamento su Internet
+:::
+
+:::{.descrizione}
+Un sondaggio europeo e nazionale che evidenzia la volontà dei cittadini di avere delle leggi tutelanti verso la privacy dei minori.
+:::
+
+[Leggilo](https://ecpat.org/wp-content/uploads/2023/10/Italy.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://ecpat.org/wp-content/uploads/2023/10/Italy.pdf)
+

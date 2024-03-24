@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+ogni 1.000 bambini residenti 45 sono presi in carico dai Servizi Sociali ossia 401.766
+:::
+
+:::{.descrizione}
+Il dossier "Maltrattamento all'infanzia in Italia" del 2021 fornisce un quadro dettagliato della situazione, evidenziando l'urgenza di affrontare il problema e adottare misure concrete per proteggere i minori. Secondo il report, nel mondo un miliardo di bambini ogni anno (uno su due) è vittima di violenza, e in Italia, la situazione non è meno preoccupante. Ad esempio, si stima che tre bambini di età compresa tra 2 e 4 anni su quattro sperimentano punizioni violente da parte dei propri caregiver, e un bambino su quattro di età inferiore ai 5 anni vive con una madre che è vittima di violenza da parte del compagno. Inoltre, uno studente di tre età compresa tra 11 e 15 anni è stato vittima di bullismo da parte dei pari. Il dossier fornisce inoltre raccomandazioni e proposte concrete per contrastare la violenza sui minori, sottolineando l'importanza di adottare politiche efficaci basate su dati affidabili e costanti sull'incidenza e la prevalenza del maltrattamento e dell'abuso all'infanzia e all'adolescenza.
+:::
+
+[Leggilo](https://cismai.it/assets/uploads/2021/04/DossierMaltrattamento-2021-10-singole-1.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://cismai.it/assets/uploads/2021/04/DossierMaltrattamento-2021-10-singole-1.pdf)
+

@@ -1,0 +1,16 @@
+---
+title: "Piccoli schiavi invisibili 2020"
+data: 2020-00
+fonte: ""
+image: ./risorse/piccoli-schiavi-invisibili-2020_resized.png
+categories: [caporalato, covid-19, fisica, minori scomparsi, sfruttamento, tratta esseri umani]
+website:
+  twitter-card:
+    description: "A livello nazionale, nel 2019 risultano in carico al sistema anti-tratta in Italia 2.033 vittime"
+    image: "./risorse/piccoli-schiavi-invisibili-2020_resized.png"
+  open-graph:
+    description: "A livello nazionale, nel 2019 risultano in carico al sistema anti-tratta in Italia 2.033 vittime"
+    image: "./risorse/piccoli-schiavi-invisibili-2020_resized.png"
+---
+
+{{< include ./include/_48.qmd >}}

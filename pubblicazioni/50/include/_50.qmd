@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+nell'ultimo anno le chiamate al numero anti-tratta totali sono state 4.033, rispetto alle 1.462 chiamate ricevute l'anno precedente
+:::
+
+:::{.descrizione}
+Il rapporto "Piccoli schiavi invisibili" del 2018 affronta il tema della trattazione di esseri umani e dello sfruttamento, evidenziando la diffusione della tratta a fini di sfruttamento sessuale e del lavoro. Presenta anche dati globali, normative e iniziative di protezione sociale e assistenza alle vittime. Il documento fornisce una panoramica dettagliata della situazione, inclusi dati statistici e normativi a livello nazionale e internazionale, nonché le iniziative di protezione sociale e assistenza alle vittime. Il rapporto evidenzia inoltre la presenza di minori vittime di tratta, con particolare attenzione al contesto italiano e alle iniziative di protezione sociale a essi dedicate.
+:::
+
+[Leggilo](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2018_2.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2018_2.pdf)
+

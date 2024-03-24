@@ -3,6 +3,14 @@ title: "Abbattiamo il muro del silenzio (dossier)"
 data: 2018-06
 fonte: "Save the Children Italia Onlus"
 image: ./risorse/abbattiamo-il-muro-del-silenzio-dossier_resized.png
+categories: [assistita, domestica, economica, fisica, psicologica]
+website:
+  twitter-card:
+    description: "Osservando le diverse situazioni che affrontano le mamme vittime di violenza domestica, appare evidente come sia ancora scarsa la consapevolezza rispetto all’impatto che un clima di violenza dentro casa può avere sui figli"
+    image: "./risorse/abbattiamo-il-muro-del-silenzio-dossier_resized.png"
+  open-graph:
+    description: "Osservando le diverse situazioni che affrontano le mamme vittime di violenza domestica, appare evidente come sia ancora scarsa la consapevolezza rispetto all’impatto che un clima di violenza dentro casa può avere sui figli"
+    image: "./risorse/abbattiamo-il-muro-del-silenzio-dossier_resized.png"
 ---
 
 {{< include ./include/_20.qmd >}}

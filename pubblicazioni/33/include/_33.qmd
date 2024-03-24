@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+22.958 minori, di cui 5.572 minori accompagnati da un familiare o un parente, e 17.387 minori non accompagnati (MSNA
+:::
+
+:::{.descrizione}
+Il dossier "Children Come First" è un documento realizzato da Save the Children nel contesto del progetto "Children Come First Intervento in frontiera", finanziato dal Fondo Asilo, Migrazione e Integrazione 2014-2020. Il dossier fornisce informazioni quantitative e qualitative al fine di migliorare la conoscenza fenomenologica della migrazione minorile in ingresso in Italia via mare. Contiene sezioni che trattano i minori migranti soli arrivati ​​via mare, le misure per la protezione dei minori, le raccomandazioni e altro ancora. Il documento è stato pubblicato a cura di vari autori ed è stato elaborato per migliorare il sistema di protezione e accoglienza dei minori migranti in Italia. Ogni informazione contenuta nel dossier potrà essere utilizzata solo dietro opportuna citazione della fonte. Il dossier fornisce anche informazioni sulle attività svolte dal team operativo del progetto, i dati relativi agli arrivi in ​​frontiera e le principali nazionalità tra i minori non accompagnati.
+:::
+
+[Leggilo](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/children-come-first-dossier-finale.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/children-come-first-dossier-finale.pdf)
+

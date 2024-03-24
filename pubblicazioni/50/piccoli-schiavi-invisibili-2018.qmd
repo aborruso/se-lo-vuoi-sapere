@@ -1,0 +1,16 @@
+---
+title: "Piccoli schiavi invisibili 2018"
+data: 2018-00
+fonte: ""
+image: ./risorse/piccoli-schiavi-invisibili-2018_resized.png
+categories: [fisica, migranti, minori scomparsi, sfruttamento, tratta esseri umani]
+website:
+  twitter-card:
+    description: "nell'ultimo anno le chiamate al numero anti-tratta totali sono state 4.033, rispetto alle 1.462 chiamate ricevute l'anno precedente"
+    image: "./risorse/piccoli-schiavi-invisibili-2018_resized.png"
+  open-graph:
+    description: "nell'ultimo anno le chiamate al numero anti-tratta totali sono state 4.033, rispetto alle 1.462 chiamate ricevute l'anno precedente"
+    image: "./risorse/piccoli-schiavi-invisibili-2018_resized.png"
+---
+
+{{< include ./include/_50.qmd >}}

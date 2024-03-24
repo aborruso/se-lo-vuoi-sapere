@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+Durante l'anno 2021, il Centro Ascolto e Consulenza 19696 ha gestito 132 casi di Pedofilia e Abusosessuale offline, con una media di 11 casi gestiti al mese… Durante l'anno 2021, il Servizio Emergenza Infanzia 114 ha gestito 182 casi di Pedofilia e Abuso sessuale online con una media di oltre 15 casi gestiti al mese
+:::
+
+:::{.descrizione}
+Il dossier in questione affronta il tema dell'abuso e dello sfruttamento sessuale dei minori, con particolare attenzione all'ambiente digitale. Esso fornisce una panoramica dettagliata sulle diverse forme di abuso, i rischi connessi all'utilizzo di Internet da parte dei minori ei dati più recenti relativi alle attività svolte da organizzazioni come l'Internet Watch Foundation e INHOPE. Inoltre, vengono presentati i servizi offerti da Telefono Azzurro e i dati relativi alle chiamate ricevute. Il documento si articola in tre sezioni principali: "Abuso e sfruttamento sessuale a danno di minori", "Diritto a chiedere aiuto: i Servizi ei Dati di Telefono Azzurro" e "Combattere l'abuso sessuale: i bambini ei ragazzi al centro delle strategie ". Ogni sezione fornisce informazioni dettagliate e aggiornamenti su vari aspetti legati a questo delicato argomento, offrendo un quadro completo della situazione attuale e delle iniziative messe in atto per contrastare l'abuso e proteggere i minori.
+:::
+
+[Leggilo](https://azzurro.it/wp-content/uploads/2023/03/Dossier-Pedofilia-2022.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://azzurro.it/wp-content/uploads/2023/03/Dossier-Pedofilia-2022.pdf)
+

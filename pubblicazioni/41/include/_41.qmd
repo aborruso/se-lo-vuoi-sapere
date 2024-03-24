@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+ogni 10 minuti nel mondo una ragazza muore a seguito di violenza, e la violenza è la seconda causa di mortalità tra le ragazze dai 10 ai 19 anni
+:::
+
+:::{.descrizione}
+Il dossier in questione affronta diverse tematiche legate ai diritti umani, concentrandosi in particolare sulle difficoltà affrontate dalle ex bambine soldato e sulle mutilazioni genitali femminili. Viene evidenziato come le ex combattenti, in particolare le ragazze, affrontano sfide particolari nel ritorno alla vita civile, a causa dello stigma legato alla loro precedente collaborazione con le forze armate o gruppi armati, e in alcuni casi, alla maternità conseguente a stupri subiti durante il conflitto. Inoltre, il dossier tratta approfonditamente il fenomeno delle mutilazioni genitali femminili, evidenziando la diffusione globale di questa pratica ei rischi e le conseguenze per la salute delle ragazze e donne coinvolte. Vengono inoltre forniti dati sulle infezioni da HIV e sulle nozze precoci legate a situazioni di emergenza, come catastrofi naturali e conflitti armati. Il dossier fornisce anche informazioni sulle iniziative intraprese per contrastare tali fenomeni a livello globale.
+:::
+
+[Leggilo](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2016.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2016.pdf)
+

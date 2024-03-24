@@ -1,0 +1,19 @@
+:::{.fonte}
+Fonte: **{{< meta fonte >}}**
+:::
+
+---
+
+::: {.callout-tip}
+## Un dato significativo
+la metà dei bambini maltrattati subisce una grave forma di trascuratezza, e la violenza assistita è la seconda forma di violenza più diffusa, con circa 1 bambino su 5 fra quelli maltrattati testimone di violenza domestica
+:::
+
+:::{.descrizione}
+In Italia, l'indagine nazionale sul maltrattamento dei bambini e degli adolescenti ha rivelato una realtà allarmante: nonostante l'esistenza di un sistema normativo avanzato, persiste una mancanza di strumenti efficaci per il monitoraggio e la prevenzione del fenomeno. La ricerca ha evidenziato che lo 0,98% dei minori è in carico ai Servizi Sociali per maltrattamento, una percentuale che lievita all'1,49% se si includono anche i casi di minori presi in carico per altre ragioni ma poi rivelatisi vittime di maltrattamento. Questi dati, sebbene rappresentino solo la punta dell'iceberg, sottolineano l'urgenza di un impegno concreto per proteggere i diritti dei bambini e prevenire la violenza, un impegno che deve tradursi in azioni sistematiche e coordinare a livello nazionale
+:::
+
+[Leggilo](https://cismai.it/assets/uploads/2015/05/Indagine_maltrattamento_TDH_Cismai_Garante_mag15.pdf){.btn-action-primary .btn-action .btn .btn-success .btn-lg}
+
+[![]({{< meta image >}})](https://cismai.it/assets/uploads/2015/05/Indagine_maltrattamento_TDH_Cismai_Garante_mag15.pdf)
+

@@ -1,0 +1,16 @@
+---
+title: "Indifesa 2017"
+data: 2017-09
+fonte: "Terre des hommes"
+image: ./risorse/indifesa-2017_resized.png
+categories: [fisica, negligenza, psicologica, sessuale, sfruttamento]
+website:
+  twitter-card:
+    description: "si stima che nel mondo quasi 2 bambine su 3, nella fascia d'età dai 10 ai 14 anni, subiscono regolarmente punizioni corporali"
+    image: "./risorse/indifesa-2017_resized.png"
+  open-graph:
+    description: "si stima che nel mondo quasi 2 bambine su 3, nella fascia d'età dai 10 ai 14 anni, subiscono regolarmente punizioni corporali"
+    image: "./risorse/indifesa-2017_resized.png"
+---
+
+{{< include ./include/_40.qmd >}}
