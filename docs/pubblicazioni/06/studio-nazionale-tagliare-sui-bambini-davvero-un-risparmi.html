@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT" xml:lang="it-IT"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Se-lo-vuoi-sapere - Studio nazionale “tagliare sui bambini è davvero un risparmio?”</title>
+<title>Se lo vuoi sapere - Studio nazionale “Tagliare sui bambini è davvero un risparmio?”</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<link href="../../immagini/favico.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +70,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.scss">
+<meta property="og:title" content="Se lo vuoi sapere - Studio nazionale “Tagliare sui bambini è davvero un risparmio?”">
+<meta property="og:description" content="">
+<meta property="og:image" content="./risorse/studio-nazionale-tagliare-sui-bambini-davvero-un-risparmi_resized.png">
+<meta property="og:site_name" content="Se lo vuoi sapere">
+<meta name="twitter:title" content="Se lo vuoi sapere - Studio nazionale “Tagliare sui bambini è davvero un risparmio?”">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="./risorse/studio-nazionale-tagliare-sui-bambini-davvero-un-risparmi_resized.png">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -79,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Se-lo-vuoi-sapere</span>
+    <span class="navbar-title">Se lo vuoi sapere</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Ricerca"></div>
@@ -119,8 +128,11 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Studio nazionale “tagliare sui bambini è davvero un risparmio?”</h1>
-</div>
+<h1 class="title">Studio nazionale “Tagliare sui bambini è davvero un risparmio?”</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">assistita</div>
+  </div>
+  </div>
 
 
 
@@ -136,6 +148,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="fonte">
+<p>Fonte: <strong>CISMAI e Terre des hommes e Università Bocconi</strong></p>
+</div>
+<hr>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Un dato significativo
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>totale costi diretti ed indiretti sulla spesa pubblica d’intervento su minori 13.056.363.807 pari a 0.87% costi PIL, anno 2010</p>
+</div>
+</div>
+<div class="descrizione">
+<p>Il documento è un rapporto dettagliato su uno studio di prevalenza relativo al maltrattamento minorile e agli impatti sui costi annui degli interventi su minori, purtroppo non ci sono aggiornamenti e l’anno dei dati del report è il 2010 , tramite altri Dossier sappiamo che dal 2010 ad oggi abbiamo avuto un incremento di questa tipologia d’abusi e possiamo solo immaginare l’aumento delle spese annue.</p>
+</div>
+<p><a href="https://cismai.it/assets/uploads/2013/12/STUDIO-DI-PREVALENZA-6261_Tagliare_sui_bambini_studioTDH_Bocconi_Cismai_compressed1.pdf" class="btn-action-primary btn-action btn btn-success btn-lg">Leggilo</a></p>
+<p><a href="https://cismai.it/assets/uploads/2013/12/STUDIO-DI-PREVALENZA-6261_Tagliare_sui_bambini_studioTDH_Bocconi_Cismai_compressed1.pdf"><img src="./risorse/studio-nazionale-tagliare-sui-bambini-davvero-un-risparmi_resized.png" class="img-fluid"></a></p>
 
 
 
@@ -230,6 +264,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {

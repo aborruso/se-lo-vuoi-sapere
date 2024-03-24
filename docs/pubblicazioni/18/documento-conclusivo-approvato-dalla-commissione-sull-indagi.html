@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT" xml:lang="it-IT"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Se-lo-vuoi-sapere - Documento conclusivo approvato dalla commissione sull’indagine conoscitiva sulle forme di violenza fra minorie e ai danni di bambini e adolescenti</title>
+<title>Se lo vuoi sapere - Documento conclusivo approvato dalla Commissione sull’indagine conoscitiva sulle forme di violenza fra minori e ai danni di bambini e adolescenti</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<link href="../../immagini/favico.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +70,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.scss">
+<meta property="og:title" content="Se lo vuoi sapere - Documento conclusivo approvato dalla Commissione sull’indagine conoscitiva sulle forme di violenza fra minori e ai danni di bambini e adolescenti">
+<meta property="og:description" content="">
+<meta property="og:image" content="./risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png">
+<meta property="og:site_name" content="Se lo vuoi sapere">
+<meta name="twitter:title" content="Se lo vuoi sapere - Documento conclusivo approvato dalla Commissione sull’indagine conoscitiva sulle forme di violenza fra minori e ai danni di bambini e adolescenti">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="./risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -79,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Se-lo-vuoi-sapere</span>
+    <span class="navbar-title">Se lo vuoi sapere</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Ricerca"></div>
@@ -119,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Documento conclusivo approvato dalla commissione sull’indagine conoscitiva sulle forme di violenza fra minorie e ai danni di bambini e adolescenti</h1>
+<h1 class="title">Documento conclusivo approvato dalla Commissione sull’indagine conoscitiva sulle forme di violenza fra minori e ai danni di bambini e adolescenti</h1>
 </div>
 
 
@@ -136,6 +145,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="fonte">
+<p>Fonte: <strong>Commissione parlamentare per l’infanzia e l’adolescenza</strong></p>
+</div>
+<hr>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Un dato significativo
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Nel 2019, sono stati presi in carico dagli Uffici del servizio sociale per i minorenni un totale di 16.174 minori e giovani adulti</p>
+</div>
+</div>
+<div class="descrizione">
+<p>L’indagine contiene informazioni dettagliate su vari aspetti legati alla pedofilia, alla pedopornografia e alle baby gang. Vengono forniti dati statistici, analisi e testimonianze relative all’aumento delle attività criminali online, all’adescamento di minori, all’uso della rete da parte dei giovani, nonché ai rischi connessi, come il sexting e il revenge porn. Inoltre, vengono descritte le dinamiche e le caratteristiche delle baby gang, evidenziando l’importanza dell’etnia come elemento di aggregazione e le attività criminali ad esse associate. Il documento fornisce inoltre dettagli sulle attività svolte dalle Forze di polizia per contrastare tali fenomeni e sulle cause psicologiche e sociali che potrebbero contribuire alla formazione di baby gang.</p>
+</div>
+<p><a href="https://www.senato.it/service/PDF/PDFServer/BGT/1185380.pdf" class="btn-action-primary btn-action btn btn-success btn-lg">Leggilo</a></p>
+<p><a href="https://www.senato.it/service/PDF/PDFServer/BGT/1185380.pdf"><img src="./risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png" class="img-fluid"></a></p>
 
 
 
@@ -230,6 +261,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {

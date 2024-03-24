@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT" xml:lang="it-IT"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Se-lo-vuoi-sapere - Abbattiamo il muro del silenzio (dossier)</title>
+<title>Se lo vuoi sapere - Abbattiamo il muro del silenzio (dossier)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<link href="../../immagini/favico.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +70,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.scss">
+<meta property="og:title" content="Se lo vuoi sapere - Abbattiamo il muro del silenzio (dossier)">
+<meta property="og:description" content="">
+<meta property="og:image" content="./risorse/abbattiamo-il-muro-del-silenzio-dossier_resized.png">
+<meta property="og:site_name" content="Se lo vuoi sapere">
+<meta name="twitter:title" content="Se lo vuoi sapere - Abbattiamo il muro del silenzio (dossier)">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="./risorse/abbattiamo-il-muro-del-silenzio-dossier_resized.png">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -79,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Se-lo-vuoi-sapere</span>
+    <span class="navbar-title">Se lo vuoi sapere</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Ricerca"></div>
@@ -120,7 +129,14 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Abbattiamo il muro del silenzio (dossier)</h1>
-</div>
+  <div class="quarto-categories">
+    <div class="quarto-category">assistita</div>
+    <div class="quarto-category">domestica</div>
+    <div class="quarto-category">economica</div>
+    <div class="quarto-category">fisica</div>
+    <div class="quarto-category">psicologica</div>
+  </div>
+  </div>
 
 
 
@@ -136,6 +152,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="fonte">
+<p>Fonte: <strong>Save the Children Italia Onlus</strong></p>
+</div>
+<hr>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Un dato significativo
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Osservando le diverse situazioni che affrontano le mamme vittime di violenza domestica, appare evidente come sia ancora scarsa la consapevolezza rispetto all’impatto che un clima di violenza dentro casa può avere sui figli</p>
+</div>
+</div>
+<div class="descrizione">
+<p>Il dossier “Abbattiamo il muro del silenzio” realizzato da Save the Children e ISTAT analizza la violenza domestica e l’impatto sui minori. Esso evidenzia che gli abusi contro le donne sono diffusi, con oltre 6 milioni di donne italiane che hanno subito violenza fisica o sessuale. Inoltre, i figli sono spesso testimoni di questi atti, con oltre il 65% delle persone piccole che hanno assistito ad episodi di violenza contro le madri. Il dossier sottolinea anche l’importanza di raccogliere dati accurati e di intervenire per prevenire e proteggere le donne e i minori coinvolti. L’analisi fornisce inoltre dati sulle condanne per maltrattamenti in famiglia, evidenziando un aumento significativo nel corso degli anni. In generale, il dossier fornisce una panoramica dettagliata della violenza domestica in Italia e dell’urgenza di affrontare questo problema diffuso e impattante, specialmente sui minori.</p>
+</div>
+<p><a href="https://s3.savethechildren.it/public/files/uploads/pubblicazioni/abbattiamo-il-muro-del-silenzio-il-dossier_1.pdf" class="btn-action-primary btn-action btn btn-success btn-lg">Leggilo</a></p>
+<p><a href="https://s3.savethechildren.it/public/files/uploads/pubblicazioni/abbattiamo-il-muro-del-silenzio-il-dossier_1.pdf"><img src="./risorse/abbattiamo-il-muro-del-silenzio-dossier_resized.png" class="img-fluid"></a></p>
 
 
 
@@ -230,6 +268,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {

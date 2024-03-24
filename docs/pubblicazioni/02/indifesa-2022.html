@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT" xml:lang="it-IT"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Se-lo-vuoi-sapere - Indifesa 2022</title>
+<title>Se lo vuoi sapere - Indifesa 2022</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<link href="../../immagini/favico.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +70,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.scss">
+<meta property="og:title" content="Se lo vuoi sapere - Indifesa 2022">
+<meta property="og:description" content="">
+<meta property="og:image" content="./risorse/indifesa-2022_resized.png">
+<meta property="og:site_name" content="Se lo vuoi sapere">
+<meta name="twitter:title" content="Se lo vuoi sapere - Indifesa 2022">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="./risorse/indifesa-2022_resized.png">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -79,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Se-lo-vuoi-sapere</span>
+    <span class="navbar-title">Se lo vuoi sapere</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Ricerca"></div>
@@ -122,9 +131,10 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Indifesa 2022</h1>
   <div class="quarto-categories">
     <div class="quarto-category">fisica</div>
+    <div class="quarto-category">negligenza</div>
     <div class="quarto-category">psicologica</div>
     <div class="quarto-category">sessuale</div>
-    <div class="quarto-category">negligenza sfruttamento</div>
+    <div class="quarto-category">sfruttamento</div>
   </div>
   </div>
 
@@ -142,6 +152,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="fonte">
+<p>Fonte: <strong>Terre des hommes</strong></p>
+</div>
+<hr>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Un dato significativo
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Nel 2021 i bambini nati da madri minorenni sono stati 891</p>
+</div>
+</div>
+<div class="descrizione">
+<p>Il documento “L’abuso sessuale online in danno di minori” è un dossier a cura del CNCPO - Servizio Polizia Postale e delle Comunicazioni, in collaborazione con Save the Children, pubblicato a maggio 2022 dalla Polizia di Stato. Il dossier fornisce un’analisi approfondita sull’abuso sessuale online nei confronti dei minori, evidenziando l’aumento significativo dei reati online in danno ai minori durante la pandemia da COVID-19. Vengono forniti dati allarmanti riguardanti casi di pedopornografia, adescamento online e altre forme di abuso, evidenziando l’aumento del rischio per i minori che utilizzano internet e social network. Il documento sottolinea l’importanza delle iniziative congiunte per contrastare questa forma di violenza e proteggere i minori. Il dossier è frutto della collaborazione tra la Polizia di Stato e Save the Children Italia Onlus, e ha l’obiettivo di promuovere i diritti dell’infanzia e dell’adolescenza e prevenire ogni forma di abuso sessuale online nei confronti dei minori.</p>
+</div>
+<p><a href="https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2022.pdf" class="btn-action-primary btn-action btn btn-success btn-lg">Leggilo</a></p>
+<p><a href="https://terredeshommes.it/indifesa/pdf/Dossier_indifesa_tdh_2022.pdf"><img src="./risorse/indifesa-2022_resized.png" class="img-fluid"></a></p>
 
 
 
@@ -236,6 +268,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {

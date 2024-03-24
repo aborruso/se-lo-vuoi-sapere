@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT" xml:lang="it-IT"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Se-lo-vuoi-sapere</title>
+<title>Se lo vuoi sapere</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./immagini/favico.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -79,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Se-lo-vuoi-sapere</span>
+    <span class="navbar-title">Se lo vuoi sapere</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Ricerca"></div>
@@ -117,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Se-lo-vuoi-sapere</h1>
+<h1 class="title">Se lo vuoi sapere</h1>
 </div>
 
 
@@ -134,10 +135,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Questo sito nasce con l’intento di far conoscere in modo trasversale il fenomeno delle violenze e maltrattamenti su minori.</p>
-<p>Abbiamo raccolto i report on line sulla tematica di abusi su minori, per studiare l’argomento da più vicino nella sua complessità.</p>
-<p>Ci siamo resi conto che i dati a disposizione sui maltrattamenti e violenze sullə bambinə ed adolescenti sono pochi e non sempre di facile fruizione, quindi ci siamo adoperati per raccoglierli agevolando la ricerca per tutte le persone che vogliono conoscere e studiare il fenomeno.</p>
-<p>II sito è suddiviso in categorie specifiche raggiungibili velocemente attraverso i link indicati.</p>
+<p>Questo sito è stato creato con l’obiettivo di <strong>sensibilizzare</strong> in modo ampio sull’importante <strong>tema</strong> delle <strong>violenze</strong> e dei <strong>maltrattamenti</strong> sui <strong>minori</strong>.</p>
+<p>Abbiamo raccolto report <em>online</em> sull’argomento degli abusi sui minori al fine di esaminare da vicino la complessità di questa tematica.<br> Ci siamo resi conto che i <strong>dati</strong> disponibili sui <strong>maltrattamenti</strong> e sulle violenze nei confronti dei bambini e degli adolescenti sono limitati e <strong>non</strong> sempre di <strong>facile</strong> <strong>accesso</strong>. Pertanto, ci siamo impegnati a raccoglierli per agevolare la ricerca di coloro che desiderano approfondire questo fenomeno.</p>
+<p>Il sito è strutturato in <strong>categorie</strong>, facilmente accessibili tramite i link indicati.</p>
+<p>Vogliamo raggiungere studenti e giornalisti affinché possano utilizzare quanto abbiamo raccolto, per <strong>sensibilizzare</strong> sull’importante <strong>problema sociale</strong> degli abusi sui minori.<br> Allo stesso tempo, auspichiamo la partecipazione di genitori, insegnanti, educatori e <strong>figure</strong> di <strong>riferimento</strong> per i minori, al fine di fornire loro <strong>strumenti</strong> per <strong>comprendere</strong> i <strong>meccanismi</strong> di <strong>manipolazione</strong> presenti in questo contesto. È fondamentale che siano consapevoli di questi rischi e si informino in modo adeguato per <strong>proteggere</strong> i minori da tali <strong>pericoli</strong>.</p>
+<p>Attraverso la <strong>condivisione</strong> di <strong>informazioni</strong> e la <strong>consapevolezza</strong>, possiamo tutti contribuire a <strong>prevenire</strong> e <strong>contrastare</strong> questi <strong>abusi</strong>, sia <em>online</em> che <em>offline</em>.</p>
+<p><a href="pubblicazioni/"><img src="immagini/logo.png" class="img-fluid"></a></p>
 
 
 
@@ -232,6 +235,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
