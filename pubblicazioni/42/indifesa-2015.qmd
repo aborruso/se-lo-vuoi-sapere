@@ -2,7 +2,7 @@
 title: "Indifesa 2015"
 data: 2015-09
 fonte: "Terre des hommes"
-image: ./risorse/indifesa-2015_resized.png
+image: indifesa-2015_resized.png
 categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:

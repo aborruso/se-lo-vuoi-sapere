@@ -2,7 +2,7 @@
 title: "Piccoli schiavi invisibili 2022"
 data: 2022-00
 fonte: "Save the Children"
-image: ./risorse/piccoli-schiavi-invisibili-2022_resized.png
+image: piccoli-schiavi-invisibili-2022_resized.png
 categories: [fisica, migranti, minori scomparsi, sfruttamento, tratta esseri umani]
 website:
   twitter-card:

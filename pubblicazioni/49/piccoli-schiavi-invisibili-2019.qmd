@@ -2,7 +2,7 @@
 title: "Piccoli schiavi invisibili 2019"
 data: 2019-00
 fonte: ""
-image: ./risorse/piccoli-schiavi-invisibili-2019_resized.png
+image: piccoli-schiavi-invisibili-2019_resized.png
 categories: [fisica, migranti, minori scomparsi, sfruttamento, tratta esseri umani]
 website:
   twitter-card:

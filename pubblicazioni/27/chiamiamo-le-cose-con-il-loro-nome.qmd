@@ -2,7 +2,7 @@
 title: "Chiamiamo le cose con il loro nome"
 data: 2020-05
 fonte: "Telefono Azzurro e Dipartimento per le politiche della famiglia"
-image: ./risorse/chiamiamo-le-cose-con-il-loro-nome_resized.png
+image: chiamiamo-le-cose-con-il-loro-nome_resized.png
 website:
   twitter-card:
     description: "Il fenomeno del sextortion consiste nella minaccia di condividere con terzi immagini sessuali della vittima, se quest’ultima non acconsente a fare ciò che le viene chiesto"

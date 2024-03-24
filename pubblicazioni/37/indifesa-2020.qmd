@@ -2,7 +2,7 @@
 title: "Indifesa 2020"
 data: 2020-09
 fonte: "Terre des hommes"
-image: ./risorse/indifesa-2020_resized.png
+image: indifesa-2020_resized.png
 categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:

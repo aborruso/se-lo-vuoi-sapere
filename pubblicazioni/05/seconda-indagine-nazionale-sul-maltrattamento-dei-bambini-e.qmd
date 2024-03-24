@@ -2,7 +2,7 @@
 title: "Seconda indagine nazionale sul maltrattamento dei bambini e degli adolescenti in Italia 2021"
 data: 2015-05
 fonte: "CISMAI e Terre des hommes e Autorita Garante per l'infanzia ed adolescenza"
-image: ./risorse/seconda-indagine-nazionale-sul-maltrattamento-dei-bambini-e_resized.png
+image: seconda-indagine-nazionale-sul-maltrattamento-dei-bambini-e_resized.png
 categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:

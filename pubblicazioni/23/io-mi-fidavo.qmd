@@ -2,7 +2,7 @@
 title: "Io mi fidavo"
 data: 2022-05
 fonte: "Telefono Azzurro e Dipartimento per le politiche della famiglia"
-image: ./risorse/io-mi-fidavo_resized.png
+image: io-mi-fidavo_resized.png
 categories: [assistita, domestica, pedopornografia]
 website:
   twitter-card:

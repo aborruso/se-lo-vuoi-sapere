@@ -2,7 +2,7 @@
 title: "Dentro l'emergenza"
 data: 2023-00
 fonte: "Telefono Azzurro e Dipartimento per le politiche della famiglia"
-image: ./risorse/dentro-l-emergenza_resized.png
+image: dentro-l-emergenza_resized.png
 categories: [bullismo, domestica, offline, online, pedofilia, pedopornografia, scolastica]
 website:
   twitter-card:

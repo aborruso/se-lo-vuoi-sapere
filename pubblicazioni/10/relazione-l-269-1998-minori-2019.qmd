@@ -2,7 +2,7 @@
 title: "Relazione L. 269/1998 Minori 2019"
 data: 2020-12
 fonte: "Istituto degli Innocenti; Dipartimento per le politiche della famiglia - Presidenza del Consiglio dei Ministri"
-image: ./risorse/relazione-l-269-1998-minori-2019_resized.png
+image: relazione-l-269-1998-minori-2019_resized.png
 categories: [fisica, psicologica, sessuale]
 website:
   twitter-card:

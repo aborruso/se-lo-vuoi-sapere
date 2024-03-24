@@ -2,7 +2,7 @@
 title: "Dossier Pedofilia"
 data: 2021-00
 fonte: "Telefono Azzurro e Dipartimento per le politiche della famiglia"
-image: ./risorse/dossier-pedofilia_resized.png
+image: dossier-pedofilia_resized.png
 categories: [domestica, esterna, fisica, offline, online, psicologica, sessuale]
 website:
   twitter-card:

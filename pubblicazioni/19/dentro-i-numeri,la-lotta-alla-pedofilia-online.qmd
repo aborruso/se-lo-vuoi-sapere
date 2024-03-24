@@ -2,7 +2,7 @@
 title: "Dentro i numeri, la lotta alla pedofilia online"
 data: 2023-05
 fonte: "Polizia Postale e delle Comunicazioni"
-image: ./risorse/dentro-i-numeri,la-lotta-alla-pedofilia-online_resized.png
+image: dentro-i-numeri,la-lotta-alla-pedofilia-online_resized.png
 categories: [pedopornografia, sextortion]
 website:
   twitter-card:

@@ -2,7 +2,7 @@
 title: "Minorenni vittime di abusi 2022"
 data: 2022-11
 fonte: "Servizio Analisi Criminale; Dipartimento Pubblica Sicurezza, direzione centrale della Polizia Criminale; Ministero dell'Interno"
-image: ./risorse/minorenni-vittime-di-abusi-2022_resized.png
+image: minorenni-vittime-di-abusi-2022_resized.png
 categories: [abbandono, assistita, di gruppo, fisica, maltrattamento, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:

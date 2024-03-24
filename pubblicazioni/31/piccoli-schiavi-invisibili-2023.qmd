@@ -2,7 +2,7 @@
 title: "Piccoli schiavi invisibili 2023"
 data: 2023-00
 fonte: "Save the Children"
-image: ./risorse/piccoli-schiavi-invisibili-2023_resized.png
+image: piccoli-schiavi-invisibili-2023_resized.png
 categories: [caporalato, migranti, minori scomparsi, sfruttamento, tratta esseri umani]
 website:
   twitter-card:

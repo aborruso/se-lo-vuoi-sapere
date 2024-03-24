@@ -2,7 +2,7 @@
 title: "Piccoli schiavi invisibili 2021"
 data: 2021-00
 fonte: "Save the Children"
-image: ./risorse/piccoli-schiavi-invisibili-2021_resized.png
+image: piccoli-schiavi-invisibili-2021_resized.png
 categories: [covid-19, fisica, migranti, minori scomparsi, sfruttamento, tratta esseri umani]
 website:
   twitter-card:

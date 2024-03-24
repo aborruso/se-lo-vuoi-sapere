@@ -2,7 +2,7 @@
 title: "Indifesa 2013"
 data: 2013-09
 fonte: "Terre des hommes"
-image: ./risorse/indifesa-2013_resized.png
+image: indifesa-2013_resized.png
 categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:

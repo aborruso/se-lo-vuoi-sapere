@@ -2,7 +2,7 @@
 title: "Indifesa 2018"
 data: 2018-09
 fonte: "Terre des hommes"
-image: ./risorse/indifesa-2018_resized.png
+image: indifesa-2018_resized.png
 categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:

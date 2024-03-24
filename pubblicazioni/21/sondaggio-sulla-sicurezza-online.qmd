@@ -2,7 +2,7 @@
 title: "Sondaggio sulla sicurezza online"
 data: 2023-00
 fonte: "ECPAT"
-image: ./risorse/sondaggio-sulla-sicurezza-online_resized.png
+image: sondaggio-sulla-sicurezza-online_resized.png
 categories: [online]
 website:
   twitter-card:

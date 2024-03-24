@@ -2,7 +2,7 @@
 title: "Studio nazionale \"Tagliare sui bambini è davvero un risparmio?\""
 data: 2013-12
 fonte: "CISMAI e Terre des hommes e Università Bocconi"
-image: ./risorse/studio-nazionale-tagliare-sui-bambini-davvero-un-risparmi_resized.png
+image: studio-nazionale-tagliare-sui-bambini-davvero-un-risparmi_resized.png
 categories: [assistita]
 website:
   twitter-card:

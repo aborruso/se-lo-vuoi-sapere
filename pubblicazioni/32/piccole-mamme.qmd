@@ -2,7 +2,7 @@
 title: "Piccole mamme"
 data: 2011-00
 fonte: "Save the Children"
-image: ./risorse/piccole-mamme_resized.png
+image: piccole-mamme_resized.png
 categories: [migranti]
 website:
   twitter-card:

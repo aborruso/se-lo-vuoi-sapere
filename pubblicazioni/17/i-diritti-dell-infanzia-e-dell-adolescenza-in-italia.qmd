@@ -2,7 +2,7 @@
 title: "I diritti dell'infanzia e dell'adolescenza in Italia"
 data: 2021-11
 fonte: "Gruppo CRC"
-image: ./risorse/i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png
+image: i-diritti-dell-infanzia-e-dell-adolescenza-in-italia_resized.png
 categories: [assistita, educativa, familiare, fisica, incuria, ipercura, psicologica, scolastica]
 website:
   twitter-card:

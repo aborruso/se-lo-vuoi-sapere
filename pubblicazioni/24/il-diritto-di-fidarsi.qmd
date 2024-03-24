@@ -2,7 +2,7 @@
 title: "Il diritto di fidarsi"
 data: 2021-00
 fonte: "Telefono Azzurro e Dipartimento per le politiche della famiglia"
-image: ./risorse/il-diritto-di-fidarsi_resized.png
+image: il-diritto-di-fidarsi_resized.png
 categories: [assistita, domestica, fisica, offline, online, psicologica, sessuale]
 website:
   twitter-card:

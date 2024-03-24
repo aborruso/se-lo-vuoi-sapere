@@ -2,7 +2,7 @@
 title: "Abbattiamo il muro del silenzio (dossier)"
 data: 2018-06
 fonte: "Save the Children Italia Onlus"
-image: ./risorse/abbattiamo-il-muro-del-silenzio-dossier_resized.png
+image: abbattiamo-il-muro-del-silenzio-dossier_resized.png
 categories: [assistita, domestica, economica, fisica, psicologica]
 website:
   twitter-card:

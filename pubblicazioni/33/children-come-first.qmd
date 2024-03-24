@@ -2,7 +2,7 @@
 title: "Children Come First"
 data: 2021-00
 fonte: "Save the children"
-image: ./risorse/children-come-first_resized.png
+image: children-come-first_resized.png
 categories: [fisica, migranti, psicologica, sessuale]
 website:
   twitter-card:

@@ -41,7 +41,7 @@ find "${folder}"/../pubblicazioni -type f -name '_*.qmd' ! -delete
   echo "fonte: \"$fonte\"" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
 
   if [ -f "${folder}"/../pubblicazioni/"${id}"/risorse/"${filename}"_resized.png ]; then
-    echo "image: ./risorse/${filename}_resized.png" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
+    echo "image: ${filename}_resized.png" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
     cp "${folder}"/../pubblicazioni/"${id}"/risorse/"${filename}_resized.png" "${folder}"/../pubblicazioni/"${id}"/"${filename}_resized.png"
   fi
 

@@ -2,7 +2,7 @@
 title: "Sui bambini non si tratta"
 data: 2022-00
 fonte: "Telefono Azzurro e Dipartimento per le politiche della famiglia"
-image: ./risorse/sui-bambini-non-si-tratta_resized.png
+image: sui-bambini-non-si-tratta_resized.png
 categories: [caporalato, minori scomparsi, tratta esseri umani]
 website:
   twitter-card:

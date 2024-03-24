@@ -2,7 +2,7 @@
 title: "Indifesa 2017"
 data: 2017-09
 fonte: "Terre des hommes"
-image: ./risorse/indifesa-2017_resized.png
+image: indifesa-2017_resized.png
 categories: [fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:

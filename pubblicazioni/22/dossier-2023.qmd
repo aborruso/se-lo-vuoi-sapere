@@ -2,7 +2,7 @@
 title: "Dossier 2023"
 data: 2023-00
 fonte: "Telefono Azzurro e Dipartimento per le politiche della famiglia"
-image: ./risorse/dossier-2023_resized.png
+image: dossier-2023_resized.png
 categories: [assistita, fisica, offline, online, psicologica, sessuale]
 website:
   twitter-card:

@@ -2,7 +2,7 @@
 title: "Quaderni del Centro Nazionale di Documentazione e Analisi per l'Infanzia e l'Adolescenza 2003"
 data: 2003-01
 fonte: "Istituto degli Innocenti"
-image: ./risorse/quaderni-del-centro-nazionale-di-documentazione-e-analisi-pe_resized.png
+image: quaderni-del-centro-nazionale-di-documentazione-e-analisi-pe_resized.png
 categories: [fisica, maltrattamento, pornografia minorile, prostituzione, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:

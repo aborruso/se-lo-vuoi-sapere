@@ -43,8 +43,3 @@ format:
     code-overflow: wrap
     link-external-newwindow: true
     link-external-filter: '^.*\.github\.io\/'
-
-
-execute:
-  daemon: false
-  freeze: auto

@@ -2,7 +2,7 @@
 title: "Indifesa 2023"
 data: 2023-09
 fonte: "Terre des hommes"
-image: ./risorse/indifesa-2023_resized.png
+image: indifesa-2023_resized.png
 categories: [fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
