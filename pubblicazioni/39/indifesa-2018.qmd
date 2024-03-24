@@ -7,10 +7,10 @@ categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
     description: "Nella fascia d'età compresa tra i 15 e 19 anni, nel mondo circa 70 milioni di ragazze (una su quattro) sono state vittime di violenza fisica a partire dall'età di 15 anni"
-    image: "./risorse/indifesa-2018_resized.png"
+    image: "risorse/indifesa-2018_resized.png"
   open-graph:
     description: "Nella fascia d'età compresa tra i 15 e 19 anni, nel mondo circa 70 milioni di ragazze (una su quattro) sono state vittime di violenza fisica a partire dall'età di 15 anni"
-    image: "./risorse/indifesa-2018_resized.png"
+    image: "risorse/indifesa-2018_resized.png"
 ---
 
 {{< include ./include/_39.qmd >}}

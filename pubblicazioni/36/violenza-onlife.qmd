@@ -6,10 +6,10 @@ image: ./risorse/violenza-onlife_resized.png
 website:
   twitter-card:
     description: "il 47%dei giovani intervistati pensa che il personale scolastico sia in grado di aiutarli nel caso fossero vittime di violenza da parte del proprio partner"
-    image: "./risorse/violenza-onlife_resized.png"
+    image: "risorse/violenza-onlife_resized.png"
   open-graph:
     description: "il 47%dei giovani intervistati pensa che il personale scolastico sia in grado di aiutarli nel caso fossero vittime di violenza da parte del proprio partner"
-    image: "./risorse/violenza-onlife_resized.png"
+    image: "risorse/violenza-onlife_resized.png"
 ---
 
 {{< include ./include/_36.qmd >}}

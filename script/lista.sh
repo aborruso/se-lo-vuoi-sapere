@@ -53,10 +53,10 @@ cat <<EOF >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd
 website:
   twitter-card:
     description: "$social_description"
-    image: "./risorse/${filename}_resized.png"
+    image: "risorse/${filename}_resized.png"
   open-graph:
     description: "$social_description"
-    image: "./risorse/${filename}_resized.png"
+    image: "risorse/${filename}_resized.png"
 EOF
 
   echo "---" >> "${folder}"/../pubblicazioni/"${id}"/"${filename}".qmd

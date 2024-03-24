@@ -7,10 +7,10 @@ categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
     description: "In Australia, i genitori possono decidere di sterilizzare le proprie figlie con disabilità dopo aver ottenuto l’autorizzazione di un giudice tutelare"
-    image: "./risorse/indifesa-2014_resized.png"
+    image: "risorse/indifesa-2014_resized.png"
   open-graph:
     description: "In Australia, i genitori possono decidere di sterilizzare le proprie figlie con disabilità dopo aver ottenuto l’autorizzazione di un giudice tutelare"
-    image: "./risorse/indifesa-2014_resized.png"
+    image: "risorse/indifesa-2014_resized.png"
 ---
 
 {{< include ./include/_43.qmd >}}

@@ -7,10 +7,10 @@ categories: [fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
     description: "in Italia il livello d’istruzione femminile è elevato, tuttavia, le ragazze e le giovani donne continuano a essere penalizzate nel mondo del lavoro, con una probabilità 3 volte superiore rispetto ai coetanei maschi di essere escluse dal mercato del lavoro e non essere coinvolti in percorsi formativi"
-    image: "./risorse/indifesa-2019_resized.png"
+    image: "risorse/indifesa-2019_resized.png"
   open-graph:
     description: "in Italia il livello d’istruzione femminile è elevato, tuttavia, le ragazze e le giovani donne continuano a essere penalizzate nel mondo del lavoro, con una probabilità 3 volte superiore rispetto ai coetanei maschi di essere escluse dal mercato del lavoro e non essere coinvolti in percorsi formativi"
-    image: "./risorse/indifesa-2019_resized.png"
+    image: "risorse/indifesa-2019_resized.png"
 ---
 
 {{< include ./include/_38.qmd >}}

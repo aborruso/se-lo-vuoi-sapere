@@ -7,10 +7,10 @@ categories: [fisica, psicologica, sessuale]
 website:
   twitter-card:
     description: "Il Centro nazionale per il contrasto alla pedopornografia online ha coordinato 514 attività d'indagine, che hanno portato a 37 arresti e 626 denunce"
-    image: "./risorse/relazione-l-269-1998-minori-2019_resized.png"
+    image: "risorse/relazione-l-269-1998-minori-2019_resized.png"
   open-graph:
     description: "Il Centro nazionale per il contrasto alla pedopornografia online ha coordinato 514 attività d'indagine, che hanno portato a 37 arresti e 626 denunce"
-    image: "./risorse/relazione-l-269-1998-minori-2019_resized.png"
+    image: "risorse/relazione-l-269-1998-minori-2019_resized.png"
 ---
 
 {{< include ./include/_10.qmd >}}

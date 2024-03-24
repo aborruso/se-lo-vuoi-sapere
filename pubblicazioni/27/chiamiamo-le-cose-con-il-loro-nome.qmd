@@ -6,10 +6,10 @@ image: ./risorse/chiamiamo-le-cose-con-il-loro-nome_resized.png
 website:
   twitter-card:
     description: "Il fenomeno del sextortion consiste nella minaccia di condividere con terzi immagini sessuali della vittima, se quest’ultima non acconsente a fare ciò che le viene chiesto"
-    image: "./risorse/chiamiamo-le-cose-con-il-loro-nome_resized.png"
+    image: "risorse/chiamiamo-le-cose-con-il-loro-nome_resized.png"
   open-graph:
     description: "Il fenomeno del sextortion consiste nella minaccia di condividere con terzi immagini sessuali della vittima, se quest’ultima non acconsente a fare ciò che le viene chiesto"
-    image: "./risorse/chiamiamo-le-cose-con-il-loro-nome_resized.png"
+    image: "risorse/chiamiamo-le-cose-con-il-loro-nome_resized.png"
 ---
 
 {{< include ./include/_27.qmd >}}

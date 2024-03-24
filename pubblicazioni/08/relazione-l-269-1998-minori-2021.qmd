@@ -7,10 +7,10 @@ categories: [fisica, psicologica, sessuale]
 website:
   twitter-card:
     description: ""
-    image: "./risorse/relazione-l-269-1998-minori-2021_resized.png"
+    image: "risorse/relazione-l-269-1998-minori-2021_resized.png"
   open-graph:
     description: ""
-    image: "./risorse/relazione-l-269-1998-minori-2021_resized.png"
+    image: "risorse/relazione-l-269-1998-minori-2021_resized.png"
 ---
 
 {{< include ./include/_08.qmd >}}

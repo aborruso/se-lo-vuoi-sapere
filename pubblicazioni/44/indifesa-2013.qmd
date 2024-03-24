@@ -7,10 +7,10 @@ categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
     description: "La violenza contro le donne è profondamente radicata nella nostra società. Spesso, troppo spesso, essere vittima di abusi viene vissuto come una colpa o una vergogna"
-    image: "./risorse/indifesa-2013_resized.png"
+    image: "risorse/indifesa-2013_resized.png"
   open-graph:
     description: "La violenza contro le donne è profondamente radicata nella nostra società. Spesso, troppo spesso, essere vittima di abusi viene vissuto come una colpa o una vergogna"
-    image: "./risorse/indifesa-2013_resized.png"
+    image: "risorse/indifesa-2013_resized.png"
 ---
 
 {{< include ./include/_44.qmd >}}

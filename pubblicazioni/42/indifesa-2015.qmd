@@ -7,10 +7,10 @@ categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
     description: "i casi di \"maltrattamenti in famiglia o verso fanciulli\" sono aumentati da 751 a 1.479 nel periodo 2004-2014, confermando che l'ambiente familiare, teoricamente il luogo più sicuro per i minori , rappresenta un rischio significativo"
-    image: "./risorse/indifesa-2015_resized.png"
+    image: "risorse/indifesa-2015_resized.png"
   open-graph:
     description: "i casi di \"maltrattamenti in famiglia o verso fanciulli\" sono aumentati da 751 a 1.479 nel periodo 2004-2014, confermando che l'ambiente familiare, teoricamente il luogo più sicuro per i minori , rappresenta un rischio significativo"
-    image: "./risorse/indifesa-2015_resized.png"
+    image: "risorse/indifesa-2015_resized.png"
 ---
 
 {{< include ./include/_42.qmd >}}

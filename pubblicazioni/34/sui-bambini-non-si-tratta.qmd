@@ -7,10 +7,10 @@ categories: [caporalato, minori scomparsi, tratta esseri umani]
 website:
   twitter-card:
     description: "Dall’anno 2009, il 62% dei minori coinvolti è di sesso maschile, mentre il 38% è di sesso femminile"
-    image: "./risorse/sui-bambini-non-si-tratta_resized.png"
+    image: "risorse/sui-bambini-non-si-tratta_resized.png"
   open-graph:
     description: "Dall’anno 2009, il 62% dei minori coinvolti è di sesso maschile, mentre il 38% è di sesso femminile"
-    image: "./risorse/sui-bambini-non-si-tratta_resized.png"
+    image: "risorse/sui-bambini-non-si-tratta_resized.png"
 ---
 
 {{< include ./include/_34.qmd >}}

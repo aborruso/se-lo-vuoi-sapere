@@ -7,10 +7,10 @@ categories: [assistita, domestica, fisica, offline, online, psicologica, sessual
 website:
   twitter-card:
     description: "Per quanto concerne i presunti responsabili dei casi gestiti durante l’anno 2021, i dati mostrano come nel 49,5% dei casi siano coinvolti i genitori dei minori"
-    image: "./risorse/il-diritto-di-fidarsi_resized.png"
+    image: "risorse/il-diritto-di-fidarsi_resized.png"
   open-graph:
     description: "Per quanto concerne i presunti responsabili dei casi gestiti durante l’anno 2021, i dati mostrano come nel 49,5% dei casi siano coinvolti i genitori dei minori"
-    image: "./risorse/il-diritto-di-fidarsi_resized.png"
+    image: "risorse/il-diritto-di-fidarsi_resized.png"
 ---
 
 {{< include ./include/_24.qmd >}}

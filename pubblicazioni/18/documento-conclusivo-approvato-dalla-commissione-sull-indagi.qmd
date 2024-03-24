@@ -6,10 +6,10 @@ image: ./risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_re
 website:
   twitter-card:
     description: "Nel 2019, sono stati presi in carico dagli Uffici del servizio sociale per i minorenni un totale di 16.174 minori e giovani adulti"
-    image: "./risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png"
+    image: "risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png"
   open-graph:
     description: "Nel 2019, sono stati presi in carico dagli Uffici del servizio sociale per i minorenni un totale di 16.174 minori e giovani adulti"
-    image: "./risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png"
+    image: "risorse/documento-conclusivo-approvato-dalla-commissione-sull-indagi_resized.png"
 ---
 
 {{< include ./include/_18.qmd >}}

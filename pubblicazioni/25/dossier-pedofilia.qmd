@@ -7,10 +7,10 @@ categories: [domestica, esterna, fisica, offline, online, psicologica, sessuale]
 website:
   twitter-card:
     description: "Nel 2020, l’89% dei minori coinvolti nei casi di abuso sessuale offline è di cittadinanza italiana, mentre il 11% di cittadinanza straniera"
-    image: "./risorse/dossier-pedofilia_resized.png"
+    image: "risorse/dossier-pedofilia_resized.png"
   open-graph:
     description: "Nel 2020, l’89% dei minori coinvolti nei casi di abuso sessuale offline è di cittadinanza italiana, mentre il 11% di cittadinanza straniera"
-    image: "./risorse/dossier-pedofilia_resized.png"
+    image: "risorse/dossier-pedofilia_resized.png"
 ---
 
 {{< include ./include/_25.qmd >}}

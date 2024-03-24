@@ -7,10 +7,10 @@ categories: [fisica, maltrattamento, pornografia minorile, prostituzione, psicol
 website:
   twitter-card:
     description: "stimate in 500 mila in tutta l’Europa occidentale le donne schiave avviate alla prostituzione, in Italia sarebbero circa 50 mila, di cui un terzo minorenni. Sempre secondo tale istituto la prostituzione minorile registrerebbe un fatturato annuo tra i 7 e i 13 miliardi di dollari, un affare la cui redditività aumenta a un tasso del 40-50% l’anno, molto più velocemente del mercato della droga"
-    image: "./risorse/quaderni-del-centro-nazionale-di-documentazione-e-analisi-pe_resized.png"
+    image: "risorse/quaderni-del-centro-nazionale-di-documentazione-e-analisi-pe_resized.png"
   open-graph:
     description: "stimate in 500 mila in tutta l’Europa occidentale le donne schiave avviate alla prostituzione, in Italia sarebbero circa 50 mila, di cui un terzo minorenni. Sempre secondo tale istituto la prostituzione minorile registrerebbe un fatturato annuo tra i 7 e i 13 miliardi di dollari, un affare la cui redditività aumenta a un tasso del 40-50% l’anno, molto più velocemente del mercato della droga"
-    image: "./risorse/quaderni-del-centro-nazionale-di-documentazione-e-analisi-pe_resized.png"
+    image: "risorse/quaderni-del-centro-nazionale-di-documentazione-e-analisi-pe_resized.png"
 ---
 
 {{< include ./include/_13.qmd >}}

@@ -7,10 +7,10 @@ categories: [fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
     description: "“Secondo l'Istituto europeo per l'uguaglianza di genere (Eige), il numero di ragazze a rischio di mutilazioni genitali femminili in Europa oscilla tra le 53.000 e le 93.000, evidenziando l'urgenza di contrastare questa pratica dannosa e promuovere i diritti delle ragazze”"
-    image: "./risorse/indifesa-2023_resized.png"
+    image: "risorse/indifesa-2023_resized.png"
   open-graph:
     description: "“Secondo l'Istituto europeo per l'uguaglianza di genere (Eige), il numero di ragazze a rischio di mutilazioni genitali femminili in Europa oscilla tra le 53.000 e le 93.000, evidenziando l'urgenza di contrastare questa pratica dannosa e promuovere i diritti delle ragazze”"
-    image: "./risorse/indifesa-2023_resized.png"
+    image: "risorse/indifesa-2023_resized.png"
 ---
 
 {{< include ./include/_01.qmd >}}

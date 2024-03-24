@@ -7,10 +7,10 @@ categories: [abbandono, assistita, di gruppo, fisica, maltrattamento, psicologic
 website:
   twitter-card:
     description: "In sostanza, gli autori sono uomini in quasi 9 casi su 10, mentre in quasi i due terzi dei casi (62%) gli autori sono adulti di “mezza età”, compresi nelle fasce anagrafiche che vanno dai 35 ai 64 anni. Limitata a poco più di un quarto (29%) l’incidenza degli stranieri."
-    image: "./risorse/minorenni-vittime-di-abusi-2022_resized.png"
+    image: "risorse/minorenni-vittime-di-abusi-2022_resized.png"
   open-graph:
     description: "In sostanza, gli autori sono uomini in quasi 9 casi su 10, mentre in quasi i due terzi dei casi (62%) gli autori sono adulti di “mezza età”, compresi nelle fasce anagrafiche che vanno dai 35 ai 64 anni. Limitata a poco più di un quarto (29%) l’incidenza degli stranieri."
-    image: "./risorse/minorenni-vittime-di-abusi-2022_resized.png"
+    image: "risorse/minorenni-vittime-di-abusi-2022_resized.png"
 ---
 
 {{< include ./include/_16.qmd >}}

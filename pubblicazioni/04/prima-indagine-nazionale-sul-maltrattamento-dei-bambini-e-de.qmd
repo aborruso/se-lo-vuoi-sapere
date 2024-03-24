@@ -7,10 +7,10 @@ categories: [domestica, fisica, negligenza, psicologica, sessuale, sfruttamento]
 website:
   twitter-card:
     description: "la metà dei bambini maltrattati subisce una grave forma di trascuratezza, e la violenza assistita è la seconda forma di violenza più diffusa, con circa 1 bambino su 5 fra quelli maltrattati testimone di violenza domestica"
-    image: "./risorse/prima-indagine-nazionale-sul-maltrattamento-dei-bambini-e-de_resized.png"
+    image: "risorse/prima-indagine-nazionale-sul-maltrattamento-dei-bambini-e-de_resized.png"
   open-graph:
     description: "la metà dei bambini maltrattati subisce una grave forma di trascuratezza, e la violenza assistita è la seconda forma di violenza più diffusa, con circa 1 bambino su 5 fra quelli maltrattati testimone di violenza domestica"
-    image: "./risorse/prima-indagine-nazionale-sul-maltrattamento-dei-bambini-e-de_resized.png"
+    image: "risorse/prima-indagine-nazionale-sul-maltrattamento-dei-bambini-e-de_resized.png"
 ---
 
 {{< include ./include/_04.qmd >}}

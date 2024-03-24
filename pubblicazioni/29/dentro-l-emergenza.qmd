@@ -7,10 +7,10 @@ categories: [bullismo, domestica, offline, online, pedofilia, pedopornografia, s
 website:
   twitter-card:
     description: "Il 35,4% degli adolescenti transgender ha riferito di essere vittima di cyberbullismo"
-    image: "./risorse/dentro-l-emergenza_resized.png"
+    image: "risorse/dentro-l-emergenza_resized.png"
   open-graph:
     description: "Il 35,4% degli adolescenti transgender ha riferito di essere vittima di cyberbullismo"
-    image: "./risorse/dentro-l-emergenza_resized.png"
+    image: "risorse/dentro-l-emergenza_resized.png"
 ---
 
 {{< include ./include/_29.qmd >}}
