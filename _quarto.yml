@@ -10,6 +10,7 @@ project:
 
 website:
   title: "Se lo vuoi sapere"
+  site-url: https://selovuoisapere.it
   favicon: immagini/favico.png
   navbar:
     left:
@@ -44,4 +45,4 @@ format:
     code-copy: true
     code-overflow: wrap
     link-external-newwindow: true
-    link-external-filter: '^.*\.github\.io\/'
+    link-external-filter: '^.*\.selovuoisapere\.it\/'
