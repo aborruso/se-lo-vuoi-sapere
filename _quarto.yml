@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-  resources: "immagini/grid-ph.jpg"
+  resources:
+  - "immagini/grid-ph.jpg"
+  - "CNAME"
   render:
   - "*.qmd"
   - "!note.md"
