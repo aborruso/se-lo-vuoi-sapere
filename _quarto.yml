@@ -24,6 +24,15 @@ website:
         text: Chi sono
       - about.qmd
 
+  twitter-card:
+    card-style: summary_large_image
+    image: "/immagini/logo.png"
+    description: "Una raccolta di pubblicazioni creata con l'obiettivo di sensibilizzare in modo ampio sul tema delle violenze e dei maltrattamenti sui minori. Perché i dati disponibili non sono sempre di facile accesso."
+  open-graph:
+    locale: it_IT
+    image: "/immagini/logo.png"
+    description: "Una raccolta di pubblicazioni creata con l'obiettivo di sensibilizzare in modo ampio sul tema delle violenze e dei maltrattamenti sui minori. Perché i dati disponibili non sono sempre di facile accesso."
+
   page-footer:
     border: false
     background: light
