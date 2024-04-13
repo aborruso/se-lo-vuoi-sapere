@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-About this site
+Nel periodo pandemico Francesca Svanera comincia a fare ricerche per la stesura del suo libro “Rimase solo polvere” e si rende subito conto che **riuscire a reperire i dati** sui maltrattamenti ed abusi dei minori **non era semplice**, bisognava conoscere le associazioni che avevano effettuato i Report e cercarle minuziosamente nel Web.
+Questo perché ad oggi in Italia non esiste un sistema di monitoraggio nazionale.
+
+Per riuscire a trovare i Dossier presenti su questo sito ha dovuto coinvolgere Laura Monticelli presidente dell’[associazione **Meti**](https://www.assometi.org), Francesca Imbimbo coordinatrice del [centro **Tiama**](https://www.centrotiama.it/) e membro del consiglio direttivo [**CISMAI**](https://cismai.it/), la giornalista [**Elisa Belotti**](https://www.instagram.com/_elisabelotti/) ed Andrea Borruso presidente di [**OnData**](https://www.ondata.it/). Questo team per mesi ha lavorato capendo l’importanza di rendere il più fruibile possibile i dati delle violenze sulle persone piccole, pensando di  facilitare la ricerca e soprattutto la conoscenza verso questa tematica.

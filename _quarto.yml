@@ -18,17 +18,15 @@ website:
         text: Home
       - href: pubblicazioni/index.qmd
         text: Pubblicazioni
+      - href: chi_sono.qmd
+        text: Chi sono
       - about.qmd
 
   page-footer:
     border: false
     background: light
-    left: |
-      Lorem ipsum
-    right: |
-      Hello
     center: |
-      I'm in the middle
+      [Francesca Svanera](https://www.instagram.com/francesca_svanera/)
 
 format:
   html:

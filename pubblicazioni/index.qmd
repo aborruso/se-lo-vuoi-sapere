@@ -13,6 +13,10 @@ language:
   listing-page-category-all: "Tutte le pubblicazioni"
 ---
 
-Esse fugiat ad proident laborum veniam. Velit aliqua mollit dolore elit pariatur officia duis voluptate. Sit elit est labore tempor minim do ipsum elit nostrud Lorem. Duis velit anim pariatur ex in commodo eiusmod non. Dolor labore sunt dolor laborum ea sint dolore in dolore officia mollit non cillum.
+Qui di seguito **potete trovare** i Dossier, report eseguiti da vari enti e relazioni ministeriali dal 2010 ad oggi. Queste Pubblicazioni danno la visuale del panorama storico ed odierno sui numeri Nazionali, Europei e mondiali sui maltrattamenti ed abusi su minori.<br>
+Tutte le **Pubblicazioni sono catalogate** per violenza, piccolo indice dei contenuti, un dato significativo e una descrizione sommaria che vi potranno aiutare ad orientarvi nella scelta dei Pdf.
 
+::: {.callout-note}
+Se vuoi **suggerirmi** una **pubblicazione** da aggiungere, [**contattami**](../chi_sono.qmd#contattami).
+:::
 
