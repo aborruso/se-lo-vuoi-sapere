@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
   - "immagini/grid-ph.jpg"
+  - "risorse/save_the_children_report-2023.pdf"
   - "CNAME"
   render:
   - "*.qmd"
