@@ -1,5 +1,8 @@
 ---
 title: Chi sono
+format:
+  html:
+    toc: false
 ---
 
 [![](immagini/francesca_svanera.jpg)](https://www.instagram.com/francesca_svanera/)
@@ -20,4 +23,4 @@ Se vuoi **contattarmi** la mia **e-mail** è [svanerafrancesca@gmail.com](mailto
 
 Ho scritto un libro con un peso specifico “[rimase solo polvere](https://www.amazon.it/Rimase-solo-polvere-Francesca-Svanera/dp/B09SNRWHX9)” dove utilizzo parti della mia storia di pedopornografia e prostituzione infantile per spiegare i meccanismi del trauma che permane nei *survirvor*.
 
-[![](immagini/rimase_solo_polvere.jpg)](https://www.amazon.it/Rimase-solo-polvere-Francesca-Svanera/dp/B09SNRWHX9)
+[![](immagini/rimase_solo_polvere.jpg){width=50% fig-align="center"}](https://www.amazon.it/Rimase-solo-polvere-Francesca-Svanera/dp/B09SNRWHX9)
