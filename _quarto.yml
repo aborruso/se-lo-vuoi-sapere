@@ -14,6 +14,7 @@ website:
   site-url: https://selovuoisapere.it
   favicon: immagini/favico.png
   navbar:
+    logo: immagini/logo_h.png
     left:
       - href: index.qmd
         text: Home
