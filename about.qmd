@@ -11,7 +11,7 @@ Per riuscire a trovare i Dossier presenti su questo sito ha dovuto coinvolgere L
 ::: {.grid}
 
 ::: {.g-col-6 .g-col-md-4}
-[![](immagini/loghi/meti.jpg)]((https://www.assometi.org))
+[![](immagini/loghi/meti.jpg)](https://www.assometi.org)
 :::
 
 ::: {.g-col-6 .g-col-md-4}
