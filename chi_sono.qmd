@@ -5,7 +5,7 @@ format:
     toc: false
 ---
 
-[![](immagini/francesca_svanera.jpg)](https://www.instagram.com/francesca_svanera/)
+[![](immagini/francesca_svanera.jpg){width=100% fig-align="center"}](https://www.instagram.com/francesca_svanera/)
 
 Mi chiamo **Francesca Svanera**, sono una divulgatrice e scrittrice nel campo della prevenzione e dell'informazione sul tema degli abusi nell'infanzia.
 

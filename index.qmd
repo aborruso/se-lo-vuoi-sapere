@@ -19,4 +19,4 @@ Allo stesso tempo, auspichiamo la partecipazione di genitori, insegnanti, educat
 
 Attraverso la **condivisione** di **informazioni** e la **consapevolezza**, possiamo tutti contribuire a **prevenire** e **contrastare** questi **abusi**, sia *online* che *offline*.
 
-[![](immagini/logo.png)](pubblicazioni/)
+[![](immagini/logo.png){width=60% fig-align="center"}](pubblicazioni/)
