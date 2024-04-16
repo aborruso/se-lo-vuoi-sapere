@@ -11,15 +11,15 @@ Per riuscire a trovare i Dossier presenti su questo sito ha dovuto coinvolgere L
 ::: {.grid}
 
 ::: {.g-col-6 .g-col-md-4}
-[![](immagini/loghi/meti.jpg)](https://www.assometi.org)
+[![](immagini/loghi/meti.jpg){fig-alt="Logo Associazione Meti"}](https://www.assometi.org)
 :::
 
 ::: {.g-col-6 .g-col-md-4}
-[![](immagini/loghi/ti_ama.png)](https://www.centrotiama.it/)
+[![](immagini/loghi/ti_ama.png){fig-alt="Logo centro Tiama"}](https://www.centrotiama.it/)
 :::
 
 ::: {.g-col-6 .g-col-md-4}
-[![](immagini/loghi/onData.png)](https://ondata.it/)
+[![](immagini/loghi/onData.png){fig-alt="Logo Associazione onData"}](https://ondata.it/)
 :::
 
 :::
